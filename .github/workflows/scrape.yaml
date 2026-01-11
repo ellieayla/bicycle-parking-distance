@@ -34,9 +34,22 @@ jobs:
         make clean
         make download
 
-    - name: Build geojson of distances
+    - name: Build geojson of distances from shops to bicycle parking
       run: |
         uv run main.py --amenities downloads/shops.json --parking ./downloads/bicycle-parking.json --output distance_from_shops_to_nearest_bicycle_parking.geojson
+
+    - name: Build geojson of distances from buildings to bicycle parking
+      run: |
+        uv run main.py --amenities downloads/buildings.json --parking ./downloads/bicycle-parking.json --output distance_from_buildings_to_nearest_bicycle_parking.geojson
+
+    - name: Build geojson of distances from shops to automobile parking
+      run: |
+        uv run main.py --amenities downloads/shops.json --parking ./downloads/car-parking.json --output distance_from_shops_to_nearest_car-parking.geojson
+
+    - name: Build geojson of distances from buildings to automobile parking
+      run: |
+        uv run main.py --amenities downloads/buildings.json --parking ./downloads/car-parking.json --output distance_from_buildings_to_nearest_car-parking.geojson
+
 
     - name: Commit and push if it changed
       uses: stefanzweifel/git-auto-commit-action@v5
