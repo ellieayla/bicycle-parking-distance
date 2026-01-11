@@ -81,9 +81,11 @@ def create_feature_about_subject(node_of_interest: dict, distance: Distance, clo
     properties['id'] = node_of_interest['id']
     properties['type'] = node_of_interest['type']
 
-    properties["_distance_km"] = distance.km
-    properties["_under_one_minute"] = distance.km < 0.080 # 1 minute == 80 metres
-    properties["_under_two_minute"] = distance.km < (2 * 0.080) # 2 minute == 160 metres
+    properties["_distance_meters"] = distance.m
+
+    # helper numeric flags for maplibre styles
+    properties["_under_one_minute"] = 1 if distance.m < 80 else 0  # 1 minute == 80 metres
+    properties["_under_two_minute"] = 1 if distance.m < 160 else 0  # 2 minute == 160 metres
     
     properties['_closest'] = {
         "id": closest_item['id'],
