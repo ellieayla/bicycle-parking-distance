@@ -102,7 +102,7 @@ def main():
     p = ArgumentParser(description="For each element in $amenities, find the closest $parking")
     p.add_argument("--amenities", type=Path, metavar="shops.json", required=True)
     p.add_argument("--parking", type=Path, metavar="bicycle-parking.json", required=True)
-    p.add_argument("--output", type=Path, metavar="output.geojson", default=sys.stdout)
+    p.add_argument("--output", type=Path, metavar="output.geojson", required=True)
     
     a: Namespace = p.parse_args()
 
@@ -112,6 +112,7 @@ def main():
     if len(bicycle_parking) == 0:
         p.error("Parking list is empty, impossible to find closest.")
 
+    print(f"Finding distance from {len(amenities)} features to nearest of {len(bicycle_parking)} parking locations ({len(amenities) * len(bicycle_parking)} deltas)")
     with Bar(max=len(amenities)) as progress_bar:
         output_features = []
         for input_feature in amenities:
@@ -122,12 +123,10 @@ def main():
         
         output_collection = FeatureCollection(output_features)
 
-    if a.output is sys.stdout:
-        json.dumps(output_collection, indent=2)
-    else:
-        with open(a.output, 'w') as f:
-            json.dump(output_collection, f, indent=2)
+    with open(a.output, 'w') as f:
+        json.dump(output_collection, f, indent=2)
 
+    print(f"Wrote {len(output_features)} features")
 
 if __name__ == "__main__":
     main()
