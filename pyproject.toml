@@ -6,11 +6,23 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "geojson>=3.2.0",
-    "geopy>=2.4.1",
-    "progress>=1.6.1",
+    "numpy>=2.4.1",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.8.0",
 ]
 
 [dependency-groups]
 dev = [
     "pytest>=9.0.2",
 ]
+
+# uv tool run pytest-watcher -sv .
+[tool.pytest-watcher]
+now = true
+clear = true
+notify_on_failure = false
+delay = 0.2
+runner = "uv"
+runner_args = ["run", "pytest"]
+patterns = ["*.py"]
+ignore_patterns = []
