@@ -68,15 +68,14 @@ def create_feature_about_subject(node_of_interest: dict, distance: Distance, clo
     properties: dict = node_of_interest['tags'].copy()
     properties['id'] = node_of_interest['id']
     properties['type'] = node_of_interest['type']
-    
+
+    properties["_distance_km"] = distance.km,
+    properties["_under_one_minute"] = distance.km < 0.080, # 1 minute == 80 metres
+    properties["_under_two_minute"] = distance.km < (2 * 0.080), # 2 minute == 160 metres
     
     properties['_closest'] = {
         "id": closest_item['id'],
         "type": closest_item['type'],
-        "distance_km": distance.km,
-        "under_one_minute": distance.km < 0.080, # 1 minute == 80 metres
-        "under_two_minute": distance.km < (2 * 0.080), # 2 minute == 160 metres
-        # note that the worst-case walk across the Mapleview Mall parking lot is about 100 meters
     }
 
     return Feature(
