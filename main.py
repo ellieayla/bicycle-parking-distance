@@ -28,24 +28,36 @@ def get_lat_lon_from_osm_nwr(nwr: dict) -> Tuple[float, float]:
 
 def find_closest_in_collection(node_of_interest, collection_of_nodes: List[dict]) -> Tuple[dict[str, Any], Distance]:
     closest_from_collection: Optional[dict[str, Any]] = None
-    closest_distance: Optional[Distance] = None
+    approximate_closest_distance_squared: Optional[float] = None
 
-    node_of_interest_lat_lon = get_lat_lon_from_osm_nwr(node_of_interest)
+    node_of_interest_lat, node_of_interest_lon = get_lat_lon_from_osm_nwr(node_of_interest)
 
     for n in collection_of_nodes:
 
         # inputs to geodesic are (lat, long) tuples
-        possible_closest_lat_lon = get_lat_lon_from_osm_nwr(n)
+        possible_closest_lat, possible_closest_lon = get_lat_lon_from_osm_nwr(n)
         
-        distance = geodesic(node_of_interest_lat_lon, possible_closest_lat_lon )
+        # https://en.wikibooks.org/wiki/Algorithms/Distance_approximations
+        # use a very crude approximation of distance,
+        # assuming the earth is a _flat plane_.
+        # this is close enough 
+        # don't actually compute the square root of approximate_distance_squared
+        # sqrt is strictly monotonic & increasing, just compare the inputs to determine which is larger
+        approximate_distance_squared = (
+            (node_of_interest_lat - possible_closest_lat)**2
+            +
+            (node_of_interest_lon - possible_closest_lon)**2
+        )
 
-        if closest_distance is None or closest_distance > distance:
-            closest_distance = distance
+        if approximate_closest_distance_squared is None or approximate_closest_distance_squared > approximate_distance_squared:
+            approximate_closest_distance_squared = approximate_distance_squared
             closest_from_collection = n
 
-    if closest_distance is None or closest_from_collection is None:
+    if closest_from_collection is None:
         raise ValueError("Unable to find any distance to item in source collection.")
 
+    # only compute once, for final object
+    closest_distance = geodesic(get_lat_lon_from_osm_nwr(node_of_interest), get_lat_lon_from_osm_nwr(closest_from_collection) )
     return (closest_from_collection, closest_distance)
 
 
@@ -69,9 +81,9 @@ def create_feature_about_subject(node_of_interest: dict, distance: Distance, clo
     properties['id'] = node_of_interest['id']
     properties['type'] = node_of_interest['type']
 
-    properties["_distance_km"] = distance.km,
-    properties["_under_one_minute"] = distance.km < 0.080, # 1 minute == 80 metres
-    properties["_under_two_minute"] = distance.km < (2 * 0.080), # 2 minute == 160 metres
+    properties["_distance_km"] = distance.km
+    properties["_under_one_minute"] = distance.km < 0.080 # 1 minute == 80 metres
+    properties["_under_two_minute"] = distance.km < (2 * 0.080) # 2 minute == 160 metres
     
     properties['_closest'] = {
         "id": closest_item['id'],
