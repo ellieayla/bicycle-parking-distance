@@ -115,6 +115,8 @@ def df_to_geojson(df: pd.DataFrame, lat='lat', lon='lon') -> FeatureCollection:
                 "type": row["type"],
                 "_id_closest": row["id_closest"],
                 "_type_closest": row["type_closest"],
+                "_lat_closest": row["lat_closest"],
+                "_lon_closest": row["lon_closest"],
                 "_distance_meters": row["distance_meters"],
                 "_under_one_minute": 1 if row["distance_meters"] < 80 else 0, # 1 minute == 80 metres
                 "_under_two_minute": 1 if row["distance_meters"] < 160 else 0,  # 2 minute == 160 metres
