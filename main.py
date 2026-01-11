@@ -59,13 +59,6 @@ def load_elements_from_json_file(filename: str) -> List:
         return elements
 
 
-def get_lat_lon_from_osm_nwr(nwr: dict) -> Tuple[float, float]:
-    try:
-        return nwr['lat'], nwr['lon']
-    except KeyError:
-        return nwr['center']['lat'], nwr['center']['lon']
-
-
 def find_closest_in_collection(query_df: pd.DataFrame, bicycle_parking_for_tree: pd.DataFrame) -> pd.DataFrame:
 
     # Ball Tree is a specialized version of a K-D tree that works in radians.
