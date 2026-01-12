@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 
 
-from geojson import Feature, Point, FeatureCollection
+from geojson import Feature, Point, FeatureCollection, LineString
 import pandas as pd
 import numpy as np
 from sklearn.neighbors import BallTree
@@ -128,6 +128,32 @@ def df_to_geojson(df: pd.DataFrame, lat='lat', lon='lon') -> FeatureCollection:
     return FeatureCollection(features=features)
 
 
+def df_to_geojson_with_catchment_lines(df: pd.DataFrame, lat='lat', lon='lon') -> FeatureCollection:
+    features = df.apply(
+        # this lambda function accepts a row from the dataframe,
+        # and produces a Feature.
+        lambda row: Feature(
+            # geojson coordinates are reversed (lon/lat) compared to everything else here (lat/lon)
+            geometry=LineString([(row[lon], row[lat]), (row["lon_closest"], row["lat_closest"])]),
+            properties=dict(row['tags'], **{
+                "id": row["id"],
+                "type": row["type"],
+                "_id_closest": row["id_closest"],
+                "_type_closest": row["type_closest"],
+                "_lat_closest": row["lat_closest"],
+                "_lon_closest": row["lon_closest"],
+                "_distance_meters": row["distance_meters"],
+                "_under_one_minute": 1 if row["distance_meters"] < 80 else 0, # 1 minute == 80 metres
+                "_under_two_minute": 1 if row["distance_meters"] < 160 else 0,  # 2 minute == 160 metres
+                })
+        ),
+        axis=1,
+    ).to_list()
+    
+    return FeatureCollection(features=features)
+
+
+
 def main():
     from argparse import ArgumentParser, Namespace, FileType
 
@@ -135,6 +161,7 @@ def main():
     p.add_argument("--amenities", type=Path, metavar="shops.json", required=True)
     p.add_argument("--parking", type=Path, metavar="bicycle-parking.json", required=True)
     p.add_argument("--output", type=Path, metavar="output.geojson", required=True)
+    p.add_argument("--catchment-lines", action="store_true")
     
     a: Namespace = p.parse_args()
 
@@ -148,7 +175,10 @@ def main():
 
     results_df = find_closest_in_collection(amenities_df, search_space_for_tree_df)
     
-    output_collection = df_to_geojson(results_df)
+    if a.catchment_lines:
+        output_collection = df_to_geojson_with_catchment_lines(results_df)
+    else:
+        output_collection = df_to_geojson(results_df)
     
     with open(a.output, 'w') as f:
         json.dump(output_collection, f, indent=2)
