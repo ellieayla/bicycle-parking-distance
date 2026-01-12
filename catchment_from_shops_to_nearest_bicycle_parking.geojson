@@ -190,8 +190,8 @@
             43.33124
           ],
           [
-            -79.813402,
-            43.335818
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -201,13 +201,13 @@
         "name": "Burlington Fire Department Station 1 Headquarters",
         "id": 258022668,
         "type": "node",
-        "_id_closest": 11186916218,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.3358178,
-        "_lon_closest": -79.8134018,
-        "_distance_meters": 643.9660700012489,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 21.579965262115298,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -2773,8 +2773,8 @@
             43.331426
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820537,
+            43.330073
           ]
         ]
       },
@@ -2792,11 +2792,11 @@
         "website": "https://www.esso.ca/en-ca/find-station/esso-burlington-on-esso-200303936",
         "id": 319438298,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287439,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 745.7675500739293,
+        "_lat_closest": 43.3300732,
+        "_lon_closest": -79.8205367,
+        "_distance_meters": 213.77141708162839,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -3176,8 +3176,8 @@
             43.321285
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -3190,11 +3190,11 @@
         "name": "TD Canada Trust",
         "id": 419363321,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1081.7563431109259,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 503.2233700354366,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -3209,8 +3209,8 @@
             43.321461
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -3225,11 +3225,11 @@
         "wheelchair": "yes",
         "id": 419363324,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1154.4799670613916,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 436.9785400179041,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -3244,8 +3244,8 @@
             43.321756
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -3260,11 +3260,11 @@
         "wheelchair": "no",
         "id": 419363330,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1130.7121025228432,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 466.41229969943805,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -3311,8 +3311,8 @@
             43.329476
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -3322,13 +3322,13 @@
         "shop": "car_repair",
         "id": 419363359,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 514.2528955530223,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 88.69473672625192,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -3341,8 +3341,8 @@
             43.329708
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -3358,13 +3358,13 @@
         "old_name": "Sunoco",
         "id": 419363366,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 532.2145795999265,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 52.634311109097055,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -3412,8 +3412,8 @@
             43.330213
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -3422,13 +3422,13 @@
         "public_transport": "stop_position",
         "id": 419363376,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 607.4351416548066,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 106.59113481572852,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -9742,8 +9742,8 @@
             43.330897
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820537,
+            43.330073
           ]
         ]
       },
@@ -9759,13 +9759,13 @@
         "website": "https://www.thebeerstore.ca/locations/maple-mews",
         "id": 1620984790,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287439,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 664.5266906921032,
+        "_lat_closest": 43.3300732,
+        "_lon_closest": -79.8205367,
+        "_distance_meters": 102.4172568968966,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -9778,8 +9778,8 @@
             43.330749
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -9792,13 +9792,13 @@
         "shop": "alcohol",
         "id": 1620984796,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 654.4515844347571,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 91.41406565153649,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -10950,8 +10950,8 @@
             43.331698
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820537,
+            43.330073
           ]
         ]
       },
@@ -10961,11 +10961,11 @@
         "name": "Coin-Op Car Wash",
         "id": 1668169929,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287439,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 770.1470997924278,
+        "_lat_closest": 43.3300732,
+        "_lon_closest": -79.8205367,
+        "_distance_meters": 222.3278008194929,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -14743,8 +14743,8 @@
             43.320793
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -14756,11 +14756,11 @@
         "name": "Husky",
         "id": 2089188501,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1241.253934815177,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 344.319448149778,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -14775,8 +14775,8 @@
             43.321982
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -14788,11 +14788,11 @@
         "name": "Shell",
         "id": 2089474267,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 999.7169834519113,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 590.3712606220556,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -24386,8 +24386,8 @@
             43.330786
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820537,
+            43.330073
           ]
         ]
       },
@@ -24405,13 +24405,13 @@
         "phone": "+1-905-633-6868",
         "id": 3364104011,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287439,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 652.1804410164747,
+        "_lat_closest": 43.3300732,
+        "_lon_closest": -79.8205367,
+        "_distance_meters": 90.22201265092605,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -24424,8 +24424,8 @@
             43.331151
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -24437,13 +24437,13 @@
         "shop": "variety_store",
         "id": 3364109893,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 694.1170183631249,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 126.3480056237376,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -24456,8 +24456,8 @@
             43.33104
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820537,
+            43.330073
           ]
         ]
       },
@@ -24467,13 +24467,13 @@
         "shop": "pawnbroker",
         "id": 3364109894,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287439,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 681.2292935471459,
+        "_lat_closest": 43.3300732,
+        "_lon_closest": -79.8205367,
+        "_distance_meters": 126.38545366774164,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -24830,8 +24830,8 @@
             43.329165
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -24848,13 +24848,13 @@
         "shelter": "yes",
         "id": 3372191761,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 477.7486014953161,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 109.93823612114402,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -30700,8 +30700,8 @@
             43.329951
           ],
           [
-            -79.803332,
-            43.329678
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -30716,11 +30716,11 @@
         "shelter": "yes",
         "id": 3641227649,
         "type": "node",
-        "_id_closest": 12068348589,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3296777,
-        "_lon_closest": -79.803332,
-        "_distance_meters": 79.04084617196992,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 12.197288224410745,
         "_under_one_minute": 1,
         "_under_two_minute": 1
       }
@@ -30947,8 +30947,8 @@
             43.330027
           ],
           [
-            -79.803332,
-            43.329678
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -30957,11 +30957,11 @@
         "sidewalk_orientation": "away",
         "id": 3641604685,
         "type": "node",
-        "_id_closest": 12068348589,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3296777,
-        "_lon_closest": -79.803332,
-        "_distance_meters": 62.0551171545393,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 38.06486341892979,
         "_under_one_minute": 1,
         "_under_two_minute": 1
       }
@@ -31624,8 +31624,8 @@
             43.327953
           ],
           [
-            -79.803332,
-            43.329678
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -31634,11 +31634,11 @@
         "backrest": "yes",
         "id": 3732389035,
         "type": "node",
-        "_id_closest": 12068348589,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3296777,
-        "_lon_closest": -79.803332,
-        "_distance_meters": 375.52757694598085,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 324.3514225012603,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -31653,8 +31653,8 @@
             43.327976
           ],
           [
-            -79.803332,
-            43.329678
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -31663,11 +31663,11 @@
         "backrest": "yes",
         "id": 3732389036,
         "type": "node",
-        "_id_closest": 12068348589,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3296777,
-        "_lon_closest": -79.803332,
-        "_distance_meters": 371.7056735197819,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 320.49365033280975,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -36959,8 +36959,8 @@
             43.32073
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -36970,11 +36970,11 @@
         "shop": "car",
         "id": 4044978955,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1290.7868199087488,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 296.4389356387694,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -36989,8 +36989,8 @@
             43.323227
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -37002,11 +37002,11 @@
         "shop": "money_lender",
         "id": 4044978958,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 947.5418139171385,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 680.9012091274097,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -37021,8 +37021,8 @@
             43.320487
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -37033,11 +37033,11 @@
         "shop": "tyres",
         "id": 4044978959,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1307.727451438211,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 277.31765479464264,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -37052,8 +37052,8 @@
             43.322933
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -37064,11 +37064,11 @@
         "takeaway": "yes",
         "id": 4044978961,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 992.4346674978933,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 630.1541026910827,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -37083,8 +37083,8 @@
             43.322653
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -37095,11 +37095,11 @@
         "wheelchair": "limited",
         "id": 4044978962,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1009.4998743640778,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 603.2754410440988,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -37114,8 +37114,8 @@
             43.323302
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -37129,11 +37129,11 @@
         "takeaway": "yes",
         "id": 4044978963,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 937.7051004553415,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 692.6678953039911,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -37226,8 +37226,8 @@
             43.320741
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -37246,11 +37246,11 @@
         "shelter": "yes",
         "id": 4044985456,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1237.813660866261,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 347.2391876224318,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -37913,8 +37913,8 @@
             43.333766
           ],
           [
-            -79.856111,
-            43.31352
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -37926,11 +37926,11 @@
         "operator:wikidata": "Q1032001",
         "id": 4294765152,
         "type": "node",
-        "_id_closest": 4988550185,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.3135199,
-        "_lon_closest": -79.8561108,
-        "_distance_meters": 2252.3417963761913,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 2201.0895406428904,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -38250,8 +38250,8 @@
             43.334241
           ],
           [
-            -79.826581,
-            43.341082
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -38260,11 +38260,11 @@
         "backrest": "yes",
         "id": 4360799099,
         "type": "node",
-        "_id_closest": 12557252938,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.3410822,
-        "_lon_closest": -79.8265813,
-        "_distance_meters": 761.9988977466667,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 707.033607699298,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -38279,8 +38279,8 @@
             43.334243
           ],
           [
-            -79.826581,
-            43.341082
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -38289,11 +38289,11 @@
         "backrest": "yes",
         "id": 4360799100,
         "type": "node",
-        "_id_closest": 12557252938,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.3410822,
-        "_lon_closest": -79.8265813,
-        "_distance_meters": 761.9572539389724,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 708.700173807476,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -38752,8 +38752,8 @@
             43.307343
           ],
           [
-            -79.85269,
-            43.303672
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -38762,11 +38762,11 @@
         "backrest": "yes",
         "id": 4428367082,
         "type": "node",
-        "_id_closest": 11917978991,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.3036716,
-        "_lon_closest": -79.8526903,
-        "_distance_meters": 1740.9039970967465,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 1440.6859179032683,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -38781,8 +38781,8 @@
             43.307359
           ],
           [
-            -79.85269,
-            43.303672
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -38791,11 +38791,11 @@
         "backrest": "yes",
         "id": 4428367083,
         "type": "node",
-        "_id_closest": 11917978991,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.3036716,
-        "_lon_closest": -79.8526903,
-        "_distance_meters": 1766.3402325878876,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 1448.5021913794255,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -39059,8 +39059,8 @@
             43.331117
           ],
           [
-            -79.826581,
-            43.341082
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -39075,11 +39075,11 @@
         "shelter": "no",
         "id": 4458677612,
         "type": "node",
-        "_id_closest": 12557252938,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.3410822,
-        "_lon_closest": -79.8265813,
-        "_distance_meters": 1610.8298796567196,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 1320.6709057671887,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -40497,8 +40497,8 @@
             43.315886
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -40516,11 +40516,11 @@
         "website": "https://www.spavaidosa.com/",
         "id": 4683381458,
         "type": "node",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1097.8824515859649,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 426.6414510966202,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -41889,8 +41889,8 @@
             43.328704
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -41907,11 +41907,11 @@
         "source": "Mapillary",
         "id": 6419880283,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 433.329376582368,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 168.61145193802108,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -56465,8 +56465,8 @@
             43.332211
           ],
           [
-            -79.818518,
-            43.338563
+            -79.820537,
+            43.330073
           ]
         ]
       },
@@ -56483,11 +56483,11 @@
         "social_facility": "food_bank",
         "id": 7483312977,
         "type": "node",
-        "_id_closest": 11730967294,
+        "_id_closest": 13449287439,
         "_type_closest": "node",
-        "_lat_closest": 43.3385625,
-        "_lon_closest": -79.818518,
-        "_distance_meters": 752.3449699719341,
+        "_lat_closest": 43.3300732,
+        "_lon_closest": -79.8205367,
+        "_distance_meters": 256.48108764892686,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -56749,8 +56749,8 @@
             43.317951
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -56762,11 +56762,11 @@
         "shop": "variety_store",
         "id": 7768538712,
         "type": "node",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1425.5857495766886,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 192.29232005071907,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -56781,8 +56781,8 @@
             43.31928
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -56803,13 +56803,13 @@
         "operator:wikipedia": "en:Canada Post",
         "id": 7768538713,
         "type": "node",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1480.4972664535858,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 97.68100273886154,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -56822,8 +56822,8 @@
             43.318936
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -56832,11 +56832,11 @@
         "shop": "optician",
         "id": 7768538714,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1428.7076282547403,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 204.6103685214301,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -56851,8 +56851,8 @@
             43.319076
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -56861,11 +56861,11 @@
         "shop": "health_food",
         "id": 7768538716,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1410.0037020202321,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 213.86542893542966,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -56880,8 +56880,8 @@
             43.319366
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -56895,11 +56895,11 @@
         "takeaway": "yes",
         "id": 7768538717,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1365.892667860179,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 243.5806982141281,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -56914,8 +56914,8 @@
             43.319324
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -56923,11 +56923,11 @@
         "shop": "hairdresser",
         "id": 7768538718,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1372.392710924013,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 238.80315406651638,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -56942,8 +56942,8 @@
             43.319279
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -56953,11 +56953,11 @@
         "shop": "beauty",
         "id": 7768538719,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1378.9455215269563,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 234.2402572464126,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -56972,8 +56972,8 @@
             43.319232
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -56982,11 +56982,11 @@
         "shop": "books",
         "id": 7768538720,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1385.2841457289746,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 230.22518398374373,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57001,8 +57001,8 @@
             43.31915
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57010,11 +57010,11 @@
         "shop": "beauty",
         "id": 7768538722,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1397.9881650467007,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 221.73468171552972,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57029,8 +57029,8 @@
             43.319125
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57038,11 +57038,11 @@
         "shop": "massage",
         "id": 7768538723,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1402.3767235896794,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 218.6593153339238,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57057,8 +57057,8 @@
             43.320051
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57069,11 +57069,11 @@
         "operator:type": "public",
         "id": 7770159411,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1277.819273490508,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 312.3741441391677,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57088,8 +57088,8 @@
             43.320495
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57111,11 +57111,11 @@
         "website": "https://www.trekbikes.com/ca/en_CA/retail/burlington/",
         "id": 7770159412,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1213.979892848838,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 371.8309760573591,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57130,8 +57130,8 @@
             43.320534
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57142,11 +57142,11 @@
         "not:brand:wikidata": "Q2909872",
         "id": 7770159414,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1206.5104293905383,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 379.15056283995017,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57161,8 +57161,8 @@
             43.320576
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57170,11 +57170,11 @@
         "shop": "hairdresser",
         "id": 7770159415,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1201.7544775814324,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 383.66081372431154,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57189,8 +57189,8 @@
             43.320605
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57199,11 +57199,11 @@
         "shop": "clothes",
         "id": 7770159421,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1196.6452168553976,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 388.6676164595337,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57218,8 +57218,8 @@
             43.320643
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57233,11 +57233,11 @@
         "takeaway": "yes",
         "id": 7770159422,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1191.9411747984745,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 393.2068605009415,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57252,8 +57252,8 @@
             43.320723
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57261,11 +57261,11 @@
         "shop": "convenience",
         "id": 7770159423,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1179.7824953020627,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 405.13382152955603,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57280,8 +57280,8 @@
             43.320682
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57290,11 +57290,11 @@
         "shop": "tailor",
         "id": 7770159424,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1186.3699698386545,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 398.64951460041317,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57309,8 +57309,8 @@
             43.321366
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57320,11 +57320,11 @@
         "name": "Sona Grill",
         "id": 7770691980,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1205.4248648971795,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 388.91430384101415,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57431,8 +57431,8 @@
             43.321329
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57441,11 +57441,11 @@
         "shop": "gift",
         "id": 7770697086,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1203.6488002331196,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 389.4282707326321,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57460,8 +57460,8 @@
             43.3213
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57469,11 +57469,11 @@
         "shop": "hairdresser",
         "id": 7770697087,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1201.56293581191,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 390.4849530517174,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57488,8 +57488,8 @@
             43.321271
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57498,11 +57498,11 @@
         "shop": "books",
         "id": 7770697088,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1198.7962042411018,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 392.2615201733516,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57517,8 +57517,8 @@
             43.321172
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57526,11 +57526,11 @@
         "shop": "convenience",
         "id": 7770697089,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1190.7753772853343,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 397.48649028311866,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57545,8 +57545,8 @@
             43.320983
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57555,11 +57555,11 @@
         "shop": "erotic",
         "id": 7770697090,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1126.582927682824,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 458.10504606999615,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57574,8 +57574,8 @@
             43.321026
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57583,11 +57583,11 @@
         "shop": "tailor",
         "id": 7770697091,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1120.3419243848584,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 464.3318293787106,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57602,8 +57602,8 @@
             43.321088
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57612,11 +57612,11 @@
         "shop": "beauty",
         "id": 7770697092,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1113.8011904650032,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 470.89922052238165,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57631,8 +57631,8 @@
             43.321693
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57640,11 +57640,11 @@
         "shop": "e-cigarette",
         "id": 7770697093,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1140.241572104858,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 456.0841739207063,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57659,8 +57659,8 @@
             43.322213
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57668,11 +57668,11 @@
         "shop": "hairdresser",
         "id": 7770697094,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 923.1466079114531,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 666.0688710344663,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57687,8 +57687,8 @@
             43.3226
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57696,11 +57696,11 @@
         "shop": "convenience",
         "id": 7770697095,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 871.0269677067173,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 722.4222788177046,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57715,8 +57715,8 @@
             43.322524
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57725,11 +57725,11 @@
         "name": "Next Door Social Space",
         "id": 7770697096,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 881.6916262597404,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 710.8692594350204,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57744,8 +57744,8 @@
             43.322475
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57755,11 +57755,11 @@
         "shop": "bicycle",
         "id": 7770697097,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 876.336539400626,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 714.7069694183668,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57774,8 +57774,8 @@
             43.322452
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57785,11 +57785,11 @@
         "name": "Panda Chopsticks Chinese",
         "id": 7770697098,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 890.8459612079523,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 700.8294038822398,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57804,8 +57804,8 @@
             43.322412
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57813,11 +57813,11 @@
         "shop": "laundry",
         "id": 7770697099,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 896.4981910682625,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 694.737066106418,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57832,8 +57832,8 @@
             43.322378
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57843,11 +57843,11 @@
         "name": "Royal Cumin",
         "id": 7770697100,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 901.8671193570142,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 689.0531717232432,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57862,8 +57862,8 @@
             43.322321
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57873,11 +57873,11 @@
         "name": "The Lord Nelson Steakhouse",
         "id": 7770697101,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 909.3899575385233,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 680.9315089252616,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57892,8 +57892,8 @@
             43.32297
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57902,11 +57902,11 @@
         "shop": "beauty",
         "id": 7770697102,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 987.7151076269145,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 635.7358282501191,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57921,8 +57921,8 @@
             43.32327
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57931,11 +57931,11 @@
         "shop": "beauty",
         "id": 7770697103,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 942.2725433192669,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 687.3063065014946,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57950,8 +57950,8 @@
             43.323447
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57961,11 +57961,11 @@
         "name": "Lava Pizza & Wings",
         "id": 7770697104,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 929.4718376687733,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 706.9421559850297,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -57980,8 +57980,8 @@
             43.323471
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -57991,11 +57991,11 @@
         "healthcare": "pharmacy",
         "id": 7770697113,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 925.7266071993478,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 711.2193232950938,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -58010,8 +58010,8 @@
             43.323507
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -58020,11 +58020,11 @@
         "healthcare": "doctor",
         "id": 7770697114,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 921.4635227757092,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 716.5232134710202,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -58039,8 +58039,8 @@
             43.323535
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -58049,11 +58049,11 @@
         "healthcare": "dentist",
         "id": 7770697115,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 917.2449250626539,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 721.4155688915963,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -58068,8 +58068,8 @@
             43.323609
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -58077,11 +58077,11 @@
         "shop": "hairdresser",
         "id": 7770697117,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 908.1415217718582,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 732.7163572564788,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -58096,8 +58096,8 @@
             43.323645
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -58108,11 +58108,11 @@
         "shop": "money_lender",
         "id": 7770697118,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 903.1487362261811,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 738.6786833991632,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -58127,8 +58127,8 @@
             43.323681
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -58136,11 +58136,11 @@
         "shop": "wine",
         "id": 7770697119,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 898.469308096613,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 744.3599524166598,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -58155,8 +58155,8 @@
             43.32374
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -58164,11 +58164,11 @@
         "amenity": "kindergarten",
         "id": 7770697120,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 871.7036832461056,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 768.7464891600098,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -58183,8 +58183,8 @@
             43.323995
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -58193,11 +58193,11 @@
         "shop": "money_lender",
         "id": 7770697121,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 870.7375619209905,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 784.6013483527299,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -58212,8 +58212,8 @@
             43.324059
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -58222,11 +58222,11 @@
         "healthcare": "dentist",
         "id": 7770697122,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 861.5420992179373,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 795.617183084111,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -58241,8 +58241,8 @@
             43.323961
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -58251,11 +58251,11 @@
         "shop": "seafood",
         "id": 7770697123,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 843.3417543930161,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 803.7562289691442,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -58753,8 +58753,8 @@
             43.33016
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820537,
+            43.330073
           ]
         ]
       },
@@ -58767,13 +58767,13 @@
         "name": "Guardian",
         "id": 7858946523,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287439,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 583.2041031848113,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_lat_closest": 43.3300732,
+        "_lon_closest": -79.8205367,
+        "_distance_meters": 9.668541787541056,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -58844,8 +58844,8 @@
             43.328332
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -58862,11 +58862,11 @@
         "shelter": "yes",
         "id": 7858983838,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 379.35752220125534,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 197.23799502027558,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -58881,8 +58881,8 @@
             43.330268
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -58900,13 +58900,13 @@
         "shelter": "no",
         "id": 7858994976,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 610.1735785766177,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 104.24958335573541,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -58919,8 +58919,8 @@
             43.330999
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820537,
+            43.330073
           ]
         ]
       },
@@ -58929,13 +58929,13 @@
         "name": "Prince of India Bar & Restaurant",
         "id": 7858996623,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287439,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 676.382427949977,
+        "_lat_closest": 43.3300732,
+        "_lon_closest": -79.8205367,
+        "_distance_meters": 119.07053020172965,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -58948,8 +58948,8 @@
             43.330947
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820537,
+            43.330073
           ]
         ]
       },
@@ -58959,13 +58959,13 @@
         "name": "Maple Mews Dental Office",
         "id": 7858996624,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287439,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 670.3694871667925,
+        "_lat_closest": 43.3300732,
+        "_lon_closest": -79.8205367,
+        "_distance_meters": 110.85193400442168,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -59006,8 +59006,8 @@
             43.330214
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820537,
+            43.330073
           ]
         ]
       },
@@ -59022,13 +59022,13 @@
         "takeaway": "yes",
         "id": 7859002117,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287439,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 588.9644841219541,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_lat_closest": 43.3300732,
+        "_lon_closest": -79.8205367,
+        "_distance_meters": 16.32272117682379,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -59070,8 +59070,8 @@
             43.330617
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -59083,13 +59083,13 @@
         "shop": "bakery",
         "id": 7859007940,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 645.8620005649408,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 74.61635617668311,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -59102,8 +59102,8 @@
             43.330544
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -59112,13 +59112,13 @@
         "name": "Wally Pan Sausage",
         "id": 7859007942,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 636.8587473290665,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 84.50331402987364,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -59131,8 +59131,8 @@
             43.330836
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -59147,13 +59147,13 @@
         "website": "https://store.petvalu.ca/location/2311",
         "id": 7859013322,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 662.2096710005982,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 100.7386217783578,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -59166,8 +59166,8 @@
             43.331037
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -59177,13 +59177,13 @@
         "name": "Maple Mews Pharmacy",
         "id": 7859013323,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 682.1027002035935,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 118.6875237937363,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -59196,8 +59196,8 @@
             43.331018
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -59207,13 +59207,13 @@
         "name": "Maple Mews Medical Clinic",
         "id": 7859013324,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 680.1158094997659,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 117.07070207575377,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -59226,8 +59226,8 @@
             43.330982
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -59246,13 +59246,13 @@
         "short_name": "UPS",
         "id": 7859013325,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 676.4300566479483,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 114.51098726392587,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -59265,8 +59265,8 @@
             43.330948
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -59275,13 +59275,13 @@
         "shop": "convenience",
         "id": 7859013326,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 673.0492849296263,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 110.9392690673885,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -59294,8 +59294,8 @@
             43.330918
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -59305,13 +59305,13 @@
         "shop": "beauty",
         "id": 7859013327,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 669.9231185304448,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 109.3859887001878,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -59398,8 +59398,8 @@
             43.329394
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -59408,13 +59408,13 @@
         "shop": "car_repair",
         "id": 7859016108,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 511.47876578511676,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 116.28287855703304,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -59427,8 +59427,8 @@
             43.32935
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -59436,13 +59436,13 @@
         "amenity": "car_wash",
         "id": 7859016109,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 514.0343926774407,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 141.79798290718196,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -59455,8 +59455,8 @@
             43.329441
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -59465,13 +59465,13 @@
         "shop": "car_repair",
         "id": 7859016110,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 513.6354383669745,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 103.03169076928675,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -59484,8 +59484,8 @@
             43.329813
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -59496,13 +59496,13 @@
         "shop": "car_repair",
         "id": 7859019552,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 552.1251872703856,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 70.91011878737167,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -59515,8 +59515,8 @@
             43.32957
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -59528,13 +59528,13 @@
         "shop": "car_repair",
         "id": 7859019553,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 522.638741966261,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 72.53678516205444,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -59547,8 +59547,8 @@
             43.327751
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -59561,11 +59561,11 @@
         "post_box:type": "community",
         "id": 7859068346,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 571.8555478122253,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 486.30752166847725,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -59679,8 +59679,8 @@
             43.3309
           ],
           [
-            -79.810319,
-            43.334417
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -59693,11 +59693,11 @@
         "post_box:type": "community",
         "id": 7859092272,
         "type": "node",
-        "_id_closest": 3641216622,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.3344166,
-        "_lon_closest": -79.8103191,
-        "_distance_meters": 488.6466728777867,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 332.510358661179,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -59712,8 +59712,8 @@
             43.329626
           ],
           [
-            -79.810319,
-            43.334417
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -59726,11 +59726,11 @@
         "post_box:type": "community",
         "id": 7859093884,
         "type": "node",
-        "_id_closest": 3641216622,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.3344166,
-        "_lon_closest": -79.8103191,
-        "_distance_meters": 638.4360113203354,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 321.0977188472876,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -59863,8 +59863,8 @@
             43.330233
           ],
           [
-            -79.810319,
-            43.334417
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -59877,11 +59877,11 @@
         "post_box:type": "community",
         "id": 7859103026,
         "type": "node",
-        "_id_closest": 3641216622,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.3344166,
-        "_lon_closest": -79.8103191,
-        "_distance_meters": 544.0229017483211,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 357.3641960959205,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -59896,8 +59896,8 @@
             43.331772
           ],
           [
-            -79.810319,
-            43.334417
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -59910,11 +59910,11 @@
         "post_box:type": "community",
         "id": 7859107738,
         "type": "node",
-        "_id_closest": 3641216622,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.3344166,
-        "_lon_closest": -79.8103191,
-        "_distance_meters": 418.55433351939496,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 333.7934936852528,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -59929,8 +59929,8 @@
             43.331785
           ],
           [
-            -79.810319,
-            43.334417
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -59943,11 +59943,11 @@
         "post_box:type": "community",
         "id": 7859107739,
         "type": "node",
-        "_id_closest": 3641216622,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.3344166,
-        "_lon_closest": -79.8103191,
-        "_distance_meters": 418.88965395849397,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 332.2140843775457,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -61733,8 +61733,8 @@
             43.316109
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -61743,11 +61743,11 @@
         "shop": "hairdresser",
         "id": 8502111828,
         "type": "node",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1126.4616142833956,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 395.0361966237959,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -61762,8 +61762,8 @@
             43.316089
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -61772,11 +61772,11 @@
         "shop": "massage",
         "id": 8502111829,
         "type": "node",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1122.9086980391585,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 398.273493221758,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -61791,8 +61791,8 @@
             43.316052
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -61802,11 +61802,11 @@
         "name": "Aldershot Dental Hygiene",
         "id": 8502111830,
         "type": "node",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1117.817432755605,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 403.63514910924357,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -61821,8 +61821,8 @@
             43.315773
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -61836,11 +61836,11 @@
         "shop": "tailor",
         "id": 8502111831,
         "type": "node",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1080.1770102416554,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 444.151262709478,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -61855,8 +61855,8 @@
             43.315832
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -61876,11 +61876,11 @@
         "shop": "hairdresser",
         "id": 8502111833,
         "type": "node",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1088.8430603510324,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 435.1878948297143,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -63379,8 +63379,8 @@
             43.324721
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -63397,11 +63397,11 @@
         "website": "https://mollycake.ca/",
         "id": 9610814430,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1497.9170038578861,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 590.9190047475946,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -64537,8 +64537,8 @@
             43.329543
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -64554,13 +64554,13 @@
         "shelter": "yes",
         "id": 9794838187,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 514.3311163546717,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 78.42136003451616,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -64645,8 +64645,8 @@
             43.329557
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -64655,13 +64655,13 @@
         "colour": "grey",
         "id": 9893244630,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 516.0337777716196,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 80.48751825200053,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -64674,8 +64674,8 @@
             43.329552
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -64684,13 +64684,13 @@
         "direction": "160",
         "id": 9893244631,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 515.4660816136093,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 79.38280795106913,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -65091,8 +65091,8 @@
             43.327869
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -65115,11 +65115,11 @@
         "takeaway": "yes",
         "id": 10138397000,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 779.6387854257989,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 719.6645863709841,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -65134,8 +65134,8 @@
             43.319179
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -65155,11 +65155,11 @@
         "website": "https://drngioptometry.ca",
         "id": 10264963513,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1394.272537870279,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 223.80403989049748,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -65871,8 +65871,8 @@
             43.329717
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -65881,13 +65881,13 @@
         "shop": "car_repair",
         "id": 10967668472,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 540.7996302799269,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 71.3764176649464,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -65900,8 +65900,8 @@
             43.330482
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -65910,13 +65910,13 @@
         "shop": "cannabis",
         "id": 10967670891,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 628.6474216574076,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 94.53713357009622,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -68475,8 +68475,8 @@
             43.318831
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -68492,13 +68492,13 @@
         "public_transport": "platform",
         "id": 11432529619,
         "type": "node",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1473.5326075252076,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 130.20172022678818,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -68511,8 +68511,8 @@
             43.318422
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -68531,13 +68531,13 @@
         "shelter": "yes",
         "id": 11432529620,
         "type": "node",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1441.6021320391644,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 147.7464320654504,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -71185,8 +71185,8 @@
             43.31572
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -71199,11 +71199,11 @@
         "phone": "+1 2892300765",
         "id": 11940203378,
         "type": "node",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1075.7434830026612,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 450.7227323658481,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -73551,8 +73551,8 @@
             43.334746
           ],
           [
-            -79.818518,
-            43.338563
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -73564,11 +73564,11 @@
         "operator:wikidata": "Q1032001",
         "id": 12310654973,
         "type": "node",
-        "_id_closest": 11730967294,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.3385625,
-        "_lon_closest": -79.818518,
-        "_distance_meters": 461.42405848423226,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 456.12064415363665,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -79829,8 +79829,8 @@
             43.31566
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -79840,11 +79840,11 @@
         "name": "Caked Coffee",
         "id": 13234430353,
         "type": "node",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1070.0294406700707,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 458.54797893929737,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -83835,8 +83835,8 @@
             43.328629
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -83852,11 +83852,11 @@
         "public_transport": "platform",
         "id": 13307635366,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 413.05913451799404,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 169.69811572609174,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -84231,8 +84231,8 @@
             43.328683
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -84251,11 +84251,11 @@
         "source": "Mapillary",
         "id": 13307816053,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 432.4964662733938,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 173.3452257027662,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -84270,8 +84270,8 @@
             43.320269
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -84288,11 +84288,11 @@
         "shelter": "yes",
         "id": 13307816054,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1272.4190915213521,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 313.8333504674104,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -84380,8 +84380,8 @@
             43.322173
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -84396,11 +84396,11 @@
         "public_transport": "platform",
         "id": 13307816057,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1031.6653469954997,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 566.3829294516929,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -84415,8 +84415,8 @@
             43.321209
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -84431,11 +84431,11 @@
         "public_transport": "platform",
         "id": 13307816058,
         "type": "node",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1133.1139122595898,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 452.665336982592,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -84450,8 +84450,8 @@
             43.31713
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -84466,11 +84466,11 @@
         "public_transport": "platform",
         "id": 13307816059,
         "type": "node",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1225.7441912115896,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 265.64964417549623,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -84485,8 +84485,8 @@
             43.317
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -84504,11 +84504,11 @@
         "shelter": "yes",
         "id": 13307816060,
         "type": "node",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1237.3470209670381,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 275.2798888481669,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -84523,8 +84523,8 @@
             43.315454
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -84539,11 +84539,11 @@
         "public_transport": "platform",
         "id": 13307816061,
         "type": "node",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 995.3560578312763,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 511.8188753071409,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -84558,8 +84558,8 @@
             43.314853
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -84576,11 +84576,11 @@
         "shelter": "no",
         "id": 13307816062,
         "type": "node",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 949.8687542114144,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 585.7374989299082,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -86892,8 +86892,8 @@
             43.332539
           ],
           [
-            -79.856111,
-            43.31352
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -86902,11 +86902,11 @@
         "name": "Bayview Park",
         "id": 25482048,
         "type": "way",
-        "_id_closest": 4988550185,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.3135199,
-        "_lon_closest": -79.8561108,
-        "_distance_meters": 2130.2830334351665,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 1882.6432779416136,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -87119,8 +87119,8 @@
             43.332803
           ],
           [
-            -79.818518,
-            43.338563
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -87129,11 +87129,11 @@
         "name": "Leighland Park",
         "id": 25514744,
         "type": "way",
-        "_id_closest": 11730967294,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.3385625,
-        "_lon_closest": -79.818518,
-        "_distance_meters": 872.681055670969,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 525.9082248418895,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -87148,8 +87148,8 @@
             43.328159
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -87174,11 +87174,11 @@
         "wheelchair": "yes",
         "id": 25514812,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 810.6646963514288,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 727.5006600644045,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -88614,8 +88614,8 @@
             43.330997
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -88631,11 +88631,11 @@
         "website": "http://www.burlingtonstoragebarn.ca/",
         "id": 29043226,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 762.1256415264394,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 338.40403757233537,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -89089,8 +89089,8 @@
             43.312234
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -89100,11 +89100,11 @@
         "sport": "golf",
         "id": 43937473,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1626.2785961042998,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 1031.504357557366,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -89483,8 +89483,8 @@
             43.330455
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820537,
+            43.330073
           ]
         ]
       },
@@ -89497,13 +89497,13 @@
         "shop": "supermarket",
         "id": 43938058,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287439,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 615.8499578709722,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_lat_closest": 43.3300732,
+        "_lon_closest": -79.8205367,
+        "_distance_meters": 42.621309370082315,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -89516,8 +89516,8 @@
             43.330467
           ],
           [
-            -79.803332,
-            43.329678
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -89530,12 +89530,12 @@
         "shop": "car",
         "id": 43938100,
         "type": "way",
-        "_id_closest": 12068348589,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3296777,
-        "_lon_closest": -79.803332,
-        "_distance_meters": 94.64277776148717,
-        "_under_one_minute": 0,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 77.170389803046,
+        "_under_one_minute": 1,
         "_under_two_minute": 1
       }
     },
@@ -89726,8 +89726,8 @@
             43.316193
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -89740,11 +89740,11 @@
         "religion": "christian",
         "id": 43938594,
         "type": "way",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1053.5418104588475,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 422.2795962117455,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -90956,8 +90956,8 @@
             43.316265
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -90974,11 +90974,11 @@
         "sport": "ice_hockey",
         "id": 43940751,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1412.7046368325841,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 552.9994928660476,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -91570,8 +91570,8 @@
             43.32899
           ],
           [
-            -79.803332,
-            43.329678
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -91597,11 +91597,11 @@
         "wikidata": "Q4999216",
         "id": 55408178,
         "type": "way",
-        "_id_closest": 12068348589,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3296777,
-        "_lon_closest": -79.803332,
-        "_distance_meters": 268.32440854237007,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 201.7896612247578,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -94876,8 +94876,8 @@
             43.328134
           ],
           [
-            -79.803332,
-            43.329678
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -94886,11 +94886,11 @@
         "source": "Bing",
         "id": 125267726,
         "type": "way",
-        "_id_closest": 12068348589,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3296777,
-        "_lon_closest": -79.803332,
-        "_distance_meters": 401.17953106843845,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 342.36187240006853,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -95550,8 +95550,8 @@
             43.332998
           ],
           [
-            -79.818518,
-            43.338563
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -95562,11 +95562,11 @@
         "sport": "tennis",
         "id": 140984012,
         "type": "way",
-        "_id_closest": 11730967294,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.3385625,
-        "_lon_closest": -79.818518,
-        "_distance_meters": 853.157945251547,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 534.4200016054622,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -95581,8 +95581,8 @@
             43.33329
           ],
           [
-            -79.826581,
-            43.341082
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -95592,11 +95592,11 @@
         "sport": "baseball",
         "id": 140984430,
         "type": "way",
-        "_id_closest": 12557252938,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.3410822,
-        "_lon_closest": -79.8265813,
-        "_distance_meters": 866.4785895519434,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 609.506394508113,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -95611,8 +95611,8 @@
             43.332422
           ],
           [
-            -79.818518,
-            43.338563
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -95622,11 +95622,11 @@
         "sport": "baseball",
         "id": 140984664,
         "type": "way",
-        "_id_closest": 11730967294,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.3385625,
-        "_lon_closest": -79.818518,
-        "_distance_meters": 875.9846135368966,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 465.52869425857193,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -100218,8 +100218,8 @@
             43.322312
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -100236,11 +100236,11 @@
         "takeaway": "yes",
         "id": 167263574,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1049.3629871446367,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 555.9191215586759,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -100767,8 +100767,8 @@
             43.328654
           ],
           [
-            -79.853405,
-            43.313316
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -100778,11 +100778,11 @@
         "sport": "soccer",
         "id": 167350921,
         "type": "way",
-        "_id_closest": 1356846891,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.3133162,
-        "_lon_closest": -79.8534052,
-        "_distance_meters": 1761.7217697205342,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 1293.1410342092734,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -100797,8 +100797,8 @@
             43.328681
           ],
           [
-            -79.853405,
-            43.313316
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -100807,11 +100807,11 @@
         "source": "Bing",
         "id": 167351189,
         "type": "way",
-        "_id_closest": 1356846891,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.3133162,
-        "_lon_closest": -79.8534052,
-        "_distance_meters": 1774.6017200156998,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 1272.5329311654525,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -101065,8 +101065,8 @@
             43.328662
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -101076,11 +101076,11 @@
         "sport": "baseball",
         "id": 167862435,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 540.6979974819524,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 326.8564926677645,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -101095,8 +101095,8 @@
             43.328176
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -101106,11 +101106,11 @@
         "sport": "basketball",
         "id": 167862613,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 518.7303484326225,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 386.58728563678255,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -101125,8 +101125,8 @@
             43.324615
           ],
           [
-            -79.801866,
-            43.328557
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -101136,11 +101136,11 @@
         "sport": "basketball",
         "id": 167865306,
         "type": "way",
-        "_id_closest": 10998405126,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3285568,
-        "_lon_closest": -79.8018661,
-        "_distance_meters": 663.5968359489383,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 661.0643898404943,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -101369,8 +101369,8 @@
             43.323944
           ],
           [
-            -79.853405,
-            43.313316
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -101384,11 +101384,11 @@
         "website": "www.mercedesbenzburlington.ca",
         "id": 176200913,
         "type": "way",
-        "_id_closest": 1356846891,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.3133162,
-        "_lon_closest": -79.8534052,
-        "_distance_meters": 1221.5959347974922,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 1046.8832215215664,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -102899,8 +102899,8 @@
             43.31923
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -102924,13 +102924,13 @@
         "website": "https://map.hdsb.ca/",
         "id": 198868969,
         "type": "way",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1415.1273474172497,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 33.224115118068596,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -102943,8 +102943,8 @@
             43.319209
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -102954,13 +102954,13 @@
         "sport": "baseball",
         "id": 198868982,
         "type": "way",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1356.9283929967464,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 45.30314289304483,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -103245,8 +103245,8 @@
             43.330569
           ],
           [
-            -79.804512,
-            43.331432
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -103254,11 +103254,11 @@
         "leisure": "playground",
         "id": 200058092,
         "type": "way",
-        "_id_closest": 3732389140,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3314325,
-        "_lon_closest": -79.8045118,
-        "_distance_meters": 143.7768004457907,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 136.74405163155552,
         "_under_one_minute": 0,
         "_under_two_minute": 1
       }
@@ -103273,8 +103273,8 @@
             43.330051
           ],
           [
-            -79.804512,
-            43.331432
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -103283,13 +103283,13 @@
         "sport": "baseball",
         "id": 200058093,
         "type": "way",
-        "_id_closest": 3732389140,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3314325,
-        "_lon_closest": -79.8045118,
-        "_distance_meters": 195.2765221662938,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 131.55871866320072,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -103347,8 +103347,8 @@
             43.329423
           ],
           [
-            -79.804512,
-            43.331432
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -103357,11 +103357,11 @@
         "sport": "basketball",
         "id": 200058099,
         "type": "way",
-        "_id_closest": 3732389140,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3314325,
-        "_lon_closest": -79.8045118,
-        "_distance_meters": 318.9150485601703,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 244.68201165685863,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -103376,8 +103376,8 @@
             43.328331
           ],
           [
-            -79.803332,
-            43.329678
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -103386,11 +103386,11 @@
         "sport": "soccer",
         "id": 200058102,
         "type": "way",
-        "_id_closest": 12068348589,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3296777,
-        "_lon_closest": -79.803332,
-        "_distance_meters": 395.2719371695396,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 332.72183543866913,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -103405,8 +103405,8 @@
             43.32868
           ],
           [
-            -79.803332,
-            43.329678
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -103415,11 +103415,11 @@
         "sport": "canadian_football",
         "id": 200058103,
         "type": "way",
-        "_id_closest": 12068348589,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3296777,
-        "_lon_closest": -79.803332,
-        "_distance_meters": 322.37713392353726,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 258.62472341224804,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -103434,8 +103434,8 @@
             43.328574
           ],
           [
-            -79.803332,
-            43.329678
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -103444,11 +103444,11 @@
         "sport": "basketball",
         "id": 200058104,
         "type": "way",
-        "_id_closest": 12068348589,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3296777,
-        "_lon_closest": -79.803332,
-        "_distance_meters": 253.60785104629275,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 204.22357432233792,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -104759,8 +104759,8 @@
             43.332254
           ],
           [
-            -79.856111,
-            43.31352
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -104770,11 +104770,11 @@
         "sport": "baseball",
         "id": 223616140,
         "type": "way",
-        "_id_closest": 4988550185,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.3135199,
-        "_lon_closest": -79.8561108,
-        "_distance_meters": 2092.412142885712,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 1896.7058633145234,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -104789,8 +104789,8 @@
             43.332737
           ],
           [
-            -79.826581,
-            43.341082
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -104808,11 +104808,11 @@
         "website": "https://www.rangeburlington.ca/",
         "id": 223616227,
         "type": "way",
-        "_id_closest": 12557252938,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.3410822,
-        "_lon_closest": -79.8265813,
-        "_distance_meters": 2048.272376921959,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 1724.761238848019,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -109304,8 +109304,8 @@
             43.328314
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -109313,11 +109313,11 @@
         "leisure": "playground",
         "id": 263080407,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 548.1502737641532,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 388.08208980871126,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -109332,8 +109332,8 @@
             43.328374
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -109341,11 +109341,11 @@
         "leisure": "playground",
         "id": 263080408,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 562.05493734589,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 390.4009399264334,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -109360,8 +109360,8 @@
             43.328054
           ],
           [
-            -79.803332,
-            43.329678
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -109370,11 +109370,11 @@
         "leisure": "playground",
         "id": 263080450,
         "type": "way",
-        "_id_closest": 12068348589,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3296777,
-        "_lon_closest": -79.803332,
-        "_distance_meters": 365.58485468525924,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 313.1178185007529,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -109389,8 +109389,8 @@
             43.327852
           ],
           [
-            -79.803332,
-            43.329678
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -109399,11 +109399,11 @@
         "leisure": "playground",
         "id": 263080451,
         "type": "way",
-        "_id_closest": 12068348589,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3296777,
-        "_lon_closest": -79.803332,
-        "_distance_meters": 378.38640087834034,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 329.56878142059276,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -109446,8 +109446,8 @@
             43.330615
           ],
           [
-            -79.804512,
-            43.331432
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -109455,11 +109455,11 @@
         "leisure": "playground",
         "id": 263080495,
         "type": "way",
-        "_id_closest": 3732389140,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3314325,
-        "_lon_closest": -79.8045118,
-        "_distance_meters": 117.68053465742351,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 113.63170795624652,
         "_under_one_minute": 0,
         "_under_two_minute": 1
       }
@@ -111272,8 +111272,8 @@
             43.321134
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -111282,11 +111282,11 @@
         "name": "Maplehurst Park",
         "id": 297239409,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1484.3460309928137,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 194.78117703031342,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -111301,8 +111301,8 @@
             43.321257
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -111310,11 +111310,11 @@
         "leisure": "playground",
         "id": 297239410,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1484.8461861126855,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 207.37586399467662,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -111801,8 +111801,8 @@
             43.319257
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -111824,13 +111824,13 @@
         "website:fr": "https://www.shoppersdrugmart.ca/fr/store-locator/store/1042",
         "id": 318012362,
         "type": "way",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1488.3422881635595,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 108.06277581521147,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -111843,8 +111843,8 @@
             43.318704
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -111853,13 +111853,13 @@
         "sport": "soccer",
         "id": 318012372,
         "type": "way",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1382.048483161318,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 81.29975107407375,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -111872,8 +111872,8 @@
             43.318843
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -111881,13 +111881,13 @@
         "leisure": "playground",
         "id": 318012405,
         "type": "way",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1399.5404659167395,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 70.66130395860002,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -111900,8 +111900,8 @@
             43.318708
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -111909,13 +111909,13 @@
         "leisure": "playground",
         "id": 318012407,
         "type": "way",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1406.0817666433786,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 90.58597519529214,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -111928,8 +111928,8 @@
             43.317333
           ],
           [
-            -79.853397,
-            43.313307
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -111942,11 +111942,11 @@
         "shop": "rental",
         "id": 318012587,
         "type": "way",
-        "_id_closest": 1423550542,
-        "_type_closest": "way",
-        "_lat_closest": 43.3133067,
-        "_lon_closest": -79.8533965,
-        "_distance_meters": 1212.2290951030855,
+        "_id_closest": 13449274753,
+        "_type_closest": "node",
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 252.38411361275226,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -112005,8 +112005,8 @@
             43.331598
           ],
           [
-            -79.826581,
-            43.341082
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -112016,11 +112016,11 @@
         "surface": "sand",
         "id": 318106235,
         "type": "way",
-        "_id_closest": 12557252938,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.3410822,
-        "_lon_closest": -79.8265813,
-        "_distance_meters": 1704.5777703652936,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 1411.4017952204188,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -112035,8 +112035,8 @@
             43.321829
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -112050,11 +112050,11 @@
         "official_name": "Budget Rent a Car",
         "id": 320113402,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1111.1138257808884,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 485.84097170133003,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -112982,8 +112982,8 @@
             43.324492
           ],
           [
-            -79.801866,
-            43.328557
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -112991,11 +112991,11 @@
         "leisure": "park",
         "id": 358289974,
         "type": "way",
-        "_id_closest": 10998405126,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3285568,
-        "_lon_closest": -79.8018661,
-        "_distance_meters": 674.5826774138283,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 674.4505974655798,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -113717,8 +113717,8 @@
             43.316874
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -113727,11 +113727,11 @@
         "sport": "basketball",
         "id": 382974989,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1356.1797515205055,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 525.222261761535,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -113746,8 +113746,8 @@
             43.316746
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -113755,11 +113755,11 @@
         "leisure": "playground",
         "id": 382974992,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1359.8410146190488,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 539.6013271679254,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -113831,8 +113831,8 @@
             43.316637
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -113843,11 +113843,11 @@
         "name": "Kiwanis Park",
         "id": 382974996,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1378.190730782395,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 534.946471731757,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -114184,8 +114184,8 @@
             43.319902
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -114197,11 +114197,11 @@
         "social_facility:for": "senior",
         "id": 390934548,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1299.3485642319258,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 293.3505696402978,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -114331,8 +114331,8 @@
             43.32024
           ],
           [
-            -79.820166,
-            43.324922
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -114342,11 +114342,11 @@
         "sport": "swimming",
         "id": 402065756,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 1419.3276103052501,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 168.33848274791882,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -114712,8 +114712,8 @@
             43.334108
           ],
           [
-            -79.826581,
-            43.341082
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -114721,11 +114721,11 @@
         "leisure": "playground",
         "id": 438348214,
         "type": "way",
-        "_id_closest": 12557252938,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.3410822,
-        "_lon_closest": -79.8265813,
-        "_distance_meters": 776.8227243441542,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 696.8261500939186,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -114740,8 +114740,8 @@
             43.334187
           ],
           [
-            -79.826581,
-            43.341082
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -114749,11 +114749,11 @@
         "leisure": "playground",
         "id": 438348215,
         "type": "way",
-        "_id_closest": 12557252938,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.3410822,
-        "_lon_closest": -79.8265813,
-        "_distance_meters": 768.7684561043279,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 711.7774740765565,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -114768,8 +114768,8 @@
             43.332489
           ],
           [
-            -79.818518,
-            43.338563
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -114778,11 +114778,11 @@
         "sport": "basketball",
         "id": 438348216,
         "type": "way",
-        "_id_closest": 11730967294,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.3385625,
-        "_lon_closest": -79.818518,
-        "_distance_meters": 934.3565200530219,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 551.9427441225554,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -114998,8 +114998,8 @@
             43.307421
           ],
           [
-            -79.85269,
-            43.303672
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -115008,11 +115008,11 @@
         "name": "Bayshore Park",
         "id": 445402275,
         "type": "way",
-        "_id_closest": 11917978991,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.3036716,
-        "_lon_closest": -79.8526903,
-        "_distance_meters": 1755.847946271258,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 1437.4558940814852,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -115154,8 +115154,8 @@
             43.327881
           ],
           [
-            -79.853405,
-            43.313316
+            -79.838235,
+            43.319417
           ]
         ]
       },
@@ -115166,11 +115166,11 @@
         "operator:type": "private",
         "id": 448895625,
         "type": "way",
-        "_id_closest": 1356846891,
+        "_id_closest": 13449274753,
         "_type_closest": "node",
-        "_lat_closest": 43.3133162,
-        "_lon_closest": -79.8534052,
-        "_distance_meters": 1705.738509705281,
+        "_lat_closest": 43.3194168,
+        "_lon_closest": -79.8382349,
+        "_distance_meters": 1168.1931128006686,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -116988,8 +116988,8 @@
             43.330134
           ],
           [
-            -79.804512,
-            43.331432
+            -79.804384,
+            43.329937
           ]
         ]
       },
@@ -117013,13 +117013,13 @@
         "website": "https://cen.hdsb.ca/",
         "id": 706090051,
         "type": "way",
-        "_id_closest": 3732389140,
+        "_id_closest": 13449275515,
         "_type_closest": "node",
-        "_lat_closest": 43.3314325,
-        "_lon_closest": -79.8045118,
-        "_distance_meters": 160.4231433234566,
+        "_lat_closest": 43.329937,
+        "_lon_closest": -79.8043838,
+        "_distance_meters": 83.32921662893003,
         "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_under_two_minute": 1
       }
     },
     {
@@ -118495,8 +118495,8 @@
             43.32866
           ],
           [
-            -79.820166,
-            43.324922
+            -79.818039,
+            43.331153
           ]
         ]
       },
@@ -118505,11 +118505,11 @@
         "name": "Thorpe Park",
         "id": 940149630,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449256051,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 547.9752199580352,
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 333.2439596577553,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -119844,8 +119844,8 @@
             43.330122
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820537,
+            43.330073
           ]
         ]
       },
@@ -119854,13 +119854,13 @@
         "covered": "yes",
         "id": 1180562574,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287439,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 579.7014906018941,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_lat_closest": 43.3300732,
+        "_lon_closest": -79.8205367,
+        "_distance_meters": 71.65927469820038,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -119873,8 +119873,8 @@
             43.330091
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820537,
+            43.330073
           ]
         ]
       },
@@ -119883,13 +119883,13 @@
         "covered": "yes",
         "id": 1180562575,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287439,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 576.0513976412755,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_lat_closest": 43.3300732,
+        "_lon_closest": -79.8205367,
+        "_distance_meters": 68.09389930770573,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -119902,8 +119902,8 @@
             43.330114
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820537,
+            43.330073
           ]
         ]
       },
@@ -119912,13 +119912,13 @@
         "covered": "yes",
         "id": 1180562576,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287439,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 577.5974211467134,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_lat_closest": 43.3300732,
+        "_lon_closest": -79.8205367,
+        "_distance_meters": 47.18242247684391,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -119931,8 +119931,8 @@
             43.330083
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820537,
+            43.330073
           ]
         ]
       },
@@ -119941,13 +119941,13 @@
         "covered": "yes",
         "id": 1180562577,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287439,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 574.0726222782175,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
+        "_lat_closest": 43.3300732,
+        "_lon_closest": -79.8205367,
+        "_distance_meters": 43.587063180745105,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
@@ -120105,8 +120105,8 @@
             43.327245
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -120115,11 +120115,11 @@
         "covered": "yes",
         "id": 1180562583,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 815.7585511921362,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 806.798098746422,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -120163,8 +120163,8 @@
             43.32724
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -120173,11 +120173,11 @@
         "covered": "yes",
         "id": 1180562585,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 770.1720420392949,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 762.9969071263403,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -120192,8 +120192,8 @@
             43.327366
           ],
           [
-            -79.820166,
-            43.324922
+            -79.820544,
+            43.330068
           ]
         ]
       },
@@ -120202,11 +120202,11 @@
         "covered": "yes",
         "id": 1180562586,
         "type": "way",
-        "_id_closest": 11746590334,
+        "_id_closest": 13449287440,
         "_type_closest": "node",
-        "_lat_closest": 43.324922,
-        "_lon_closest": -79.8201663,
-        "_distance_meters": 741.5047557778287,
+        "_lat_closest": 43.3300679,
+        "_lon_closest": -79.8205439,
+        "_distance_meters": 724.5785861341872,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
