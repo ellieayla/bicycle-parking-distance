@@ -21,4 +21,4 @@ and for comparison, the carparks;
 
 Combining those;
 
-* [Disparity of distance to nearest bicycle parking vs car parking](distance_from_shops_to_nearest_bicycle_parking_disparity_vs_car_parking.geojson) - [Render with overpass ultra](http://overpass-ultra.us/#map&query=url:https%3A%2F%2Fraw.githubusercontent.com%2Fellieayla%2Fbicycle-parking-distance%2Frefs%2Fheads%2Fmain%disparity.style)
+* [Disparity of distance to nearest bicycle parking vs car parking](distance_from_shops_to_nearest_bicycle_parking_disparity_vs_car_parking.geojson) - [Render with overpass ultra](http://overpass-ultra.us/#map&query=url:https%3A%2F%2Fraw.githubusercontent.com%2Fellieayla%2Fbicycle-parking-distance%2Frefs%2Fheads%2Fmain%2Fdisparity.style)
