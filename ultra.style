@@ -1,0 +1,40 @@
+---
+title: Distance from shops to bike parking
+description: Visualize bicycle parking availability by location
+type: geojson
+popupTemplate: '{% assign desc = properties.name %}<p><b><a href="https://openstreetmap.org/{{ properties.type }}/{{ properties.id }}">{{ properties.name | default: properties.amenity | default: properties.highway }} osm {{ properties.type}}/{{ properties.id }}</a></b> is {{ properties._distance_meters | round: 0 }} from nearest bicycle parking (<a href="https://openstreetmap.org/{{ properties._type_closest }}/{{ properties._id_closest }}">{{properties._type_closest}}/{{properties._id_closest}}</a>).</p><p>{%- for tag in properties %}<code>{{tag[0]}}={{tag[1]}}</code><br/>{% endfor %}</p>'
+options:
+  zoom: 11.6
+  center: [ 43.34, -79.805 ]
+style:
+  extends: https://styles.trailsta.sh/maptiler-basic.json
+  layers:
+
+    - type: circle
+      beforeLayerId: road_one_way_arrow
+      minzoom: 7
+
+      circle-color:
+        - interpolate
+        - [linear]
+        - [get, "_distance_meters"]
+        - 120
+        - rgba(0,202,0,255)
+        - 240
+        - rgb(239,0,9)
+        - 600
+        - rgb(0,0,0)
+
+      circle-stroke-color: white
+      circle-stroke-width: 1
+      # Transition from heatmap to circle layer by zoom level
+      circle-opacity:
+        - interpolate
+        - [linear]
+        - [zoom]
+        - 10
+        - 0
+        - 13
+        - 1
+---
+https://raw.githubusercontent.com/ellieayla/bicycle-parking-distance/refs/heads/main/distance_from_shops_to_nearest_bicycle_parking.geojson
