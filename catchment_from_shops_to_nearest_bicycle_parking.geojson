@@ -38494,9 +38494,18 @@
         ]
       },
       "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "573",
+        "addr:postcode": "L7S 2E8",
+        "addr:province": "On",
+        "addr:street": "Maple Avenue",
+        "addr:unit": "5",
         "amenity": "dentist",
         "healthcare": "dentist",
-        "memorial": "Maple Dentist",
+        "healthcare:speciality": "dentist",
+        "name": "Maple Dental Office",
+        "phone": "+1-905-333-4050",
+        "website": "https://mapledentaloffice.com",
         "id": 4419735806,
         "type": "node",
         "_id_closest": 10817676384,
@@ -79845,57 +79854,6 @@
         "_lat_closest": 43.3194168,
         "_lon_closest": -79.8382349,
         "_distance_meters": 458.54797893929737,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.834566,
-            43.363471
-          ],
-          [
-            -79.82615,
-            43.363422
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Burlington",
-        "addr:housenumber": "2354",
-        "addr:postcode": "L7P3B3",
-        "addr:province": "ON",
-        "addr:street": "Sinclair Circle",
-        "contact:etsy": "TheOneandOnlyPranks",
-        "contact:facebook": "TheOneAndOnlyPranks",
-        "contact:instagram": "theoneandonlypranks",
-        "contact:pinterest": "theoneandonlypranks",
-        "contact:tiktok": "theoneandonlypranks",
-        "contact:youtube": "theoneandonlypranks",
-        "email": "support@theoneandonly.ca",
-        "name": "TheOneAndOnly.ca - Pranks, Gag Mail & Stickers",
-        "opening_hours": "24/7",
-        "payment:american_express": "yes",
-        "payment:apple_pay": "yes",
-        "payment:google_pay": "yes",
-        "payment:mastercard": "yes",
-        "payment:paypal": "yes",
-        "payment:unionpay": "yes",
-        "payment:visa": "yes",
-        "phone": "+1-905-577-5062",
-        "shop": "gift",
-        "website": "https://theoneandonly.ca",
-        "id": 13236206580,
-        "type": "node",
-        "_id_closest": 11203076041,
-        "_type_closest": "node",
-        "_lat_closest": 43.3634222,
-        "_lon_closest": -79.8261499,
-        "_distance_meters": 680.3811485222359,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
