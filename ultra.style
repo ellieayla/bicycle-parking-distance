@@ -11,6 +11,7 @@ popupTemplate: >
     <a href="https://openstreetmap.org/{{ properties._type_closest }}/{{ properties._id_closest }}">{{properties._type_closest}}/{{properties._id_closest}}</a>.
   </p>
   <p>That's a <b>{{ properties._distance_meters | divided_by: 80.0 | round: 1 }} minute walk</b>.</p>
+  <p>{{geometry.coordinates[1]}},{{geometry.coordinates[0]}} <a href="https://www.google.com/maps/@{{geometry.coordinates[1]}},{{geometry.coordinates[0]}},100m">see on google maps</a></p>
   <p>{%- for tag in properties %}<code>{{tag[0]}}={{tag[1]}}</code><br/>{% endfor %}</p>
 options:
   zoom: 11.6
