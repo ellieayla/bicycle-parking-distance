@@ -2,7 +2,16 @@
 title: Distance from shops to bike parking
 description: Visualize bicycle parking availability by location
 type: geojson
-popupTemplate: '{% assign desc = properties.name %}<p><b><a href="https://openstreetmap.org/{{ properties.type }}/{{ properties.id }}">{{ properties.name | default: properties.amenity | default: properties.highway }} osm {{ properties.type}}/{{ properties.id }}</a></b> is {{ properties._distance_meters | round: 0 }} from nearest bicycle parking (<a href="https://openstreetmap.org/{{ properties._type_closest }}/{{ properties._id_closest }}">{{properties._type_closest}}/{{properties._id_closest}}</a>).</p><p>{%- for tag in properties %}<code>{{tag[0]}}={{tag[1]}}</code><br/>{% endfor %}</p>'
+popupTemplate: >
+  {% assign desc = properties.name | default: properties.amenity | default: properties.highway | default: properties.leisure %}
+  <h3>{{ desc }}</h3>
+  <p>
+    <b><a href="https://openstreetmap.org/{{ properties.type }}/{{ properties.id }}">OSM {{ properties.type}}/{{ properties.id }}</a></b>
+    is {{ properties._distance_meters | round: 0 }} metres from nearest bicycle parking:
+    <a href="https://openstreetmap.org/{{ properties._type_closest }}/{{ properties._id_closest }}">{{properties._type_closest}}/{{properties._id_closest}}</a>.
+  </p>
+  <p>That's a <b>{{ properties._distance_meters | divided_by: 80.0 | round: 1 }} minute walk</b>.</p>
+  <p>{%- for tag in properties %}<code>{{tag[0]}}={{tag[1]}}</code><br/>{% endfor %}</p>
 options:
   zoom: 11.6
   center: [ -79.805, 43.34 ]
