@@ -11,7 +11,7 @@ This can be further processed similar to https://overpass-ultra.us/docs/MapLibre
 
 By default, processes OSM data for Burlington Ontario, and commits results back to repository, can be cited using github raw urls:
 
-* [Distance from shops to nearest bicycle parking](distance_from_shops_to_nearest_bicycle_parking.geojson) - Try to [render with overpass ultra](http://overpass-ultra.us/#run&query=url:https%3A%2F%2Fraw.githubusercontent.com%2Fellieayla%2Fbicycle-parking-distance%2Frefs%2Fheads%2Fmain%2Fultra.style)!
+* [Distance from shops to nearest bicycle parking](distance_from_shops_to_nearest_bicycle_parking.geojson) - Try to [render with overpass ultra](http://overpass-ultra.us/#map&query=url:https%3A%2F%2Fraw.githubusercontent.com%2Fellieayla%2Fbicycle-parking-distance%2Frefs%2Fheads%2Fmain%2Fultra.style)!
 * [Distance from every _building_ to nearest bicycle parking](distance_from_buildings_to_nearest_bicycle_parking.geojson)
 
 and for comparison, the carparks;
