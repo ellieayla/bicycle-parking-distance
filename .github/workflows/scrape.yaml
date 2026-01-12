@@ -46,11 +46,11 @@ jobs:
 
     - name: Build geojson of catchment lines from shops to bicycle parking
       run: |
-        uv run main.py --amenities downloads/shops.json --parking ./downloads/bicycle-parking.json --output distance_from_shops_to_nearest_bicycle_parking.geojson --catchment-lines
+        uv run main.py --amenities downloads/shops.json --parking ./downloads/bicycle-parking.json --output catchment_from_shops_to_nearest_bicycle_parking.geojson --catchment-lines
 
     - name: Build geojson of catchment lines from buildings to bicycle parking
       run: |
-        uv run main.py --amenities downloads/buildings.json --parking ./downloads/bicycle-parking.json --output distance_from_buildings_to_nearest_bicycle_parking.geojson --catchment-lines
+        uv run main.py --amenities downloads/buildings.json --parking ./downloads/bicycle-parking.json --output catchment_from_buildings_to_nearest_bicycle_parking.geojson --catchment-lines
 
     # cars
 
