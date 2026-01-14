@@ -640,6 +640,34 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.858494,
+            43.347674
+          ],
+          [
+            -79.845915,
+            43.361323
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "id": 280162740,
+        "type": "node",
+        "_id_closest": 11914130307,
+        "_type_closest": "node",
+        "_lat_closest": 43.361323,
+        "_lon_closest": -79.845915,
+        "_distance_meters": 1827.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.812534,
             43.38781
           ],
@@ -2376,6 +2404,64 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.861096,
+            43.349487
+          ],
+          [
+            -79.845915,
+            43.361323
+          ]
+        ]
+      },
+      "properties": {
+        "created_by": "Potlatch 0.10b",
+        "tourism": "viewpoint",
+        "id": 288924274,
+        "type": "node",
+        "_id_closest": 11914130307,
+        "_type_closest": "node",
+        "_lat_closest": 43.361323,
+        "_lon_closest": -79.845915,
+        "_distance_meters": 1800.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.798344,
+            43.32567
+          ],
+          [
+            -79.798532,
+            43.325932
+          ]
+        ]
+      },
+      "properties": {
+        "created_by": "Potlatch 0.10b",
+        "tourism": "picnic_site",
+        "id": 288927282,
+        "type": "node",
+        "_id_closest": 7859172209,
+        "_type_closest": "node",
+        "_lat_closest": 43.3259321,
+        "_lon_closest": -79.7985325,
+        "_distance_meters": 33.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.796779,
             43.325639
           ],
@@ -2680,6 +2766,120 @@
         "_lat_closest": 43.335023,
         "_lon_closest": -79.7929693,
         "_distance_meters": 654.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.801596,
+            43.318676
+          ],
+          [
+            -79.802197,
+            43.318016
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Joseph Brant Museum",
+        "tourism": "museum",
+        "website": "https://museumsofburlington.ca/visitor-information/joseph-brant-museum/",
+        "id": 367786839,
+        "type": "node",
+        "_id_closest": 10817676384,
+        "_type_closest": "node",
+        "_lat_closest": 43.3180157,
+        "_lon_closest": -79.8021967,
+        "_distance_meters": 88.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.878738,
+            43.294664
+          ],
+          [
+            -79.878425,
+            43.291419
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "id": 403837314,
+        "type": "node",
+        "_id_closest": 9705758484,
+        "_type_closest": "node",
+        "_lat_closest": 43.2914193,
+        "_lon_closest": -79.8784252,
+        "_distance_meters": 362.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.879358,
+            43.294843
+          ],
+          [
+            -79.878425,
+            43.291419
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "id": 403837315,
+        "type": "node",
+        "_id_closest": 9705758484,
+        "_type_closest": "node",
+        "_lat_closest": 43.2914193,
+        "_lon_closest": -79.8784252,
+        "_distance_meters": 388.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.880921,
+            43.294343
+          ],
+          [
+            -79.880726,
+            43.291396
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "id": 403837316,
+        "type": "node",
+        "_id_closest": 12099702602,
+        "_type_closest": "node",
+        "_lat_closest": 43.2913965,
+        "_lon_closest": -79.8807264,
+        "_distance_meters": 328.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -4724,6 +4924,34 @@
         "_lat_closest": 43.3787152,
         "_lon_closest": -79.7561166,
         "_distance_meters": 1514.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.726666,
+            43.368151
+          ],
+          [
+            -79.748888,
+            43.372318
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "id": 1097801778,
+        "type": "node",
+        "_id_closest": 11952380608,
+        "_type_closest": "node",
+        "_lat_closest": 43.3723176,
+        "_lon_closest": -79.7488882,
+        "_distance_meters": 1855.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -9135,6 +9363,34 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.798906,
+            43.326223
+          ],
+          [
+            -79.798622,
+            43.326128
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "picnic_site",
+        "id": 1715140880,
+        "type": "node",
+        "_id_closest": 10998405121,
+        "_type_closest": "node",
+        "_lat_closest": 43.3261281,
+        "_lon_closest": -79.7986224,
+        "_distance_meters": 25.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.799591,
             43.326733
           ],
@@ -9389,6 +9645,34 @@
         "_distance_meters": 13.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.802171,
+            43.305392
+          ],
+          [
+            -79.800141,
+            43.308581
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "id": 1720731248,
+        "type": "node",
+        "_id_closest": 12915598620,
+        "_type_closest": "node",
+        "_lat_closest": 43.3085808,
+        "_lon_closest": -79.8001407,
+        "_distance_meters": 391.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
       }
     },
     {
@@ -11447,6 +11731,62 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.845688,
+            43.301653
+          ],
+          [
+            -79.85269,
+            43.303672
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "picnic_site",
+        "id": 2093010393,
+        "type": "node",
+        "_id_closest": 11917978991,
+        "_type_closest": "node",
+        "_lat_closest": 43.3036716,
+        "_lon_closest": -79.8526903,
+        "_distance_meters": 609.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.845341,
+            43.301972
+          ],
+          [
+            -79.85269,
+            43.303672
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "picnic_site",
+        "id": 2093010399,
+        "type": "node",
+        "_id_closest": 11917978991,
+        "_type_closest": "node",
+        "_lat_closest": 43.3036716,
+        "_lon_closest": -79.8526903,
+        "_distance_meters": 624.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.846056,
             43.301833
           ],
@@ -11468,6 +11808,118 @@
         "_lat_closest": 43.3036716,
         "_lon_closest": -79.8526903,
         "_distance_meters": 574.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.842709,
+            43.302732
+          ],
+          [
+            -79.845958,
+            43.308176
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "id": 2093010579,
+        "type": "node",
+        "_id_closest": 13453247129,
+        "_type_closest": "node",
+        "_lat_closest": 43.3081761,
+        "_lon_closest": -79.8459583,
+        "_distance_meters": 660.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.841497,
+            43.302925
+          ],
+          [
+            -79.845958,
+            43.308176
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "id": 2093010617,
+        "type": "node",
+        "_id_closest": 13453247129,
+        "_type_closest": "node",
+        "_lat_closest": 43.3081761,
+        "_lon_closest": -79.8459583,
+        "_distance_meters": 686.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.84039,
+            43.303243
+          ],
+          [
+            -79.845958,
+            43.308176
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "id": 2093010684,
+        "type": "node",
+        "_id_closest": 13453247129,
+        "_type_closest": "node",
+        "_lat_closest": 43.3081761,
+        "_lon_closest": -79.8459583,
+        "_distance_meters": 710.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.839132,
+            43.303972
+          ],
+          [
+            -79.845958,
+            43.308176
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "id": 2093010763,
+        "type": "node",
+        "_id_closest": 13453247129,
+        "_type_closest": "node",
+        "_lat_closest": 43.3081761,
+        "_lon_closest": -79.8459583,
+        "_distance_meters": 724.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -12152,6 +12604,34 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.752808,
+            43.35209
+          ],
+          [
+            -79.770504,
+            43.352836
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "id": 2339934516,
+        "type": "node",
+        "_id_closest": 13454770764,
+        "_type_closest": "node",
+        "_lat_closest": 43.3528356,
+        "_lon_closest": -79.7705041,
+        "_distance_meters": 1433.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.794058,
             43.387833
           ],
@@ -12181,6 +12661,64 @@
         "_lon_closest": -79.7950366,
         "_distance_meters": 79.0,
         "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.800736,
+            43.318121
+          ],
+          [
+            -79.802197,
+            43.318016
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "wheelchair": "yes",
+        "id": 2412756443,
+        "type": "node",
+        "_id_closest": 10817676384,
+        "_type_closest": "node",
+        "_lat_closest": 43.3180157,
+        "_lon_closest": -79.8021967,
+        "_distance_meters": 119.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.800715,
+            43.318432
+          ],
+          [
+            -79.802197,
+            43.318016
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "wheelchair": "yes",
+        "id": 2412756447,
+        "type": "node",
+        "_id_closest": 10817676384,
+        "_type_closest": "node",
+        "_lat_closest": 43.3180157,
+        "_lon_closest": -79.8021967,
+        "_distance_meters": 128.0,
+        "_under_one_minute": 0,
         "_under_two_minute": 1
       }
     },
@@ -16312,6 +16850,42 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.797742,
+            43.324174
+          ],
+          [
+            -79.797763,
+            43.324256
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "414",
+        "addr:postcode": "L7S 1T7",
+        "addr:province": "On",
+        "addr:street": "Locust Street",
+        "information": "office",
+        "name": "Burlington Tourism Information",
+        "tourism": "information",
+        "website": "https://tourismburlington.ca/",
+        "id": 3088404783,
+        "type": "node",
+        "_id_closest": 10998405123,
+        "_type_closest": "node",
+        "_lat_closest": 43.3242557,
+        "_lon_closest": -79.7977625,
+        "_distance_meters": 9.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.865293,
             43.2906
           ],
@@ -17988,6 +18562,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.859738,
+            43.360692
+          ],
+          [
+            -79.846099,
+            43.361528
+          ]
+        ]
+      },
+      "properties": {
+        "note": "I think it's known as Signal Hill.  Story says that during the war of 1812 there was a watch post here (don't know if it's true or not)",
+        "tourism": "viewpoint",
+        "id": 3437893926,
+        "type": "node",
+        "_id_closest": 11914130316,
+        "_type_closest": "node",
+        "_lat_closest": 43.3615281,
+        "_lon_closest": -79.8460988,
+        "_distance_meters": 1107.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.800123,
             43.327077
           ],
@@ -19493,6 +20096,36 @@
         "_lat_closest": 43.3791183,
         "_lon_closest": -79.7607779,
         "_distance_meters": 4.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.760623,
+            43.379525
+          ],
+          [
+            -79.760605,
+            43.379539
+          ]
+        ]
+      },
+      "properties": {
+        "information": "board",
+        "name": "GO Schedule",
+        "tourism": "information",
+        "id": 3623486422,
+        "type": "node",
+        "_id_closest": 3623486432,
+        "_type_closest": "node",
+        "_lat_closest": 43.3795391,
+        "_lon_closest": -79.7606046,
+        "_distance_meters": 2.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
       }
@@ -24014,6 +24647,38 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.8359,
+            43.319829
+          ],
+          [
+            -79.834636,
+            43.320193
+          ]
+        ]
+      },
+      "properties": {
+        "brand": "Knights Inn",
+        "brand:wikidata": "Q6422409",
+        "brand:wikipedia": "en:Knights Inn",
+        "name": "Knights Inn",
+        "tourism": "motel",
+        "id": 4044978957,
+        "type": "node",
+        "_id_closest": 13451323721,
+        "_type_closest": "node",
+        "_lat_closest": 43.3201934,
+        "_lon_closest": -79.8346359,
+        "_distance_meters": 110.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.831646,
             43.323227
           ],
@@ -24069,6 +24734,39 @@
         "_distance_meters": 52.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.849848,
+            43.309496
+          ],
+          [
+            -79.845958,
+            43.308176
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "99",
+        "addr:street": "Plains Road East",
+        "internet_access": "wlan",
+        "name": "Royal Inn",
+        "smoking": "no",
+        "tourism": "motel",
+        "id": 4044978960,
+        "type": "node",
+        "_id_closest": 13453247129,
+        "_type_closest": "node",
+        "_lat_closest": 43.3081761,
+        "_lon_closest": -79.8459583,
+        "_distance_meters": 347.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
       }
     },
     {
@@ -27250,6 +27948,67 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.753929,
+            43.370995
+          ],
+          [
+            -79.755693,
+            43.369208
+          ]
+        ]
+      },
+      "properties": {
+        "board_type": "notice",
+        "information": "board",
+        "name": "Pindale Community Announcements Board",
+        "operator": "City of Burlington",
+        "tourism": "information",
+        "id": 5355347591,
+        "type": "node",
+        "_id_closest": 11506927219,
+        "_type_closest": "node",
+        "_lat_closest": 43.3692082,
+        "_lon_closest": -79.7556929,
+        "_distance_meters": 245.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.780163,
+            43.410904
+          ],
+          [
+            -79.80109,
+            43.41162
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Avalon Parkette Lookout",
+        "tourism": "viewpoint",
+        "id": 5368473247,
+        "type": "node",
+        "_id_closest": 11897226670,
+        "_type_closest": "node",
+        "_lat_closest": 43.41162,
+        "_lon_closest": -79.80109,
+        "_distance_meters": 1692.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.784421,
             43.354377
           ],
@@ -27426,6 +28185,36 @@
         "_distance_meters": 301.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.793977,
+            43.347904
+          ],
+          [
+            -79.79409,
+            43.347088
+          ]
+        ]
+      },
+      "properties": {
+        "information": "office",
+        "name": "Guest Services",
+        "tourism": "information",
+        "id": 5645954421,
+        "type": "node",
+        "_id_closest": 11615021109,
+        "_type_closest": "node",
+        "_lat_closest": 43.3470884,
+        "_lon_closest": -79.7940899,
+        "_distance_meters": 91.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 1
       }
     },
     {
@@ -28055,6 +28844,62 @@
         "_distance_meters": 376.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.793386,
+            43.322568
+          ],
+          [
+            -79.794719,
+            43.323474
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "id": 6515736376,
+        "type": "node",
+        "_id_closest": 11081385791,
+        "_type_closest": "node",
+        "_lat_closest": 43.3234743,
+        "_lon_closest": -79.7947195,
+        "_distance_meters": 148.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.79376,
+            43.322859
+          ],
+          [
+            -79.794719,
+            43.323474
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "id": 6515736868,
+        "type": "node",
+        "_id_closest": 11081385791,
+        "_type_closest": "node",
+        "_lat_closest": 43.3234743,
+        "_lon_closest": -79.7947195,
+        "_distance_meters": 103.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 1
       }
     },
     {
@@ -41793,6 +42638,38 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.880476,
+            43.303031
+          ],
+          [
+            -79.880726,
+            43.291396
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "1364",
+        "addr:street": "Old York Road",
+        "name": "Christmas on Old York",
+        "tourism": "attraction",
+        "website": "https://www.facebook.com/christmasonoldyork",
+        "id": 7082332108,
+        "type": "node",
+        "_id_closest": 12099702602,
+        "_type_closest": "node",
+        "_lat_closest": 43.2913965,
+        "_lon_closest": -79.8807264,
+        "_distance_meters": 1294.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.792164,
             43.368618
           ],
@@ -42506,6 +43383,35 @@
         "_lat_closest": 43.3905617,
         "_lon_closest": -79.7885267,
         "_distance_meters": 242.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.892093,
+            43.295471
+          ],
+          [
+            -79.880726,
+            43.291396
+          ]
+        ]
+      },
+      "properties": {
+        "name": "City View Inn",
+        "tourism": "motel",
+        "id": 7768303054,
+        "type": "node",
+        "_id_closest": 12099702602,
+        "_type_closest": "node",
+        "_lat_closest": 43.2913965,
+        "_lon_closest": -79.8807264,
+        "_distance_meters": 1025.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -44286,6 +45192,34 @@
         "_lon_closest": -79.7953389,
         "_distance_meters": 11.0,
         "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.79245,
+            43.325512
+          ],
+          [
+            -79.793778,
+            43.32573
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "motel",
+        "id": 7776126117,
+        "type": "node",
+        "_id_closest": 13454764338,
+        "_type_closest": "node",
+        "_lat_closest": 43.3257295,
+        "_lon_closest": -79.7937775,
+        "_distance_meters": 110.0,
+        "_under_one_minute": 0,
         "_under_two_minute": 1
       }
     },
@@ -46988,6 +47922,34 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.878527,
+            43.29431
+          ],
+          [
+            -79.878425,
+            43.291419
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "id": 8691157953,
+        "type": "node",
+        "_id_closest": 9705758484,
+        "_type_closest": "node",
+        "_lat_closest": 43.2914193,
+        "_lon_closest": -79.8784252,
+        "_distance_meters": 322.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.851888,
             43.306855
           ],
@@ -47295,6 +48257,34 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.877608,
+            43.425638
+          ],
+          [
+            -79.827794,
+            43.400751
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "id": 9241270690,
+        "type": "node",
+        "_id_closest": 12160004597,
+        "_type_closest": "node",
+        "_lat_closest": 43.4007505,
+        "_lon_closest": -79.827794,
+        "_distance_meters": 4883.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.793616,
             43.325434
           ],
@@ -47560,6 +48550,35 @@
         "_lat_closest": 43.3511265,
         "_lon_closest": -79.7905448,
         "_distance_meters": 299.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.871455,
+            43.291869
+          ],
+          [
+            -79.878425,
+            43.291419
+          ]
+        ]
+      },
+      "properties": {
+        "information": "board",
+        "tourism": "information",
+        "id": 9705769610,
+        "type": "node",
+        "_id_closest": 9705758484,
+        "_type_closest": "node",
+        "_lat_closest": 43.2914193,
+        "_lon_closest": -79.8784252,
+        "_distance_meters": 566.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -48358,6 +49377,39 @@
         "_distance_meters": 2.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.929946,
+            43.426431
+          ],
+          [
+            -79.827794,
+            43.400751
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "Windows XP Autumn background",
+        "description": "here's the location where the photographer shot the photo for the Windows XP wallpaper",
+        "direction": "135",
+        "name": "Windows XP's Autumn wallpaper",
+        "name:en": "Windows XP's Autumn wallpaper",
+        "tourism": "viewpoint",
+        "id": 9983082332,
+        "type": "node",
+        "_id_closest": 12160004597,
+        "_type_closest": "node",
+        "_lat_closest": 43.4007505,
+        "_lon_closest": -79.827794,
+        "_distance_meters": 8731.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
       }
     },
     {
@@ -51255,6 +52307,43 @@
         "_lat_closest": 43.309167,
         "_lon_closest": -79.8003523,
         "_distance_meters": 20.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.800049,
+            43.309262
+          ],
+          [
+            -79.800352,
+            43.309167
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "1094",
+        "addr:postcode": "L7S 1A7",
+        "addr:province": "ON",
+        "addr:street": "Lakeshore Road",
+        "information": "environment",
+        "name": "BurlingtonGreen Eco-Hub",
+        "operator": "BurlingtonGreen Environmental Association",
+        "tourism": "information",
+        "website": "https://burlingtongreen.org",
+        "id": 11967474649,
+        "type": "node",
+        "_id_closest": 11964992066,
+        "_type_closest": "node",
+        "_lat_closest": 43.309167,
+        "_lon_closest": -79.8003523,
+        "_distance_meters": 27.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
       }
@@ -56796,6 +57885,34 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.728296,
+            43.367173
+          ],
+          [
+            -79.748888,
+            43.372318
+          ]
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "id": 13228177118,
+        "type": "node",
+        "_id_closest": 11952380608,
+        "_type_closest": "node",
+        "_lat_closest": 43.3723176,
+        "_lon_closest": -79.7488882,
+        "_distance_meters": 1760.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.72833,
             43.367866
           ],
@@ -60751,6 +61868,36 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.835804,
+            43.320202
+          ],
+          [
+            -79.834636,
+            43.320193
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "Crestwood Motel",
+        "tourism": "motel",
+        "id": 43938046,
+        "type": "way",
+        "_id_closest": 13451323721,
+        "_type_closest": "node",
+        "_lat_closest": 43.3201934,
+        "_lon_closest": -79.8346359,
+        "_distance_meters": 94.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.820495,
             43.330455
           ],
@@ -60920,6 +62067,44 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.79522,
+            43.324271
+          ],
+          [
+            -79.795702,
+            43.324311
+          ]
+        ]
+      },
+      "properties": {
+        "attribution": "Natural Resources Canada",
+        "building": "yes",
+        "building:levels": "1",
+        "canvec:CODE": "2010252",
+        "canvec:UUID": "68a98ebe399a4fe2a61c0fbacb73e20d",
+        "height": "4",
+        "name": "Waterfront Hotel",
+        "note": "Not labelled on the main sign as a Travellodge",
+        "source": "CanVec_Import_2009",
+        "tourism": "hotel",
+        "wheelchair": "yes",
+        "id": 43938368,
+        "type": "way",
+        "_id_closest": 11081385787,
+        "_type_closest": "node",
+        "_lat_closest": 43.3243107,
+        "_lon_closest": -79.7957023,
+        "_distance_meters": 39.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.790005,
             43.335791
           ],
@@ -60994,6 +62179,40 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.879667,
+            43.290955
+          ],
+          [
+            -79.880726,
+            43.291396
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "1110",
+        "addr:street": "Plains Road West",
+        "building": "yes",
+        "check_date": "2025-06-01",
+        "name": "Esquire Motel",
+        "tourism": "motel",
+        "id": 43938588,
+        "type": "way",
+        "_id_closest": 12099702602,
+        "_type_closest": "node",
+        "_lat_closest": 43.2913965,
+        "_lon_closest": -79.8807264,
+        "_distance_meters": 99.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.840993,
             43.316193
           ],
@@ -61048,6 +62267,39 @@
         "_lat_closest": 43.3644983,
         "_lon_closest": -79.8458641,
         "_distance_meters": 534.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.805863,
+            43.348917
+          ],
+          [
+            -79.802735,
+            43.344313
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "2404",
+        "addr:street": "Queensway Drive",
+        "building": "hotel",
+        "name": "Canada's Best Value Inn",
+        "tourism": "motel",
+        "website": "http://www.canadasbestvalueinn.com/",
+        "id": 43938611,
+        "type": "way",
+        "_id_closest": 11972537770,
+        "_type_closest": "node",
+        "_lat_closest": 43.3443129,
+        "_lon_closest": -79.8027347,
+        "_distance_meters": 571.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -61356,6 +62608,43 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.800351,
+            43.352735
+          ],
+          [
+            -79.79742,
+            43.354278
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "3063",
+        "addr:street": "South Service Road",
+        "brand": "Holiday Inn",
+        "brand:wikidata": "Q2717882",
+        "brand:wikipedia": "en:Holiday Inn",
+        "building": "yes",
+        "name": "Holiday Inn Burlington",
+        "operator": "Innvest REIT",
+        "tourism": "hotel",
+        "website": "https://www.holidayinn.com/hotels/us/en/burlington/yurca/hoteldetail",
+        "id": 43939245,
+        "type": "way",
+        "_id_closest": 10958035030,
+        "_type_closest": "node",
+        "_lat_closest": 43.3542777,
+        "_lon_closest": -79.79742,
+        "_distance_meters": 293.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.75066,
             43.369171
           ],
@@ -61629,6 +62918,37 @@
         "_distance_meters": 39.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.789777,
+            43.363078
+          ],
+          [
+            -79.785208,
+            43.362323
+          ]
+        ]
+      },
+      "properties": {
+        "building": "hotel",
+        "name": "Admiral Inn",
+        "source": "CanVec_Import_2009",
+        "tourism": "hotel",
+        "id": 43939793,
+        "type": "way",
+        "_id_closest": 12551756423,
+        "_type_closest": "node",
+        "_lat_closest": 43.3623233,
+        "_lon_closest": -79.7852082,
+        "_distance_meters": 379.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
       }
     },
     {
@@ -62296,6 +63616,38 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.794497,
+            43.359012
+          ],
+          [
+            -79.79742,
+            43.354278
+          ]
+        ]
+      },
+      "properties": {
+        "brand": "Comfort Inn",
+        "brand:wikidata": "Q113152349",
+        "building": "yes",
+        "name": "Comfort Inn",
+        "tourism": "hotel",
+        "id": 43940806,
+        "type": "way",
+        "_id_closest": 10958035030,
+        "_type_closest": "node",
+        "_lat_closest": 43.3542777,
+        "_lon_closest": -79.79742,
+        "_distance_meters": 577.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.79114,
             43.391186
           ],
@@ -62616,6 +63968,43 @@
         "_distance_meters": 55.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.805184,
+            43.349419
+          ],
+          [
+            -79.802735,
+            43.344313
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "2412",
+        "addr:street": "Queensway Drive",
+        "brand": "Best Western Plus",
+        "brand:wikidata": "Q38623383",
+        "brand:wikipedia": "en:Best Western",
+        "building": "hotel",
+        "name": "Best Western Plus",
+        "old_name": "Best Western",
+        "source": "survey",
+        "tourism": "hotel",
+        "id": 53831472,
+        "type": "way",
+        "_id_closest": 11972537770,
+        "_type_closest": "node",
+        "_lat_closest": 43.3443129,
+        "_lon_closest": -79.8027347,
+        "_distance_meters": 601.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
       }
     },
     {
@@ -63000,6 +64389,39 @@
         "_lat_closest": 43.37886,
         "_lon_closest": -79.7610509,
         "_distance_meters": 557.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.778724,
+            43.376554
+          ],
+          [
+            -79.782394,
+            43.387295
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "Motel 6 Burlington",
+        "brand": "Motel 6",
+        "brand:wikidata": "Q2188884",
+        "building": "yes",
+        "name": "Motel 6",
+        "tourism": "motel",
+        "id": 56751863,
+        "type": "way",
+        "_id_closest": 12565852979,
+        "_type_closest": "node",
+        "_lat_closest": 43.3872946,
+        "_lon_closest": -79.7823945,
+        "_distance_meters": 1231.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -63407,6 +64829,74 @@
         "_lat_closest": 43.3872946,
         "_lon_closest": -79.7823945,
         "_distance_meters": 535.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.846652,
+            43.422654
+          ],
+          [
+            -79.827794,
+            43.400751
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Mount Nemo Scout Camp",
+        "operator": "Scouts Canada",
+        "source": "CanVec 6.0 - NRCan",
+        "tourism": "camp_site",
+        "website": "http://www.hwscouting.ca/mount_nemo.htm",
+        "id": 76961422,
+        "type": "way",
+        "_id_closest": 12160004597,
+        "_type_closest": "node",
+        "_lat_closest": 43.4007505,
+        "_lon_closest": -79.827794,
+        "_distance_meters": 2873.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.852557,
+            43.431588
+          ],
+          [
+            -79.827794,
+            43.400751
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "5100",
+        "addr:street": "Appleby Line",
+        "name": "Sidrabene",
+        "operator": "St. Andrew's Latvian Lutheran",
+        "source": "CanVec 6.0 - NRCan",
+        "tourism": "camp_site",
+        "website": "http://www.standrewslatvian.org/sidrabene/",
+        "wikipedia": "en:Sidrabene",
+        "id": 76961561,
+        "type": "way",
+        "_id_closest": 12160004597,
+        "_type_closest": "node",
+        "_lat_closest": 43.4007505,
+        "_lon_closest": -79.827794,
+        "_distance_meters": 3970.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -71533,6 +73023,39 @@
         "_lat_closest": 43.3677241,
         "_lon_closest": -79.7991525,
         "_distance_meters": 457.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.78663,
+            43.364046
+          ],
+          [
+            -79.785208,
+            43.362323
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "950",
+        "addr:street": "Walker's Line",
+        "building": "yes",
+        "name": "Quality Hotel",
+        "source": "Bing",
+        "tourism": "hotel",
+        "id": 167275232,
+        "type": "way",
+        "_id_closest": 12551756423,
+        "_type_closest": "node",
+        "_lat_closest": 43.3623233,
+        "_lon_closest": -79.7852082,
+        "_distance_meters": 223.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -81302,6 +82825,44 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.757257,
+            43.392946
+          ],
+          [
+            -79.761193,
+            43.379711
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "985",
+        "addr:postcode": "L7L5S3",
+        "addr:province": "Ontario",
+        "addr:street": "Syscon Road",
+        "brand": "Hilton Garden Inn",
+        "brand:wikidata": "Q1162859",
+        "brand:wikipedia": "en:Hilton Garden Inn",
+        "building": "hotel",
+        "name": "Hilton Garden Inn",
+        "tourism": "hotel",
+        "id": 277024495,
+        "type": "way",
+        "_id_closest": 2565801108,
+        "_type_closest": "node",
+        "_lat_closest": 43.3797108,
+        "_lon_closest": -79.7611925,
+        "_distance_meters": 1506.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.847758,
             43.369775
           ],
@@ -81918,6 +83479,55 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.793873,
+            43.324963
+          ],
+          [
+            -79.794293,
+            43.324967
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "3",
+        "addr:postcode": "L7R 0G3",
+        "addr:province": "ON",
+        "addr:street": "Elizabeth Street",
+        "air_conditioning": "yes",
+        "brand": "Marriott",
+        "brand:wikidata": "Q3918608",
+        "brand:wikipedia": "en:Marriott Hotels & Resorts",
+        "building": "yes",
+        "check_date": "2024-07-26",
+        "floors": "9",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "The Pearle Hotel & Spa",
+        "operator": "Marriott",
+        "pets": "fee",
+        "phone": "+1 905-633-8558",
+        "rooms": "151",
+        "swimming_pool": "yes",
+        "tourism": "hotel",
+        "wheelchair": "yes",
+        "id": 297221581,
+        "type": "way",
+        "_id_closest": 11081385792,
+        "_type_closest": "node",
+        "_lat_closest": 43.3249671,
+        "_lon_closest": -79.7942932,
+        "_distance_meters": 34.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.871594,
             43.317714
           ],
@@ -81937,6 +83547,35 @@
         "_lat_closest": 43.3135199,
         "_lon_closest": -79.8561108,
         "_distance_meters": 1337.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.864939,
+            43.305496
+          ],
+          [
+            -79.864255,
+            43.302929
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Model Train Yard",
+        "tourism": "attraction",
+        "id": 297228805,
+        "type": "way",
+        "_id_closest": 11950680592,
+        "_type_closest": "node",
+        "_lat_closest": 43.3029295,
+        "_lon_closest": -79.8642545,
+        "_distance_meters": 291.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -85908,6 +87547,37 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.898491,
+            43.376953
+          ],
+          [
+            -79.845864,
+            43.364498
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Lost Forest Park & Camping Resort",
+        "phone": "+1-905-689-7648",
+        "tourism": "camp_site",
+        "website": "https://lostforestpark.com/",
+        "id": 482489600,
+        "type": "way",
+        "_id_closest": 11914130311,
+        "_type_closest": "node",
+        "_lat_closest": 43.3644983,
+        "_lon_closest": -79.8458641,
+        "_distance_meters": 4474.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.828209,
             43.344992
           ],
@@ -87605,6 +89275,45 @@
         "_lat_closest": 43.3797108,
         "_lon_closest": -79.7611925,
         "_distance_meters": 1463.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.75655,
+            43.39283
+          ],
+          [
+            -79.761193,
+            43.379711
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "975",
+        "addr:postcode": "L7L5S3",
+        "addr:province": "Ontario",
+        "addr:street": "Syscon Road",
+        "brand": "Homewood Suites",
+        "brand:wikidata": "Q5890701",
+        "building": "yes",
+        "name": "Homewood Suites by Hilton Burlington",
+        "official_name": "Homewood Suites by Hilton",
+        "tourism": "hotel",
+        "website": "https://www.hilton.com/en/hotels/ontbuhw-homewood-suites-burlington/?SEO_id=GMB-AMER-HG-ONTBUHW&y_source=1_MjA4NTM0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+        "id": 833992789,
+        "type": "way",
+        "_id_closest": 2565801108,
+        "_type_closest": "node",
+        "_lat_closest": 43.3797108,
+        "_lon_closest": -79.7611925,
+        "_distance_meters": 1506.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
