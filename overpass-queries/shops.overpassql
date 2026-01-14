@@ -5,6 +5,5 @@ nw(area.boundaryarea)[amenity][amenity!=bicycle_parking][amenity!=parking_space]
 nw(area.boundaryarea)[shop];
 nw(area.boundaryarea)[leisure][access!=private];
 node(area.boundaryarea)[public_transport=station];
-//nw(area.boundaryarea)[highway=bus_stop];
 );
 out center;
