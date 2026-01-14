@@ -13,6 +13,9 @@ downloads/shops.json: overpass-queries/shops.overpassql downloads
 downloads/buildings.json: overpass-queries/buildings.overpassql downloads
 	cat overpass-queries/buildings.overpassql | ./fetch-osm.sh > downloads/buildings.json
 
+downloads/transit.json: overpass-queries/transit.overpassql downloads
+	cat overpass-queries/transit.overpassql | ./fetch-osm.sh > downloads/transit.json
+
 
 downloads:
 	mkdir -p downloads/
