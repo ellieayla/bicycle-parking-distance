@@ -1,0 +1,127 @@
+---
+title: Disparity of distance of transit vs automobile parking from shops.
+description: Visualize transit availability by location, compared to availability of car parks.
+type: geojson
+popupTemplate: >
+  {% assign desc = properties.name | default: properties.amenity | default: properties.highway | default: properties.leisure %}
+  <h3>{{ desc }}</h3>
+  <p>
+    <b><a href="https://openstreetmap.org/{{ properties.type }}/{{ properties.id }}">OSM {{ properties.type}}/{{ properties.id }}</a></b>
+    is <b>{{ properties._distance_meters | round: 0 }} metres</b> from nearest transit:
+    <a href="https://openstreetmap.org/{{ properties._type_closest }}/{{ properties._id_closest }}">{{properties._type_closest}}/{{properties._id_closest}}</a>. That's a <b>{{ properties._distance_meters | divided_by: 80.0 | round: 1 }} minute walk</b>.
+  </p>
+  <p>compare with <b>{{ properties._distance_meters_disparity | round: 0 }} meters</b> to car park</p>
+  <p>{{geometry.coordinates[1]}},{{geometry.coordinates[0]}} <a href="https://www.google.com/maps/@{{geometry.coordinates[1]}},{{geometry.coordinates[0]}},100m">see on google maps</a></p>
+  <p>{%- for tag in properties %}<code>{{tag[0]}}={{tag[1]}}</code><br/>{% endfor %}</p>
+options:
+  zoom: 11.6
+  center: [ -79.805, 43.34 ]
+style:
+  extends: https://styles.trailsta.sh/maptiler-basic.json
+  layers:
+
+    - type: heatmap
+      beforeLayerId: waterway
+      maxzoom: 15
+      # Increase the heatmap weight based on disparity of service
+      heatmap-weight:
+        - interpolate
+        - [ linear ]
+        - [ get, _difference_distance_disparity ]
+        - -300
+        - 1
+        - -120
+        - 0
+      # Increase the heatmap color weight weight by zoom level
+      # heatmap-intensity is a multiplier on top of heatmap-weight
+      heatmap-intensity:
+        - interpolate
+        - [ linear ]
+        - [ zoom ]
+        - 0
+        - 1
+        - 9
+        - 3
+        - 150
+        - 20
+      # Color ramp for heatmap.  Domain is 0 (low) to 1 (high).
+      # Begin color ramp at 0-stop with a 0-transparency color
+      # to create a blur-like effect.
+      heatmap-color:
+        - interpolate
+        - [ linear ]
+        - [ heatmap-density ]
+        - 0
+        - rgba(33,102,172,0)
+        - 0.2
+        - rgb(239,138,98)
+        - 1
+        - rgb(178,24,43)
+      # Adjust the heatmap radius by zoom level
+      heatmap-radius:
+        - interpolate
+        - [ linear ]
+        - [ zoom ]
+        - 10
+        - 5
+        - 13
+        - 25
+      # Transition from heatmap to circle layer by zoom level
+      heatmap-opacity:
+        - interpolate
+        - [ linear ]
+        - [ zoom ]
+        - 14
+        - 1
+        - 15
+        - 0
+
+    - type: circle
+      beforeLayerId: road_one_way_arrow
+      minzoom: 10
+
+      _circle-color:
+        - interpolate
+        - [linear]
+        - [get, "_distance_meters"]
+        - 120
+        - rgba(0,202,0,255)
+        - 240
+        - rgb(239,0,9)
+        - 600
+        - rgb(0,0,0)
+
+      circle-color:
+        - interpolate
+        - [linear]
+        - [get, "_difference_distance_disparity"]
+        - -500
+        - rgb(0,0,0)
+        - -400
+        - rgb(239,0,9)
+        - -50
+        - rgba(0,202,0,255)
+
+      circle-stroke-color: white
+      circle-stroke-width: 1
+      # Transition from heatmap to circle layer by zoom level
+      circle-opacity:
+        - interpolate
+        - [linear]
+        - [zoom]
+        - 13
+        - 0
+        - 14
+        - 1
+
+      circle-stroke-opacity:
+        - interpolate
+        - [linear]
+        - [zoom]
+        - 13
+        - 0
+        - 14
+        - 1
+
+---
+https://raw.githubusercontent.com/ellieayla/bicycle-parking-distance/refs/heads/main/distance_from_shops_to_nearest_transit_disparity_vs_car_parking.geojson
