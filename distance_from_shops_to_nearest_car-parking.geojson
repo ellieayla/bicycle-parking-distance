@@ -6824,6 +6824,7 @@
       },
       "properties": {
         "amenity": "fountain",
+        "artist_name": "Almuth Lutkenhas",
         "fountain": "decorative",
         "name": "The Lady of the Lake",
         "id": 1617238130,
@@ -68674,40 +68675,6 @@
         "_type_closest": "way",
         "_lat_closest": 43.3762563,
         "_lon_closest": -79.8008677,
-        "_distance_meters": 41.0,
-        "_under_one_minute": 1,
-        "_under_two_minute": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.806445,
-          43.331024
-        ]
-      },
-      "properties": {
-        "addr:housenumber": "688",
-        "addr:street": "Brant Street",
-        "amenity": "post_office",
-        "brand": "Canada Post",
-        "brand:wikidata": "Q1032001",
-        "building": "yes",
-        "building:colour": "red",
-        "building:material": "brick",
-        "name": "Canada Post",
-        "operator": "Canada Post",
-        "operator:wikidata": "Q1032001",
-        "operator:wikipedia": "en:Canada Post",
-        "source": "Bing",
-        "id": 148409542,
-        "type": "way",
-        "_id_closest": 359401773,
-        "_type_closest": "way",
-        "_lat_closest": 43.3312969,
-        "_lon_closest": -79.8067917,
         "_distance_meters": 41.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
