@@ -22,7 +22,7 @@ downloads:
 
 
 .PHONY: download
-download: downloads/bicycle-parking.json downloads/car-parking.json downloads/shops.json downloads/buildings.json
+download: downloads/bicycle-parking.json downloads/car-parking.json downloads/shops.json downloads/buildings.json downloads/transit.json
 	ls -l downloads/
 
 .PHONY: clean
