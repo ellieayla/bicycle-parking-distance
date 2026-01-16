@@ -1060,9 +1060,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "1505",
+        "addr:postcode": "L7P 3B6",
+        "addr:province": "On",
+        "addr:street": "Guelph Line",
         "amenity": "restaurant",
         "cuisine": "sushi",
         "name": "Ikki Sushi",
+        "phone": "+1-905-336 8686",
+        "website": "https://ikkisushi.ca/",
         "id": 288064687,
         "type": "node",
         "_id_closest": 291840765,
@@ -1764,6 +1771,10 @@
       "properties": {
         "amenity": "restaurant",
         "name": "Tea House",
+        "phone": "+1-905-527-1158 ext. 334",
+        "reservation": "required",
+        "website": "https://www.rbg.ca/dining/turner-pavilion-teahouse/",
+        "website:menu": "https://www.rbg.ca/dining/turner-pavilion-teahouse/#menu",
         "id": 403852145,
         "type": "node",
         "_id_closest": 167089778,
@@ -3158,12 +3169,19 @@
         ]
       },
       "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "2025",
+        "addr:postcode": "L7P 4M8",
+        "addr:province": "On",
+        "addr:street": "Upper Middle Road",
         "amenity": "fast_food",
         "brand": "Gino's Pizza",
         "brand:wikidata": "Q84029134",
         "cuisine": "pizza",
         "name": "Gino's Pizza",
+        "phone": "+1-866-310-4466",
         "takeaway": "yes",
+        "website": "https://www.ginospizza.ca/",
         "wheelchair": "yes",
         "id": 861823572,
         "type": "node",
@@ -3222,6 +3240,7 @@
         "check_date:opening_hours": "2024-08-26",
         "name": "The Beer Store",
         "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+        "phone": "+1-905-336-5432",
         "shop": "alcohol",
         "website": "https://www.thebeerstore.ca/locations/supercentre-guelph-line",
         "wheelchair": "yes",
@@ -3250,7 +3269,9 @@
         "brand:wikidata": "Q845263",
         "brand:wikipedia": "en:Liquor Control Board of Ontario",
         "name": "LCBO",
+        "phone": "+1-905-335-0640",
         "shop": "alcohol",
+        "website": "https://www.lcbo.com/en/stores/guelph-line-upper-middle-497",
         "wheelchair": "yes",
         "id": 861823590,
         "type": "node",
@@ -5637,6 +5658,10 @@
         ]
       },
       "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "694",
+        "addr:province": "On",
+        "addr:street": "Spring Gardens Road",
         "air_conditioning": "yes",
         "amenity": "fast_food",
         "check_date": "2023-07-22",
@@ -5646,8 +5671,10 @@
         "outdoor_seating": "yes",
         "payment:mastercard": "yes",
         "payment:visa": "yes",
+        "phone": "+1-905-527-9679",
         "takeaway": "yes",
         "toilets:wheelchair": "no",
+        "website": "https://easterbrooks.ca/",
         "wheelchair": "limited",
         "id": 1636173266,
         "type": "node",
@@ -5704,11 +5731,11 @@
         "shop": "computer",
         "id": 1650018783,
         "type": "node",
-        "_id_closest": 12442626885,
+        "_id_closest": 13457610990,
         "_type_closest": "node",
-        "_lat_closest": 43.3929188,
-        "_lon_closest": -79.7941691,
-        "_distance_meters": 24.0,
+        "_lat_closest": 43.392927,
+        "_lon_closest": -79.7941045,
+        "_distance_meters": 22.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
       }
@@ -9971,13 +9998,21 @@
         ]
       },
       "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "1505",
+        "addr:postcode": "L7P 3B6",
+        "addr:province": "On",
+        "addr:street": "Guelph Line",
         "brand": "Plato's Closet",
         "brand:wikidata": "Q61779112",
         "check_date": "2025-12-29",
         "name": "Plato's Closet",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+        "phone": "+1-905-315-7474",
         "second_hand": "only",
         "shop": "clothes",
         "toilets:wheelchair": "yes",
+        "website": "https://platoscloset.com/locations/burlington-on/",
         "wheelchair": "yes",
         "id": 2562373636,
         "type": "node",
@@ -13807,9 +13842,17 @@
       "properties": {
         "addr:city": "Burlington",
         "addr:housenumber": "4380",
+        "addr:postcode": "L7L 4X2",
+        "addr:province": "On",
         "addr:street": "Harvester Road",
+        "addr:unit": "2",
+        "email": "mailto:burlington@sayal.com",
+        "fax": "+1-905-333-3466",
         "name": "Sayal Electronics",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-16:00",
+        "phone": "+1-905-333-3319",
         "shop": "electronics",
+        "website": "https://secure.sayal.com/STORE4/",
         "id": 3422000110,
         "type": "node",
         "_id_closest": 465001374,
@@ -21841,11 +21884,11 @@
         "takeaway": "yes",
         "id": 6173863143,
         "type": "node",
-        "_id_closest": 337696471,
-        "_type_closest": "way",
-        "_lat_closest": 43.3927019,
-        "_lon_closest": -79.7940014,
-        "_distance_meters": 53.0,
+        "_id_closest": 13457610988,
+        "_type_closest": "node",
+        "_lat_closest": 43.3927346,
+        "_lon_closest": -79.7937288,
+        "_distance_meters": 42.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
       }
@@ -28807,8 +28850,18 @@
         ]
       },
       "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "1505",
+        "addr:postcode": "L7P 3B6",
+        "addr:province": "On",
+        "addr:street": "Guelph Line",
+        "addr:unit": "10A",
         "amenity": "restaurant",
+        "cuisine": "tapas",
         "name": "Barra Fion",
+        "phone": "+1-905-319-3466",
+        "reservation": "yes",
+        "website": "https://www.barrafion.ca",
         "id": 6765410101,
         "type": "node",
         "_id_closest": 12663529973,
@@ -31630,31 +31683,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.788839,
-          43.351686
-        ]
-      },
-      "properties": {
-        "brand": "Bouclair",
-        "brand:wikidata": "Q20638837",
-        "name": "Bouclair Home",
-        "shop": "interior_decoration",
-        "id": 7061164006,
-        "type": "node",
-        "_id_closest": 260636514,
-        "_type_closest": "way",
-        "_lat_closest": 43.3519344,
-        "_lon_closest": -79.7891232,
-        "_distance_meters": 36.0,
-        "_under_one_minute": 1,
-        "_under_two_minute": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.788616,
           43.351834
         ]
@@ -31695,13 +31723,20 @@
         ]
       },
       "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "3230",
+        "addr:postcode": "L7N 3M9",
+        "addr:province": "On",
+        "addr:street": "Fairview Street",
         "brand": "Dollar Tree",
         "brand:wikidata": "Q5289230",
         "brand:wikipedia": "en:Dollar Tree",
         "check_date": "2025-06-19",
         "name": "Dollar Tree",
         "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-19:00",
+        "phone": "+1905-633-8600",
         "shop": "variety_store",
+        "website": "https://locations.dollartreecanada.com/on/burlington/3230-fairview-street",
         "id": 7061164009,
         "type": "node",
         "_id_closest": 260636519,
@@ -32741,9 +32776,11 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "caribbean",
+        "drive_through": "no",
         "name": "D Hot Shoppe",
         "opening_hours": "Tu-Sa 11:00-18:00",
         "outdoor_seating": "no",
+        "phone": "+1 905-631-8698",
         "website": "https://dhotshoppe.com",
         "id": 7061184842,
         "type": "node",
@@ -40915,7 +40952,14 @@
         ]
       },
       "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "4155",
+        "addr:postcode": "L7L 2A4",
+        "addr:province": "On",
+        "addr:street": "Fairview Street",
         "name": "Team Aquatic",
+        "opening_hours": "Tu-We 10:00-17:00; Th 10:00-19:00; Fr 10:00-17:00; Sa 10:00-16:00",
+        "phone": "+1-905-632-2590",
         "shop": "water_sports",
         "website": "https://team-aquatic.com/",
         "id": 11973567925,
@@ -40939,8 +40983,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "4155",
+        "addr:postcode": "L7L 2A4",
+        "addr:province": "On",
+        "addr:street": "Fairview Street",
         "name": "Swadesh Supermarket",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "phone": "+1 905-632-0033",
         "shop": "supermarket",
+        "website": "https://www.swadesh.ca/",
         "id": 11973567926,
         "type": "node",
         "_id_closest": 372606448,
@@ -44273,21 +44325,24 @@
         "brand:wikidata": "Q1145669",
         "brand:wikipedia": "en:Metro Inc.",
         "building": "retail",
+        "fax": "+1 905-331-7810",
         "name": "Metro",
         "opening_hours": "Mo-Su 07:00-22:00",
         "payment:cash": "yes",
         "payment:interac": "yes",
         "payment:mastercard": "yes",
         "payment:visa": "yes",
+        "phone": "+1 905-331-7900",
         "shop": "supermarket",
+        "website": "https://www.metro.ca/en/find-a-grocery/223",
         "wheelchair": "yes",
         "id": 25903405,
         "type": "way",
-        "_id_closest": 337696471,
-        "_type_closest": "way",
-        "_lat_closest": 43.3927019,
-        "_lon_closest": -79.7940014,
-        "_distance_meters": 57.0,
+        "_id_closest": 13457610991,
+        "_type_closest": "node",
+        "_lat_closest": 43.3926913,
+        "_lon_closest": -79.7938705,
+        "_distance_meters": 54.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
       }
@@ -47031,6 +47086,7 @@
         "addr:street": "New Street",
         "building": "yes",
         "name": "Dodsworth and Brown Funeral Home",
+        "phone": "+1-905-637-5233",
         "shop": "funeral_directors",
         "id": 43940057,
         "type": "way",
@@ -47091,6 +47147,7 @@
         "building": "yes",
         "check_date": "2025-09-06",
         "name": "Music/Drama Centre",
+        "website": "https://www.teentourband.org/",
         "id": 43940219,
         "type": "way",
         "_id_closest": 167079946,
@@ -54756,6 +54813,7 @@
         "amenity": "theatre",
         "building": "yes",
         "name": "Drury Lane Theatrical Productions",
+        "website": "https://www.drurylane.ca/",
         "id": 167079815,
         "type": "way",
         "_id_closest": 167866275,
@@ -67370,6 +67428,7 @@
         "name": "McMaster University - DeGroote School of Business",
         "operator": "McMaster University",
         "source": "Bing",
+        "website": "https://degroote.mcmaster.ca",
         "id": 772705583,
         "type": "way",
         "_id_closest": 805111305,
@@ -70089,204 +70148,6 @@
         "_distance_meters": 114.0,
         "_under_one_minute": 0,
         "_under_two_minute": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.824527,
-          43.385005
-        ]
-      },
-      "properties": {
-        "leisure": "swimming_pool",
-        "id": 1341164520,
-        "type": "way",
-        "_id_closest": 266138952,
-        "_type_closest": "way",
-        "_lat_closest": 43.382595,
-        "_lon_closest": -79.8237953,
-        "_distance_meters": 274.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.824544,
-          43.385191
-        ]
-      },
-      "properties": {
-        "leisure": "swimming_pool",
-        "id": 1341164521,
-        "type": "way",
-        "_id_closest": 266138952,
-        "_type_closest": "way",
-        "_lat_closest": 43.382595,
-        "_lon_closest": -79.8237953,
-        "_distance_meters": 295.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.824181,
-          43.38499
-        ]
-      },
-      "properties": {
-        "leisure": "swimming_pool",
-        "id": 1341164522,
-        "type": "way",
-        "_id_closest": 266138952,
-        "_type_closest": "way",
-        "_lat_closest": 43.382595,
-        "_lon_closest": -79.8237953,
-        "_distance_meters": 268.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.824025,
-          43.384848
-        ]
-      },
-      "properties": {
-        "leisure": "swimming_pool",
-        "id": 1341164523,
-        "type": "way",
-        "_id_closest": 266138952,
-        "_type_closest": "way",
-        "_lat_closest": 43.382595,
-        "_lon_closest": -79.8237953,
-        "_distance_meters": 251.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.823627,
-          43.384807
-        ]
-      },
-      "properties": {
-        "leisure": "swimming_pool",
-        "id": 1341164524,
-        "type": "way",
-        "_id_closest": 266138952,
-        "_type_closest": "way",
-        "_lat_closest": 43.382595,
-        "_lon_closest": -79.8237953,
-        "_distance_meters": 246.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.823447,
-          43.384791
-        ]
-      },
-      "properties": {
-        "leisure": "swimming_pool",
-        "id": 1341164525,
-        "type": "way",
-        "_id_closest": 266138952,
-        "_type_closest": "way",
-        "_lat_closest": 43.382595,
-        "_lon_closest": -79.8237953,
-        "_distance_meters": 246.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.823013,
-          43.384791
-        ]
-      },
-      "properties": {
-        "leisure": "swimming_pool",
-        "id": 1341164526,
-        "type": "way",
-        "_id_closest": 266138952,
-        "_type_closest": "way",
-        "_lat_closest": 43.382595,
-        "_lon_closest": -79.8237953,
-        "_distance_meters": 252.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.822832,
-          43.384787
-        ]
-      },
-      "properties": {
-        "leisure": "swimming_pool",
-        "id": 1341164527,
-        "type": "way",
-        "_id_closest": 266138952,
-        "_type_closest": "way",
-        "_lat_closest": 43.382595,
-        "_lon_closest": -79.8237953,
-        "_distance_meters": 256.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.823676,
-          43.384351
-        ]
-      },
-      "properties": {
-        "leisure": "swimming_pool",
-        "id": 1341164528,
-        "type": "way",
-        "_id_closest": 266138952,
-        "_type_closest": "way",
-        "_lat_closest": 43.382595,
-        "_lon_closest": -79.8237953,
-        "_distance_meters": 196.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
       }
     },
     {
