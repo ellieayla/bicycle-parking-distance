@@ -13,8 +13,27 @@ dependencies = [
 
 [dependency-groups]
 dev = [
+    "lxml>=6.0.2",
+    "mypy>=1.19.1",
+    "pandas-stubs>=2.3.3.260113",
     "pytest>=9.0.2",
+    "scikit-learn-stubs>=0.0.3",
 ]
+
+[tool.mypy]
+check_untyped_defs = true
+warn_unused_ignores = true
+warn_unreachable = true
+show_error_codes = true
+warn_return_any = true
+disallow_untyped_defs = true
+
+files = "main.py"
+exclude = "tests_.*.py"
+
+[[tool.mypy.overrides]]
+module = ["geojson.*"]
+follow_untyped_imports = true
 
 # uv tool run pytest-watcher -sv .
 [tool.pytest-watcher]
@@ -26,3 +45,10 @@ runner = "uv"
 runner_args = ["run", "pytest"]
 patterns = ["*.py"]
 ignore_patterns = []
+
+[tool.ruff]
+line-length = 200
+
+[tool.ruff.format]
+quote-style = "preserve"
+exclude = ["test_*.py"]
