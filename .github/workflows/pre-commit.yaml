@@ -1,0 +1,22 @@
+name: tests
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v3
+
+    - name: Install uv
+      uses: astral-sh/setup-uv@v7
+
+    - uses: pre-commit/action@v3.0.1
+
+    - name: pytest
+      # For example, using `pytest`
+      run: uv run pytest
