@@ -6361,6 +6361,7 @@
       },
       "properties": {
         "amenity": "cafe",
+        "check_date": "2026-01-24",
         "name": "JC's Bagels",
         "opening_hours": "Tu-Sa 08:00-15:00",
         "id": 1619221697,
@@ -52809,6 +52810,37 @@
         "_lat_closest": 43.3473511,
         "_lon_closest": -79.8173111,
         "_distance_meters": 300.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.785836,
+            43.339576
+          ],
+          [
+            -79.792969,
+            43.335023
+          ]
+        ]
+      },
+      "properties": {
+        "check_date": "2026-01-24",
+        "name": "The Dutch Shop",
+        "opening_hours": "Mo-We 09:15-17:00; Th 09:15-17:30; Fr 09:15-18:00; Sa 09:00-17:30; Su off",
+        "shop": "supermarket",
+        "id": 13485121439,
+        "type": "node",
+        "_id_closest": 11931748273,
+        "_type_closest": "node",
+        "_lat_closest": 43.335023,
+        "_lon_closest": -79.7929693,
+        "_distance_meters": 768.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
