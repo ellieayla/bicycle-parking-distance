@@ -26,4 +26,3 @@ Combining those;
 Compare with transit accessibility;
 
 * [Disparity of distance to nearest transit vs car parking](distance_from_shops_to_nearest_tramsit_disparity_vs_car_parking.geojson) - [Render with overpass ultra](http://overpass-ultra.us/#map&query=url:https%3A%2F%2Fraw.githubusercontent.com%2Fellieayla%2Fbicycle-parking-distance%2Frefs%2Fheads%2Fmain%2Ftransit.style)
-

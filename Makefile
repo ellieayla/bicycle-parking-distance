@@ -28,7 +28,3 @@ download: downloads/bicycle-parking.json downloads/car-parking.json downloads/sh
 .PHONY: clean
 clean:
 	rm -fv bicycle-parking.json car-parking.json shops.json
-
-
-
-
