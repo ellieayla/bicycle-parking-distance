@@ -13664,33 +13664,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.865293,
-          43.2906
-        ]
-      },
-      "properties": {
-        "amenity": "place_of_worship",
-        "denomination": "roman_catholic",
-        "name": "St. Adalbert Czech Mission Chapel",
-        "religion": "christian",
-        "id": 3093415187,
-        "type": "node",
-        "_id_closest": 1356853023,
-        "_type_closest": "node",
-        "_lat_closest": 43.2926488,
-        "_lon_closest": -79.8699981,
-        "_distance_meters": 444.0,
-        "_distance_meters_disparity": 479.0,
-        "_difference_distance_disparity": 35.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.80062,
           43.348927
         ]
@@ -46938,6 +46911,7 @@
         "denomination": "catholic",
         "name": "St. Paul the Apostle Catholic Church",
         "religion": "christian",
+        "wikidata": "Q131193552",
         "id": 25465035,
         "type": "way",
         "_id_closest": 560636377,
@@ -49696,6 +49670,7 @@
         "denomination": "catholic",
         "name": "St. Raphael's Church",
         "religion": "christian",
+        "wikidata": "Q131193553",
         "id": 43938115,
         "type": "way",
         "_id_closest": 13307635361,
@@ -50768,6 +50743,7 @@
         "denomination": "catholic",
         "name": "St. John's Roman Catholic Church",
         "religion": "christian",
+        "wikidata": "Q131193550",
         "id": 43940433,
         "type": "way",
         "_id_closest": 13307492109,
@@ -51103,6 +51079,7 @@
         "denomination": "catholic",
         "name": "St. Gabriel's Catholic Church",
         "religion": "christian",
+        "wikidata": "Q131193549",
         "id": 43940769,
         "type": "way",
         "_id_closest": 11929658782,
@@ -52124,6 +52101,7 @@
         "denomination": "catholic",
         "name": "St. Patrick's Roman Catholic Church",
         "religion": "christian",
+        "wikidata": "Q131193551",
         "id": 76947881,
         "type": "way",
         "_id_closest": 419369764,
@@ -55462,7 +55440,7 @@
         "toilets:wheelchair": "yes",
         "website": "http://www.burlington.ca",
         "wheelchair": "yes",
-        "wikipedia": "en:Burlington, Ontario",
+        "wikidata": "Q137823871",
         "id": 141904913,
         "type": "way",
         "_id_closest": 13307492111,
@@ -56317,6 +56295,7 @@
         "name": "St. Philip Catholic Church",
         "religion": "christian",
         "wheelchair": "no",
+        "wikidata": "Q131193546",
         "id": 150364924,
         "type": "way",
         "_id_closest": 13307492111,
@@ -63628,6 +63607,7 @@
         "toilets:wheelchair": "yes",
         "website": "https://burlingtonpac.ca/",
         "wheelchair": "yes",
+        "wikidata": "Q24882761",
         "id": 232953653,
         "type": "way",
         "_id_closest": 13307635313,
@@ -70571,6 +70551,7 @@
         "denomination": "catholic",
         "name": "Holy Rosary Catholic Church",
         "religion": "christian",
+        "wikidata": "Q131193547",
         "id": 382975358,
         "type": "way",
         "_id_closest": 4044985316,
@@ -72688,6 +72669,35 @@
         "_distance_meters": 364.0,
         "_distance_meters_disparity": 67.0,
         "_difference_distance_disparity": -297.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.865295,
+          43.2906
+        ]
+      },
+      "properties": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Holy Sepulchre Chape",
+        "religion": "christian",
+        "wikidata": "Q131193548",
+        "id": 832039684,
+        "type": "way",
+        "_id_closest": 1356853023,
+        "_type_closest": "node",
+        "_lat_closest": 43.2926488,
+        "_lon_closest": -79.8699981,
+        "_distance_meters": 444.0,
+        "_distance_meters_disparity": 479.0,
+        "_difference_distance_disparity": 35.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
