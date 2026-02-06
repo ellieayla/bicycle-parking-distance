@@ -14,7 +14,7 @@
         "name": "Burlington",
         "network": "GO Transit",
         "network:wikidata": "Q1357727",
-        "operator": "Alstom",
+        "operator": "GO Transit",
         "operator:wikidata": "Q309084",
         "public_transport": "station",
         "railway": "station",
@@ -28890,6 +28890,7 @@
         "iata": "XLY",
         "name": "Aldershot",
         "network": "VIA Rail;GO Transit",
+        "operator": "GO Transit",
         "public_transport": "station",
         "railway": "station",
         "railway:ref": "AL",
@@ -43020,6 +43021,81 @@
         "_distance_meters": 45.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.821152,
+          43.327625
+        ]
+      },
+      "properties": {
+        "level": "1",
+        "name": "Sporting Life",
+        "shop": "sports",
+        "website": "https://locations.sportinglife.ca/mapleview-shopping-centre-e15631e19f4a",
+        "id": 13516739849,
+        "type": "node",
+        "_id_closest": 27766753,
+        "_type_closest": "way",
+        "_lat_closest": 43.3284032,
+        "_lon_closest": -79.820946,
+        "_distance_meters": 88.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.821402,
+          43.327504
+        ]
+      },
+      "properties": {
+        "level": "1",
+        "name": "Linen Chest",
+        "shop": "houseware",
+        "website": "https://www.linenchest.com/en_ca/store/mapleview-burlington-store",
+        "id": 13516739855,
+        "type": "node",
+        "_id_closest": 27766783,
+        "_type_closest": "way",
+        "_lat_closest": 43.3270076,
+        "_lon_closest": -79.8220719,
+        "_distance_meters": 77.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.794439,
+          43.357629
+        ]
+      },
+      "properties": {
+        "check_date": "2026-01-29",
+        "leisure": "sports_hall",
+        "name": "Burlington Hall",
+        "sport": "tennis;swimming;fitness;pickleball",
+        "id": 13517685471,
+        "type": "node",
+        "_id_closest": 313150508,
+        "_type_closest": "way",
+        "_lat_closest": 43.3583207,
+        "_lon_closest": -79.7927021,
+        "_distance_meters": 160.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
       }
     },
     {

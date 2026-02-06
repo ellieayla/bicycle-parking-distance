@@ -14,7 +14,7 @@
         "name": "Burlington",
         "network": "GO Transit",
         "network:wikidata": "Q1357727",
-        "operator": "Alstom",
+        "operator": "GO Transit",
         "operator:wikidata": "Q309084",
         "public_transport": "station",
         "railway": "station",
@@ -3580,11 +3580,11 @@
         "type": "node",
         "_id_closest": 7149424767,
         "_type_closest": "node",
-        "_lat_closest": 43.3803381,
-        "_lon_closest": -79.7601549,
-        "_distance_meters": 1434.0,
+        "_lat_closest": 43.3804495,
+        "_lon_closest": -79.7600357,
+        "_distance_meters": 1419.0,
         "_distance_meters_disparity": 13.0,
-        "_difference_distance_disparity": -1421.0,
+        "_difference_distance_disparity": -1406.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -16292,13 +16292,13 @@
         "wheelchair": "yes",
         "id": 3611775098,
         "type": "node",
-        "_id_closest": 6835858071,
+        "_id_closest": 3623486429,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 47.0,
+        "_lat_closest": 43.3794416,
+        "_lon_closest": -79.7602534,
+        "_distance_meters": 57.0,
         "_distance_meters_disparity": 179.0,
-        "_difference_distance_disparity": 132.0,
+        "_difference_distance_disparity": 122.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
       }
@@ -18907,11 +18907,11 @@
         "type": "node",
         "_id_closest": 7149424767,
         "_type_closest": "node",
-        "_lat_closest": 43.3803381,
-        "_lon_closest": -79.7601549,
-        "_distance_meters": 1413.0,
+        "_lat_closest": 43.3804495,
+        "_lon_closest": -79.7600357,
+        "_distance_meters": 1398.0,
         "_distance_meters_disparity": 12.0,
-        "_difference_distance_disparity": -1401.0,
+        "_difference_distance_disparity": -1386.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -21202,11 +21202,11 @@
         "type": "node",
         "_id_closest": 7149424767,
         "_type_closest": "node",
-        "_lat_closest": 43.3803381,
-        "_lon_closest": -79.7601549,
-        "_distance_meters": 2276.0,
+        "_lat_closest": 43.3804495,
+        "_lon_closest": -79.7600357,
+        "_distance_meters": 2265.0,
         "_distance_meters_disparity": 28.0,
-        "_difference_distance_disparity": -2248.0,
+        "_difference_distance_disparity": -2237.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -21526,11 +21526,11 @@
         "type": "node",
         "_id_closest": 7149424767,
         "_type_closest": "node",
-        "_lat_closest": 43.3803381,
-        "_lon_closest": -79.7601549,
-        "_distance_meters": 1689.0,
+        "_lat_closest": 43.3804495,
+        "_lon_closest": -79.7600357,
+        "_distance_meters": 1676.0,
         "_distance_meters_disparity": 30.0,
-        "_difference_distance_disparity": -1659.0,
+        "_difference_distance_disparity": -1646.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -31074,6 +31074,7 @@
         "iata": "XLY",
         "name": "Aldershot",
         "network": "VIA Rail;GO Transit",
+        "operator": "GO Transit",
         "public_transport": "station",
         "railway": "station",
         "railway:ref": "AL",
@@ -36530,11 +36531,11 @@
         "type": "node",
         "_id_closest": 7149424767,
         "_type_closest": "node",
-        "_lat_closest": 43.3803381,
-        "_lon_closest": -79.7601549,
-        "_distance_meters": 1275.0,
+        "_lat_closest": 43.3804495,
+        "_lon_closest": -79.7600357,
+        "_distance_meters": 1266.0,
         "_distance_meters_disparity": 26.0,
-        "_difference_distance_disparity": -1249.0,
+        "_difference_distance_disparity": -1240.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -43020,11 +43021,11 @@
         "type": "node",
         "_id_closest": 7149424767,
         "_type_closest": "node",
-        "_lat_closest": 43.3803381,
-        "_lon_closest": -79.7601549,
-        "_distance_meters": 2260.0,
+        "_lat_closest": 43.3804495,
+        "_lon_closest": -79.7600357,
+        "_distance_meters": 2249.0,
         "_distance_meters_disparity": 35.0,
-        "_difference_distance_disparity": -2225.0,
+        "_difference_distance_disparity": -2214.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -44334,11 +44335,11 @@
         "type": "node",
         "_id_closest": 7149424767,
         "_type_closest": "node",
-        "_lat_closest": 43.3803381,
-        "_lon_closest": -79.7601549,
-        "_distance_meters": 400.0,
+        "_lat_closest": 43.3804495,
+        "_lon_closest": -79.7600357,
+        "_distance_meters": 391.0,
         "_distance_meters_disparity": 260.0,
-        "_difference_distance_disparity": -140.0,
+        "_difference_distance_disparity": -131.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -44886,11 +44887,11 @@
         "type": "node",
         "_id_closest": 7149424767,
         "_type_closest": "node",
-        "_lat_closest": 43.3803381,
-        "_lon_closest": -79.7601549,
-        "_distance_meters": 1286.0,
+        "_lat_closest": 43.3804495,
+        "_lon_closest": -79.7600357,
+        "_distance_meters": 1277.0,
         "_distance_meters_disparity": 37.0,
-        "_difference_distance_disparity": -1249.0,
+        "_difference_distance_disparity": -1240.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -46284,6 +46285,87 @@
         "_difference_distance_disparity": -30.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.821152,
+          43.327625
+        ]
+      },
+      "properties": {
+        "level": "1",
+        "name": "Sporting Life",
+        "shop": "sports",
+        "website": "https://locations.sportinglife.ca/mapleview-shopping-centre-e15631e19f4a",
+        "id": 13516739849,
+        "type": "node",
+        "_id_closest": 419363368,
+        "_type_closest": "node",
+        "_lat_closest": 43.3268429,
+        "_lon_closest": -79.8201416,
+        "_distance_meters": 119.0,
+        "_distance_meters_disparity": 88.0,
+        "_difference_distance_disparity": -31.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.821402,
+          43.327504
+        ]
+      },
+      "properties": {
+        "level": "1",
+        "name": "Linen Chest",
+        "shop": "houseware",
+        "website": "https://www.linenchest.com/en_ca/store/mapleview-burlington-store",
+        "id": 13516739855,
+        "type": "node",
+        "_id_closest": 419363368,
+        "_type_closest": "node",
+        "_lat_closest": 43.3268429,
+        "_lon_closest": -79.8201416,
+        "_distance_meters": 126.0,
+        "_distance_meters_disparity": 77.0,
+        "_difference_distance_disparity": -49.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.794439,
+          43.357629
+        ]
+      },
+      "properties": {
+        "check_date": "2026-01-29",
+        "leisure": "sports_hall",
+        "name": "Burlington Hall",
+        "sport": "tennis;swimming;fitness;pickleball",
+        "id": 13517685471,
+        "type": "node",
+        "_id_closest": 3870132827,
+        "_type_closest": "node",
+        "_lat_closest": 43.3585811,
+        "_lon_closest": -79.7906341,
+        "_distance_meters": 325.0,
+        "_distance_meters_disparity": 160.0,
+        "_difference_distance_disparity": -165.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
       }
     },
     {
@@ -47863,11 +47945,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 635.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 620.0,
         "_distance_meters_disparity": 164.0,
-        "_difference_distance_disparity": -471.0,
+        "_difference_distance_disparity": -456.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -50591,11 +50673,11 @@
         "type": "way",
         "_id_closest": 6835858073,
         "_type_closest": "node",
-        "_lat_closest": 43.3414689,
-        "_lon_closest": -79.808461,
-        "_distance_meters": 126.0,
+        "_lat_closest": 43.3418449,
+        "_lon_closest": -79.8078508,
+        "_distance_meters": 82.0,
         "_distance_meters_disparity": 162.0,
-        "_difference_distance_disparity": 36.0,
+        "_difference_distance_disparity": 80.0,
         "_under_one_minute": 0,
         "_under_two_minute": 1
       }
@@ -50986,11 +51068,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 492.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 477.0,
         "_distance_meters_disparity": 88.0,
-        "_difference_distance_disparity": -404.0,
+        "_difference_distance_disparity": -389.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -51536,11 +51618,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 1046.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 1030.0,
         "_distance_meters_disparity": 109.0,
-        "_difference_distance_disparity": -937.0,
+        "_difference_distance_disparity": -921.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -51564,11 +51646,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 910.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 894.0,
         "_distance_meters_disparity": 139.0,
-        "_difference_distance_disparity": -771.0,
+        "_difference_distance_disparity": -755.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -51591,11 +51673,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 894.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 878.0,
         "_distance_meters_disparity": 95.0,
-        "_difference_distance_disparity": -799.0,
+        "_difference_distance_disparity": -783.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -51619,11 +51701,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 821.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 805.0,
         "_distance_meters_disparity": 96.0,
-        "_difference_distance_disparity": -725.0,
+        "_difference_distance_disparity": -709.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -56005,11 +56087,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 420.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 407.0,
         "_distance_meters_disparity": 99.0,
-        "_difference_distance_disparity": -321.0,
+        "_difference_distance_disparity": -308.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -56034,11 +56116,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 236.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 221.0,
         "_distance_meters_disparity": 103.0,
-        "_difference_distance_disparity": -133.0,
+        "_difference_distance_disparity": -118.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -56062,11 +56144,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 500.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 485.0,
         "_distance_meters_disparity": 86.0,
-        "_difference_distance_disparity": -414.0,
+        "_difference_distance_disparity": -399.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -56089,11 +56171,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 485.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 469.0,
         "_distance_meters_disparity": 126.0,
-        "_difference_distance_disparity": -359.0,
+        "_difference_distance_disparity": -343.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -56116,11 +56198,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 554.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 538.0,
         "_distance_meters_disparity": 153.0,
-        "_difference_distance_disparity": -401.0,
+        "_difference_distance_disparity": -385.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -56662,11 +56744,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 531.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 517.0,
         "_distance_meters_disparity": 128.0,
-        "_difference_distance_disparity": -403.0,
+        "_difference_distance_disparity": -389.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -56686,11 +56768,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 545.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 531.0,
         "_distance_meters_disparity": 144.0,
-        "_difference_distance_disparity": -401.0,
+        "_difference_distance_disparity": -387.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -56710,11 +56792,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 529.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 515.0,
         "_distance_meters_disparity": 134.0,
-        "_difference_distance_disparity": -395.0,
+        "_difference_distance_disparity": -381.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -61378,11 +61460,11 @@
         "type": "way",
         "_id_closest": 7149424767,
         "_type_closest": "node",
-        "_lat_closest": 43.3803381,
-        "_lon_closest": -79.7601549,
-        "_distance_meters": 1415.0,
+        "_lat_closest": 43.3804495,
+        "_lon_closest": -79.7600357,
+        "_distance_meters": 1399.0,
         "_distance_meters_disparity": 10.0,
-        "_difference_distance_disparity": -1405.0,
+        "_difference_distance_disparity": -1389.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -61406,11 +61488,11 @@
         "type": "way",
         "_id_closest": 7149424767,
         "_type_closest": "node",
-        "_lat_closest": 43.3803381,
-        "_lon_closest": -79.7601549,
-        "_distance_meters": 1451.0,
+        "_lat_closest": 43.3804495,
+        "_lon_closest": -79.7600357,
+        "_distance_meters": 1436.0,
         "_distance_meters_disparity": 14.0,
-        "_difference_distance_disparity": -1437.0,
+        "_difference_distance_disparity": -1422.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -64602,11 +64684,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 22.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 37.0,
         "_distance_meters_disparity": 165.0,
-        "_difference_distance_disparity": 143.0,
+        "_difference_distance_disparity": 128.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
       }
@@ -67352,11 +67434,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 1166.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 1150.0,
         "_distance_meters_disparity": 78.0,
-        "_difference_distance_disparity": -1088.0,
+        "_difference_distance_disparity": -1072.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -67907,11 +67989,11 @@
         "type": "way",
         "_id_closest": 7149424767,
         "_type_closest": "node",
-        "_lat_closest": 43.3803381,
-        "_lon_closest": -79.7601549,
-        "_distance_meters": 1421.0,
+        "_lat_closest": 43.3804495,
+        "_lon_closest": -79.7600357,
+        "_distance_meters": 1408.0,
         "_distance_meters_disparity": 237.0,
-        "_difference_distance_disparity": -1184.0,
+        "_difference_distance_disparity": -1171.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -69396,11 +69478,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 347.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 338.0,
         "_distance_meters_disparity": 77.0,
-        "_difference_distance_disparity": -270.0,
+        "_difference_distance_disparity": -261.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -69473,11 +69555,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 318.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 303.0,
         "_distance_meters_disparity": 102.0,
-        "_difference_distance_disparity": -216.0,
+        "_difference_distance_disparity": -201.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -73387,11 +73469,11 @@
         "type": "way",
         "_id_closest": 7149424767,
         "_type_closest": "node",
-        "_lat_closest": 43.3803381,
-        "_lon_closest": -79.7601549,
-        "_distance_meters": 396.0,
+        "_lat_closest": 43.3804495,
+        "_lon_closest": -79.7600357,
+        "_distance_meters": 395.0,
         "_distance_meters_disparity": 167.0,
-        "_difference_distance_disparity": -229.0,
+        "_difference_distance_disparity": -228.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -73449,11 +73531,11 @@
         "type": "way",
         "_id_closest": 7149424767,
         "_type_closest": "node",
-        "_lat_closest": 43.3803381,
-        "_lon_closest": -79.7601549,
-        "_distance_meters": 753.0,
+        "_lat_closest": 43.3804495,
+        "_lon_closest": -79.7600357,
+        "_distance_meters": 746.0,
         "_distance_meters_disparity": 59.0,
-        "_difference_distance_disparity": -694.0,
+        "_difference_distance_disparity": -687.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -73475,11 +73557,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 560.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 545.0,
         "_distance_meters_disparity": 147.0,
-        "_difference_distance_disparity": -413.0,
+        "_difference_distance_disparity": -398.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -73501,11 +73583,11 @@
         "type": "way",
         "_id_closest": 6835858071,
         "_type_closest": "node",
-        "_lat_closest": 43.3803155,
-        "_lon_closest": -79.7601179,
-        "_distance_meters": 571.0,
+        "_lat_closest": 43.3804284,
+        "_lon_closest": -79.7599954,
+        "_distance_meters": 556.0,
         "_distance_meters_disparity": 155.0,
-        "_difference_distance_disparity": -416.0,
+        "_difference_distance_disparity": -401.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -73532,11 +73614,11 @@
         "type": "way",
         "_id_closest": 7149424767,
         "_type_closest": "node",
-        "_lat_closest": 43.3803381,
-        "_lon_closest": -79.7601549,
-        "_distance_meters": 1370.0,
+        "_lat_closest": 43.3804495,
+        "_lon_closest": -79.7600357,
+        "_distance_meters": 1355.0,
         "_distance_meters_disparity": 131.0,
-        "_difference_distance_disparity": -1239.0,
+        "_difference_distance_disparity": -1224.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -73567,11 +73649,11 @@
         "type": "way",
         "_id_closest": 7149424767,
         "_type_closest": "node",
-        "_lat_closest": 43.3803381,
-        "_lon_closest": -79.7601549,
-        "_distance_meters": 1419.0,
+        "_lat_closest": 43.3804495,
+        "_lon_closest": -79.7600357,
+        "_distance_meters": 1405.0,
         "_distance_meters_disparity": 255.0,
-        "_difference_distance_disparity": -1164.0,
+        "_difference_distance_disparity": -1150.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -73964,11 +74046,11 @@
         "type": "way",
         "_id_closest": 7025025557,
         "_type_closest": "node",
-        "_lat_closest": 43.3127829,
-        "_lon_closest": -79.8549948,
-        "_distance_meters": 128.0,
+        "_lat_closest": 43.312769,
+        "_lon_closest": -79.8549836,
+        "_distance_meters": 127.0,
         "_distance_meters_disparity": 63.0,
-        "_difference_distance_disparity": -65.0,
+        "_difference_distance_disparity": -64.0,
         "_under_one_minute": 0,
         "_under_two_minute": 1
       }
@@ -74012,11 +74094,11 @@
         "type": "way",
         "_id_closest": 7025025557,
         "_type_closest": "node",
-        "_lat_closest": 43.3127829,
-        "_lon_closest": -79.8549948,
-        "_distance_meters": 167.0,
+        "_lat_closest": 43.312769,
+        "_lon_closest": -79.8549836,
+        "_distance_meters": 165.0,
         "_distance_meters_disparity": 23.0,
-        "_difference_distance_disparity": -144.0,
+        "_difference_distance_disparity": -142.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
