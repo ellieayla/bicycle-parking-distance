@@ -55081,30 +55081,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.804608,
-          43.322806
-        ]
-      },
-      "properties": {
-        "courts": "2",
-        "leisure": "pitch",
-        "sport": "tennis",
-        "id": 167190058,
-        "type": "way",
-        "_id_closest": 457354880,
-        "_type_closest": "way",
-        "_lat_closest": 43.3230438,
-        "_lon_closest": -79.805178,
-        "_distance_meters": 53.0,
-        "_under_one_minute": 1,
-        "_under_two_minute": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.797228,
           43.32863
         ]
@@ -70466,6 +70442,52 @@
         "_lon_closest": -79.8009729,
         "_distance_meters": 91.0,
         "_under_one_minute": 0,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.80475,
+          43.322934
+        ]
+      },
+      "properties": {
+        "leisure": "pitch",
+        "sport": "tennis",
+        "id": 1475417526,
+        "type": "way",
+        "_id_closest": 457354880,
+        "_type_closest": "way",
+        "_lat_closest": 43.3230438,
+        "_lon_closest": -79.805178,
+        "_distance_meters": 37.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.80448,
+          43.322662
+        ]
+      },
+      "properties": {
+        "leisure": "pitch",
+        "sport": "tennis",
+        "id": 1475417527,
+        "type": "way",
+        "_id_closest": 457354880,
+        "_type_closest": "way",
+        "_lat_closest": 43.3230438,
+        "_lon_closest": -79.805178,
+        "_distance_meters": 71.0,
+        "_under_one_minute": 1,
         "_under_two_minute": 1
       }
     }

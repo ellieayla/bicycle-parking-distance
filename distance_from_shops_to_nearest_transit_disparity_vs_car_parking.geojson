@@ -59245,32 +59245,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.804608,
-          43.322806
-        ]
-      },
-      "properties": {
-        "courts": "2",
-        "leisure": "pitch",
-        "sport": "tennis",
-        "id": 167190058,
-        "type": "way",
-        "_id_closest": 3635867666,
-        "_type_closest": "node",
-        "_lat_closest": 43.3212948,
-        "_lon_closest": -79.8061456,
-        "_distance_meters": 209.0,
-        "_distance_meters_disparity": 53.0,
-        "_difference_distance_disparity": -156.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.797228,
           43.32863
         ]
@@ -75867,6 +75841,56 @@
         "_distance_meters": 179.0,
         "_distance_meters_disparity": 91.0,
         "_difference_distance_disparity": -88.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.80475,
+          43.322934
+        ]
+      },
+      "properties": {
+        "leisure": "pitch",
+        "sport": "tennis",
+        "id": 1475417526,
+        "type": "way",
+        "_id_closest": 3635867666,
+        "_type_closest": "node",
+        "_lat_closest": 43.3212948,
+        "_lon_closest": -79.8061456,
+        "_distance_meters": 214.0,
+        "_distance_meters_disparity": 37.0,
+        "_difference_distance_disparity": -177.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.80448,
+          43.322662
+        ]
+      },
+      "properties": {
+        "leisure": "pitch",
+        "sport": "tennis",
+        "id": 1475417527,
+        "type": "way",
+        "_id_closest": 3635867666,
+        "_type_closest": "node",
+        "_lat_closest": 43.3212948,
+        "_lon_closest": -79.8061456,
+        "_distance_meters": 203.0,
+        "_distance_meters_disparity": 71.0,
+        "_difference_distance_disparity": -132.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
