@@ -43083,10 +43083,14 @@
         ]
       },
       "properties": {
-        "check_date": "2026-01-29",
+        "addr:housenumber": "960",
+        "addr:street": "Cumberland Avenue",
+        "check_date": "2026-02-26",
+        "fee": "yes",
         "leisure": "sports_hall",
         "name": "Burlington Hall",
-        "sport": "tennis;swimming;fitness;pickleball",
+        "sport": "tennis;swimming;fitness;pickleball;basketball",
+        "website": "https://burlingtonhall.ca/",
         "id": 13517685471,
         "type": "node",
         "_id_closest": 313150508,
@@ -43096,6 +43100,145 @@
         "_distance_meters": 160.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.795078,
+          43.326355
+        ]
+      },
+      "properties": {
+        "name": "Second Shot",
+        "shop": "sports",
+        "sport": "golf",
+        "id": 13612052642,
+        "type": "node",
+        "_id_closest": 1198725522,
+        "_type_closest": "way",
+        "_lat_closest": 43.3261404,
+        "_lon_closest": -79.7951154,
+        "_distance_meters": 24.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.795629,
+          43.326261
+        ]
+      },
+      "properties": {
+        "amenity": "events_venue",
+        "name": "The Princess Cottage",
+        "id": 13612052644,
+        "type": "node",
+        "_id_closest": 1198725522,
+        "_type_closest": "way",
+        "_lat_closest": 43.3261404,
+        "_lon_closest": -79.7951154,
+        "_distance_meters": 44.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.795135,
+          43.32652
+        ]
+      },
+      "properties": {
+        "name": "Salmon Hsear",
+        "shop": "hairdresser",
+        "id": 13612052645,
+        "type": "node",
+        "_id_closest": 1198725522,
+        "_type_closest": "way",
+        "_lat_closest": 43.3261404,
+        "_lon_closest": -79.7951154,
+        "_distance_meters": 42.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.795106,
+          43.326408
+        ]
+      },
+      "properties": {
+        "amenity": "events_venue",
+        "name": "toast",
+        "id": 13612052646,
+        "type": "node",
+        "_id_closest": 1198725522,
+        "_type_closest": "way",
+        "_lat_closest": 43.3261404,
+        "_lon_closest": -79.7951154,
+        "_distance_meters": 30.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.795211,
+          43.326462
+        ]
+      },
+      "properties": {
+        "name": "Personality Traits",
+        "shop": "hairdresser",
+        "id": 13612052647,
+        "type": "node",
+        "_id_closest": 1198725522,
+        "_type_closest": "way",
+        "_lat_closest": 43.3261404,
+        "_lon_closest": -79.7951154,
+        "_distance_meters": 37.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.795082,
+          43.326513
+        ]
+      },
+      "properties": {
+        "name": "Woven",
+        "shop": "clothes",
+        "id": 13612052648,
+        "type": "node",
+        "_id_closest": 1198725522,
+        "_type_closest": "way",
+        "_lat_closest": 43.3261404,
+        "_lon_closest": -79.7951154,
+        "_distance_meters": 42.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
