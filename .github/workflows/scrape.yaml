@@ -27,6 +27,10 @@ jobs:
     - name: Install the project
       run: uv sync --locked --all-extras --dev
 
+    - name: Overpass API status
+      run: |
+        uv run overpass_api_status.py --check-available-slots --verbose
+
     - name: Fetch latest data
       run: |
         make clean
