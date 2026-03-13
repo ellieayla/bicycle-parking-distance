@@ -19,13 +19,10 @@ jobs:
     steps:
     - uses: actions/checkout@v6
 
-    - name: "Set up Python"
-      uses: actions/setup-python@v6
-      with:
-        python-version-file: ".python-version"
-
     - name: Install uv
       uses: astral-sh/setup-uv@v7
+      with:
+        activate-environment: true
 
     - name: Install the project
       run: uv sync --locked --all-extras --dev
@@ -34,6 +31,11 @@ jobs:
       run: |
         make clean
         make download
+
+    - name: Inspect downloaded json
+      if: ${{ !cancelled() }}
+      run: |
+        head -c 500 downloads/*.json
 
     - name: Build geojson of distances from shops to bicycle parking
       run: |
@@ -44,7 +46,6 @@ jobs:
         uv run main.py --amenities downloads/buildings.json --parking ./downloads/bicycle-parking.json --output distance_from_buildings_to_nearest_bicycle_parking.geojson
 
     # catchment lines
-
     - name: Build geojson of catchment lines from shops to bicycle parking
       run: |
         uv run main.py --amenities downloads/shops.json --parking ./downloads/bicycle-parking.json --output catchment_from_shops_to_nearest_bicycle_parking.geojson --catchment-lines
@@ -54,7 +55,6 @@ jobs:
         uv run main.py --amenities downloads/buildings.json --parking ./downloads/bicycle-parking.json --output catchment_from_buildings_to_nearest_bicycle_parking.geojson --catchment-lines
 
     # cars
-
     - name: Build geojson of distances from shops to automobile parking
       run: |
         uv run main.py --amenities downloads/shops.json --parking ./downloads/car-parking.json --output distance_from_shops_to_nearest_car-parking.geojson
@@ -82,3 +82,22 @@ jobs:
         commit_user_name: GitHub Actions # defaults to "GitHub Actions"
         commit_user_email: actions@github.com # defaults to "actions@github.com"
         commit_author: GitHub Actions <actions@github.com> # defaults to author of the commit that triggered the run
+
+  issue:
+    needs: [scheduled]
+    runs-on: ubuntu-latest
+    if: ${{ failure() }}
+
+    permissions:
+      issues: write
+
+    steps:
+    - name: Get current date in NOW env variable
+      run: echo "NOW=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+    - name: Report issue on failure
+      env:
+        RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        GH_TOKEN: ${{ github.token }}
+      run: |
+        gh issue create --title "Failed job $NOW" --repo "$GITHUB_REPOSITORY" --assignee "$GITHUB_REPOSITORY_OWNER" --body "$RUN_URL"
