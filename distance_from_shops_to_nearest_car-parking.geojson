@@ -12786,20 +12786,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.855656,
-          43.313252
+          -79.855705,
+          43.313379
         ]
       },
       "properties": {
-        "name": "GO Transit / Via Rail",
-        "shop": "ticket",
+        "amenity": "vending_machine",
+        "name": "GO Transit",
+        "vending": "public_transport_tickets",
         "id": 3244794815,
         "type": "node",
         "_id_closest": 23660883,
         "_type_closest": "way",
         "_lat_closest": 43.3141982,
         "_lon_closest": -79.8552289,
-        "_distance_meters": 111.0,
+        "_distance_meters": 99.0,
         "_under_one_minute": 0,
         "_under_two_minute": 1
       }
@@ -12809,14 +12810,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.85555,
-          43.313229
+          -79.855619,
+          43.313266
         ]
       },
       "properties": {
         "access": "yes",
         "amenity": "toilets",
         "fee": "no",
+        "female": "yes",
+        "male": "yes",
         "toilets:disposal": "flush",
         "toilets:position": "seated;urinal",
         "wheelchair": "yes",
@@ -12826,7 +12829,7 @@
         "_type_closest": "way",
         "_lat_closest": 43.3141982,
         "_lon_closest": -79.8552289,
-        "_distance_meters": 111.0,
+        "_distance_meters": 108.0,
         "_under_one_minute": 0,
         "_under_two_minute": 1
       }
@@ -13469,6 +13472,7 @@
         "brand:wikipedia": "en:Hero Certified Burgers",
         "cuisine": "burger",
         "name": "Burger Factory",
+        "phone": "+1-905-304-0101",
         "website": "https://heroburgers.com/",
         "id": 3389253058,
         "type": "node",
@@ -43246,6 +43250,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.813545,
+          43.411937
+        ]
+      },
+      "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "3247",
+        "addr:postcode": "L7M 0V7",
+        "addr:province": "Ontario",
+        "addr:street": "Appleby Line",
+        "addr:unit": "8",
+        "beauty": "nails",
+        "name": "Destiny Nail Bar",
+        "opening_hours": "Mo-Sa 09:30-21:00;Su 10:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-905-331-0210",
+        "reservation:website": "https://bellebooking.com/center/a7da85f1cd4ad57a7fb60898acbe4f8f",
+        "shop": "beauty",
+        "website": "https://destinynailbars.com/destiny-nail-bar-burlington/",
+        "id": 13659104753,
+        "type": "node",
+        "_id_closest": 1290576157,
+        "_type_closest": "way",
+        "_lat_closest": 43.4120669,
+        "_lon_closest": -79.8138283,
+        "_distance_meters": 27.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.79352,
           43.348346
         ]
@@ -48767,11 +48808,13 @@
         "addr:city": "Burlington",
         "addr:housenumber": "5100",
         "addr:street": "Appleby Line",
+        "denomination": "lutheran",
         "name": "Sidrabene",
         "operator": "St. Andrew's Latvian Lutheran",
+        "religion": "christian",
         "source": "CanVec 6.0 - NRCan",
         "tourism": "camp_site",
-        "website": "http://www.standrewslatvian.org/sidrabene/",
+        "website": "https://sidrabene.ca/",
         "wikipedia": "en:Sidrabene",
         "id": 76961561,
         "type": "way",

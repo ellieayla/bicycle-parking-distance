@@ -13744,22 +13744,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.855656,
-          43.313252
+          -79.855705,
+          43.313379
         ]
       },
       "properties": {
-        "name": "GO Transit / Via Rail",
-        "shop": "ticket",
+        "amenity": "vending_machine",
+        "name": "GO Transit",
+        "vending": "public_transport_tickets",
         "id": 3244794815,
         "type": "node",
         "_id_closest": 7025025555,
         "_type_closest": "node",
         "_lat_closest": 43.3132976,
         "_lon_closest": -79.8555856,
-        "_distance_meters": 8.0,
-        "_distance_meters_disparity": 111.0,
-        "_difference_distance_disparity": 103.0,
+        "_distance_meters": 13.0,
+        "_distance_meters_disparity": 99.0,
+        "_difference_distance_disparity": 86.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
       }
@@ -13769,14 +13770,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.85555,
-          43.313229
+          -79.855619,
+          43.313266
         ]
       },
       "properties": {
         "access": "yes",
         "amenity": "toilets",
         "fee": "no",
+        "female": "yes",
+        "male": "yes",
         "toilets:disposal": "flush",
         "toilets:position": "seated;urinal",
         "wheelchair": "yes",
@@ -13786,9 +13789,9 @@
         "_type_closest": "node",
         "_lat_closest": 43.3132976,
         "_lon_closest": -79.8555856,
-        "_distance_meters": 8.0,
-        "_distance_meters_disparity": 111.0,
-        "_difference_distance_disparity": 103.0,
+        "_distance_meters": 4.0,
+        "_distance_meters_disparity": 108.0,
+        "_difference_distance_disparity": 104.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
       }
@@ -14475,6 +14478,7 @@
         "brand:wikipedia": "en:Hero Certified Burgers",
         "cuisine": "burger",
         "name": "Burger Factory",
+        "phone": "+1-905-304-0101",
         "website": "https://heroburgers.com/",
         "id": 3389253058,
         "type": "node",
@@ -45119,13 +45123,13 @@
         "shop": "toys",
         "id": 12879440276,
         "type": "node",
-        "_id_closest": 419357110,
+        "_id_closest": 1784928524,
         "_type_closest": "node",
-        "_lat_closest": 43.2907643,
-        "_lon_closest": -79.8745381,
-        "_distance_meters": 123.0,
+        "_lat_closest": 43.290756,
+        "_lon_closest": -79.8746025,
+        "_distance_meters": 126.0,
         "_distance_meters_disparity": 60.0,
-        "_difference_distance_disparity": -63.0,
+        "_difference_distance_disparity": -66.0,
         "_under_one_minute": 0,
         "_under_two_minute": 1
       }
@@ -46521,6 +46525,45 @@
         "_difference_distance_disparity": -101.0,
         "_under_one_minute": 0,
         "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.813545,
+          43.411937
+        ]
+      },
+      "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "3247",
+        "addr:postcode": "L7M 0V7",
+        "addr:province": "Ontario",
+        "addr:street": "Appleby Line",
+        "addr:unit": "8",
+        "beauty": "nails",
+        "name": "Destiny Nail Bar",
+        "opening_hours": "Mo-Sa 09:30-21:00;Su 10:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-905-331-0210",
+        "reservation:website": "https://bellebooking.com/center/a7da85f1cd4ad57a7fb60898acbe4f8f",
+        "shop": "beauty",
+        "website": "https://destinynailbars.com/destiny-nail-bar-burlington/",
+        "id": 13659104753,
+        "type": "node",
+        "_id_closest": 1540300373,
+        "_type_closest": "node",
+        "_lat_closest": 43.4070857,
+        "_lon_closest": -79.8099874,
+        "_distance_meters": 611.0,
+        "_distance_meters_disparity": 27.0,
+        "_difference_distance_disparity": -584.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
       }
     },
     {
@@ -52447,11 +52490,13 @@
         "addr:city": "Burlington",
         "addr:housenumber": "5100",
         "addr:street": "Appleby Line",
+        "denomination": "lutheran",
         "name": "Sidrabene",
         "operator": "St. Andrew's Latvian Lutheran",
+        "religion": "christian",
         "source": "CanVec 6.0 - NRCan",
         "tourism": "camp_site",
-        "website": "http://www.standrewslatvian.org/sidrabene/",
+        "website": "https://sidrabene.ca/",
         "wikipedia": "en:Sidrabene",
         "id": 76961561,
         "type": "way",
