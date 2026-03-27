@@ -46571,6 +46571,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.797379,
+          43.354124
+        ]
+      },
+      "properties": {
+        "amenity": "cafe",
+        "bar": "no",
+        "check_date": "2026-03-20",
+        "cuisine": "coffee_shop",
+        "email": "chikabeancafe@gmail.com",
+        "level": "0",
+        "name": "Chika Bean Cafe",
+        "outdoor_seating": "no",
+        "phone": "+1-289-339-7419",
+        "id": 13665036186,
+        "type": "node",
+        "_id_closest": 3870132823,
+        "_type_closest": "node",
+        "_lat_closest": 43.3537283,
+        "_lon_closest": -79.7968203,
+        "_distance_meters": 63.0,
+        "_distance_meters_disparity": 93.0,
+        "_difference_distance_disparity": 30.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.79352,
           43.348346
         ]
