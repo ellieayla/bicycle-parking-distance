@@ -76312,6 +76312,30 @@
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.78875,
+          43.35814
+        ]
+      },
+      "properties": {
+        "leisure": "park",
+        "id": 1497578921,
+        "type": "way",
+        "_id_closest": 3870132827,
+        "_type_closest": "node",
+        "_lat_closest": 43.3585811,
+        "_lon_closest": -79.7906341,
+        "_distance_meters": 160.0,
+        "_distance_meters_disparity": 124.0,
+        "_difference_distance_disparity": -36.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
     }
   ]
 }
