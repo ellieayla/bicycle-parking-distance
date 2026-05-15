@@ -99,31 +99,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.800947,
-          43.320951
-        ]
-      },
-      "properties": {
-        "amenity": "arts_centre",
-        "check_date": "2024-07-26",
-        "name": "Art Gallery of Burlington",
-        "wikidata": "Q4999199",
-        "id": 257727465,
-        "type": "node",
-        "_id_closest": 395601605,
-        "_type_closest": "way",
-        "_lat_closest": 43.3208061,
-        "_lon_closest": -79.80176,
-        "_distance_meters": 68.0,
-        "_under_one_minute": 1,
-        "_under_two_minute": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.818278,
           43.33124
         ]
@@ -274,8 +249,9 @@
         ]
       },
       "properties": {
-        "leisure": "swimming_pool",
+        "leisure": "sports_centre",
         "name": "Tansley Woods Pool",
+        "sport": "swimming",
         "wheelchair": "yes",
         "id": 277489010,
         "type": "node",
@@ -1417,35 +1393,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.796779,
-          43.325639
-        ]
-      },
-      "properties": {
-        "addr:housenumber": "430",
-        "addr:street": "John Street",
-        "amenity": "bus_station",
-        "bus": "yes",
-        "name": "Burlington Downtown Terminal",
-        "public_transport": "station",
-        "website": "https://burlingtondowntown.ca/transit/",
-        "wheelchair": "yes",
-        "id": 288927959,
-        "type": "node",
-        "_id_closest": 26372128,
-        "_type_closest": "way",
-        "_lat_closest": 43.3256291,
-        "_lon_closest": -79.7970449,
-        "_distance_meters": 21.0,
-        "_under_one_minute": 1,
-        "_under_two_minute": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.791967,
           43.394364
         ]
@@ -1879,7 +1826,7 @@
         "amenity": "restaurant",
         "name": "West Plains Bistro",
         "phone": "+1-905-333-9449",
-        "website": "http://www.westplainsbistro.com/",
+        "website": "https://www.westplainsbistro.com/",
         "wheelchair:description": "StopGap ramp",
         "id": 419363303,
         "type": "node",
@@ -1990,16 +1937,17 @@
         "brand": "Sleep Country",
         "brand:wikidata": "Q7539684",
         "brand:wikipedia": "en:Sleep Country Canada",
+        "mattress": "yes",
         "name": "Sleep Country",
         "shop": "bed",
         "id": 419363336,
         "type": "node",
-        "_id_closest": 415516891,
-        "_type_closest": "way",
-        "_lat_closest": 43.3247459,
-        "_lon_closest": -79.8282361,
-        "_distance_meters": 87.0,
-        "_under_one_minute": 0,
+        "_id_closest": 13819265966,
+        "_type_closest": "node",
+        "_lat_closest": 43.3250409,
+        "_lon_closest": -79.8292969,
+        "_distance_meters": 22.0,
+        "_under_one_minute": 1,
         "_under_two_minute": 1
       }
     },
@@ -13415,10 +13363,12 @@
         "addr:housenumber": "730",
         "addr:postcode": "L7R 3N5",
         "addr:street": "Guelph Line",
-        "amenity": "restaurant",
+        "amenity": "fast_food",
+        "brand": "WingsUp!",
+        "brand:wikidata": "Q137167877",
         "cuisine": "wings",
         "delivery": "yes",
-        "name": "Wing's Up",
+        "name": "WingsUp!",
         "opening_hours": "Su-Th 11:00-23:00, Fr-Sa 11:00-01:00",
         "phone": "+1-905-637-0001",
         "takeaway": "only",
@@ -18367,7 +18317,7 @@
         "phone": "+1-905-639-4622",
         "second_hand": "yes",
         "shop": "books",
-        "website": "http://www.bythelakebooks.com/",
+        "website": "https://www.bythelakebooks.com/",
         "id": 3997798084,
         "type": "node",
         "_id_closest": 307658936,
@@ -21317,7 +21267,7 @@
         "name": "Fate Hair Salon",
         "phone": "+1-905-319-0018",
         "shop": "hairdresser",
-        "website": "http://www.fatehairsalon.com",
+        "website": "https://www.fatehairsalon.com/",
         "id": 4717835090,
         "type": "node",
         "_id_closest": 202055432,
@@ -22848,7 +22798,7 @@
       },
       "properties": {
         "brand": "EB Games",
-        "brand:wikidata": "Q4993686",
+        "brand:wikidata": "Q135656622",
         "brand:wikipedia": "en:EB Games",
         "name": "EB Games",
         "shop": "video_games",
@@ -25352,7 +25302,7 @@
       },
       "properties": {
         "brand": "Michael Kors",
-        "brand:wikidata": "Q19572998",
+        "brand:wikidata": "Q134612138",
         "brand:wikipedia": "en:Capri Holdings",
         "level": "0",
         "name": "Michael Kors",
@@ -26256,6 +26206,8 @@
         ]
       },
       "properties": {
+        "brand": "Calendar Club",
+        "brand:wikidata": "Q132798539",
         "level": "0",
         "name": "Calendar Club",
         "shop": "gift",
@@ -34554,12 +34506,12 @@
         "shop": "optician",
         "id": 7770695805,
         "type": "node",
-        "_id_closest": 251460482,
-        "_type_closest": "way",
-        "_lat_closest": 43.3257556,
-        "_lon_closest": -79.8292194,
-        "_distance_meters": 88.0,
-        "_under_one_minute": 0,
+        "_id_closest": 13819265967,
+        "_type_closest": "node",
+        "_lat_closest": 43.3250323,
+        "_lon_closest": -79.829393,
+        "_distance_meters": 19.0,
+        "_under_one_minute": 1,
         "_under_two_minute": 1
       }
     },
@@ -34582,12 +34534,12 @@
         "takeaway": "yes",
         "id": 7770695806,
         "type": "node",
-        "_id_closest": 390933555,
-        "_type_closest": "way",
-        "_lat_closest": 43.3242258,
-        "_lon_closest": -79.8300231,
-        "_distance_meters": 90.0,
-        "_under_one_minute": 0,
+        "_id_closest": 13819265967,
+        "_type_closest": "node",
+        "_lat_closest": 43.3250323,
+        "_lon_closest": -79.829393,
+        "_distance_meters": 14.0,
+        "_under_one_minute": 1,
         "_under_two_minute": 1
       }
     },
@@ -35311,8 +35263,11 @@
         ]
       },
       "properties": {
+        "brand": "9Round",
+        "brand:wikidata": "Q120122534",
         "leisure": "fitness_centre",
         "name": "9Round",
+        "sport": "kickboxing",
         "id": 7770697126,
         "type": "node",
         "_id_closest": 390933555,
@@ -36189,7 +36144,7 @@
         "network:website": "https://www.tesla.com/supercharger",
         "network:wikidata": "Q17089620",
         "opening_hours": "24/7",
-        "operator": "Tesla, Inc.",
+        "operator": "Tesla",
         "operator:wikidata": "Q478214",
         "operator:wikipedia": "en:Tesla, Inc.",
         "ref:tesla": "burlingtononsupercharger",
@@ -38817,6 +38772,7 @@
         "internet_access:ssid": "IKEA WiFi",
         "level": "1",
         "name": "IKEA Restaurant",
+        "name:en": "IKEA Restaurant",
         "name:ru": "\u0420\u0435\u0441\u0442\u043e\u0440\u0430\u043d \u0418\u041a\u0415\u0410",
         "opening_hours": "Mo-Su 09:00-20:00",
         "takeaway": "yes",
@@ -38882,6 +38838,8 @@
         "addr:street": "Maple Avenue",
         "addr:unit": "A-6",
         "amenity": "post_office",
+        "brand": "Canada Post",
+        "brand:wikidata": "Q1032001",
         "name": "Mapleview Mall Canada Post",
         "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 10:00-17:00",
         "operator": "Canada Post",
@@ -43047,6 +43005,8 @@
         ]
       },
       "properties": {
+        "brand": "Sporting Life",
+        "brand:wikidata": "Q7579583",
         "level": "1",
         "name": "Sporting Life",
         "shop": "sports",
@@ -43072,6 +43032,8 @@
         ]
       },
       "properties": {
+        "brand": "Linen Chest",
+        "brand:wikidata": "Q112966601",
         "level": "1",
         "name": "Linen Chest",
         "shop": "houseware",
@@ -43567,6 +43529,31 @@
         "_lon_closest": -79.7620485,
         "_distance_meters": 91.0,
         "_under_one_minute": 0,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.75041,
+          43.372024
+        ]
+      },
+      "properties": {
+        "amenity": "library",
+        "name": "Burlington Public Library - New Appleby Branch",
+        "operator": "Burlington Public Library",
+        "operator:type": "public",
+        "id": 13812568902,
+        "type": "node",
+        "_id_closest": 455229588,
+        "_type_closest": "way",
+        "_lat_closest": 43.3721534,
+        "_lon_closest": -79.7507469,
+        "_distance_meters": 31.0,
+        "_under_one_minute": 1,
         "_under_two_minute": 1
       }
     },
@@ -44202,12 +44189,11 @@
         "addr:housenumber": "1996",
         "addr:postcode": "L7M 4J8",
         "addr:street": "Itabashi Way",
+        "amenity": "community_centre",
         "building": "block",
         "check_date": "2025-12-29",
-        "leisure": "sports_centre",
-        "name": "Tansley Woods Recreation Centre",
+        "name": "Tansley Woods Community Centre",
         "phone": "+1-905-332-1996",
-        "sport": "swimming",
         "website": "https://facilities.burlington.ca/Home/Detail?Id=cd66cf1d-55e6-42f2-a677-6a5f3e63592c",
         "wheelchair": "yes",
         "id": 25465312,
@@ -46133,6 +46119,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.74992,
+          43.371842
+        ]
+      },
+      "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "5151",
+        "addr:postcode": "L7L 1V3",
+        "addr:province": "ON",
+        "addr:street": "New Street",
+        "amenity": "community_centre",
+        "building": "yes",
+        "name": "Robert Bateman Community Centre",
+        "not:name": "Robert Bateman High School",
+        "operator": "City of Burlington",
+        "operator:type": "government",
+        "id": 38487995,
+        "type": "way",
+        "_id_closest": 455229589,
+        "_type_closest": "way",
+        "_lat_closest": 43.3724595,
+        "_lon_closest": -79.7497518,
+        "_distance_meters": 70.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.898162,
           43.29993
         ]
@@ -47817,6 +47835,8 @@
         "addr:postcode": "L7R 2E3",
         "addr:street": "Fairview Street",
         "amenity": "restaurant",
+        "brand": "Scaddabush",
+        "brand:wikidata": "Q137363894",
         "building": "retail",
         "cuisine": "italian",
         "name": "Scaddabush",
@@ -52913,6 +52933,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.800994,
+          43.320877
+        ]
+      },
+      "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "1333",
+        "addr:postcode": "L7S 1A9",
+        "addr:province": "ON",
+        "addr:street": "Lakeshore Road",
+        "building": "yes",
+        "name": "Art Gallery of Burlington",
+        "tourism": "gallery",
+        "wikidata": "Q4999199",
+        "wikipedia": "en:Art Gallery of Burlington",
+        "id": 150705322,
+        "type": "way",
+        "_id_closest": 395601605,
+        "_type_closest": "way",
+        "_lat_closest": 43.3208061,
+        "_lon_closest": -79.80176,
+        "_distance_meters": 62.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.803952,
           43.31646
         ]
@@ -55398,7 +55449,7 @@
         "addr:postcode": "L7R 2E3",
         "addr:street": "Fairview Street",
         "brand": "Value Village",
-        "brand:wikidata": "Q7428188",
+        "brand:wikidata": "Q135741450",
         "brand:wikipedia": "en:Savers",
         "building": "retail",
         "building:colour": "brown",
@@ -57032,48 +57083,6 @@
         "_type_closest": "way",
         "_lat_closest": 43.3228112,
         "_lon_closest": -79.8147533,
-        "_distance_meters": 56.0,
-        "_under_one_minute": 1,
-        "_under_two_minute": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.750155,
-          43.371899
-        ]
-      },
-      "properties": {
-        "addr:city": "Burlington",
-        "addr:housenumber": "5151",
-        "addr:postcode": "L7L 1V3",
-        "addr:street": "New Street",
-        "amenity": "school",
-        "fax": "+1-905-333-5841",
-        "isced:level": "3",
-        "mascot": "Wild",
-        "name": "Robert Bateman High School",
-        "operator": "Halton District School Board",
-        "operator:short": "HDSB",
-        "operator:type": "public",
-        "operator:wikidata": "Q5643647",
-        "operator:wikipedia": "en:Halton District School Board",
-        "phone": "+1-905-632-5151",
-        "school:language": "english",
-        "source": "Bing",
-        "start_date": "2004-09-01",
-        "website": "http://rbh.hdsb.ca/",
-        "wikidata": "Q7341927",
-        "wikipedia": "en:Robert Bateman High School",
-        "id": 186077274,
-        "type": "way",
-        "_id_closest": 455229588,
-        "_type_closest": "way",
-        "_lat_closest": 43.3721534,
-        "_lon_closest": -79.7507469,
         "_distance_meters": 56.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
@@ -67691,6 +67700,7 @@
         "check_date": "2025-04-06",
         "name": "McMaster University - DeGroote School of Business",
         "operator": "McMaster University",
+        "operator:wikidata": "Q632891",
         "source": "Bing",
         "website": "https://degroote.mcmaster.ca",
         "id": 772705583,
@@ -71250,6 +71260,56 @@
         "_distance_meters": 84.0,
         "_under_one_minute": 0,
         "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.750155,
+          43.371899
+        ]
+      },
+      "properties": {
+        "amenity": "university",
+        "education": "university",
+        "name": "Brock University Burlington Campus",
+        "operator": "City of Burlington",
+        "operator:type": "public",
+        "short_name": "BUBC",
+        "website": "https://brocku.ca/education/burlington-campus/",
+        "id": 1511165598,
+        "type": "way",
+        "_id_closest": 455229588,
+        "_type_closest": "way",
+        "_lat_closest": 43.3721534,
+        "_lon_closest": -79.7507469,
+        "_distance_meters": 56.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.76005,
+          43.404974
+        ]
+      },
+      "properties": {
+        "leisure": "park",
+        "id": 1511167863,
+        "type": "way",
+        "_id_closest": 438977561,
+        "_type_closest": "way",
+        "_lat_closest": 43.4007646,
+        "_lon_closest": -79.7646294,
+        "_distance_meters": 597.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
       }
     }
   ]
