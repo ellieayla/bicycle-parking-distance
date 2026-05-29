@@ -26712,7 +26712,7 @@
         "name": "Melody Man Studios",
         "opening_hours": "Mo-Th 13:00-20:30; Fr 12:00-18:00; Sa 10:00-15:00",
         "phone": "+1-905-639-1097",
-        "website": "http://melodymanstudios.com",
+        "website": "https://melodymanstudios.com/",
         "id": 6040900283,
         "type": "node",
         "_id_closest": 2565801074,
@@ -41994,7 +41994,18 @@
         ]
       },
       "properties": {
-        "shop": "beauty",
+        "addr:city": "Burlington",
+        "addr:housenumber": "516",
+        "addr:postcode": "L7T 2E2",
+        "addr:province": "Ontario",
+        "addr:street": "Plains Road East",
+        "addr:unit": "6",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Unbound Coffee + Gelato",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "website": "https://www.instagram.com/unbound.coffee/",
         "id": 7768538722,
         "type": "node",
         "_id_closest": 13451323721,
@@ -57268,7 +57279,7 @@
         "building:levels": "1",
         "name": "Tucker's Marketplace",
         "toilets:wheelchair": "yes",
-        "website": "www.tuckersmarketplace.ca",
+        "website": "https://www.tuckersmarketplace.ca/",
         "wheelchair": "yes",
         "id": 43938108,
         "type": "way",
@@ -58277,8 +58288,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -79.870488,
-            43.293037
+            -79.870516,
+            43.293044
           ],
           [
             -79.878425,
@@ -58287,8 +58298,14 @@
         ]
       },
       "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "549",
+        "addr:postcode": "L7T 1H1",
+        "addr:province": "ON",
+        "addr:street": "Plains Road West",
         "amenity": "place_of_worship",
         "attribution": "Natural Resources Canada",
+        "building": "yes",
         "canvec:CODE": "2010392",
         "canvec:UUID": "3c13260c4a154fd89eabb5ede4d287ce",
         "denomination": "united",
@@ -58301,7 +58318,7 @@
         "_type_closest": "node",
         "_lat_closest": 43.2914193,
         "_lon_closest": -79.8784252,
-        "_distance_meters": 667.0,
+        "_distance_meters": 665.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -83304,39 +83321,6 @@
         "_lat_closest": 43.3723176,
         "_lon_closest": -79.7488882,
         "_distance_meters": 424.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.865295,
-            43.2906
-          ],
-          [
-            -79.878425,
-            43.291419
-          ]
-        ]
-      },
-      "properties": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "roman_catholic",
-        "name": "Holy Sepulchre Chape",
-        "religion": "christian",
-        "wikidata": "Q131193548",
-        "id": 832039684,
-        "type": "way",
-        "_id_closest": 9705758484,
-        "_type_closest": "node",
-        "_lat_closest": 43.2914193,
-        "_lon_closest": -79.8784252,
-        "_distance_meters": 1067.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }

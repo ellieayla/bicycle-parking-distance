@@ -21780,7 +21780,7 @@
         "name": "Melody Man Studios",
         "opening_hours": "Mo-Th 13:00-20:30; Fr 12:00-18:00; Sa 10:00-15:00",
         "phone": "+1-905-639-1097",
-        "website": "http://melodymanstudios.com",
+        "website": "https://melodymanstudios.com/",
         "id": 6040900283,
         "type": "node",
         "_id_closest": 25821833,
@@ -34230,7 +34230,18 @@
         ]
       },
       "properties": {
-        "shop": "beauty",
+        "addr:city": "Burlington",
+        "addr:housenumber": "516",
+        "addr:postcode": "L7T 2E2",
+        "addr:province": "Ontario",
+        "addr:street": "Plains Road East",
+        "addr:unit": "6",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Unbound Coffee + Gelato",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "website": "https://www.instagram.com/unbound.coffee/",
         "id": 7768538722,
         "type": "node",
         "_id_closest": 1232512981,
@@ -41941,9 +41952,9 @@
         "type": "node",
         "_id_closest": 121051208,
         "_type_closest": "way",
-        "_lat_closest": 43.2928068,
+        "_lat_closest": 43.2928324,
         "_lon_closest": -79.8703819,
-        "_distance_meters": 196.0,
+        "_distance_meters": 198.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -46666,7 +46677,7 @@
         "building:levels": "1",
         "name": "Tucker's Marketplace",
         "toilets:wheelchair": "yes",
-        "website": "www.tuckersmarketplace.ca",
+        "website": "https://www.tuckersmarketplace.ca/",
         "wheelchair": "yes",
         "id": 43938108,
         "type": "way",
@@ -47506,13 +47517,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.870488,
-          43.293037
+          -79.870516,
+          43.293044
         ]
       },
       "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "549",
+        "addr:postcode": "L7T 1H1",
+        "addr:province": "ON",
+        "addr:street": "Plains Road West",
         "amenity": "place_of_worship",
         "attribution": "Natural Resources Canada",
+        "building": "yes",
         "canvec:CODE": "2010392",
         "canvec:UUID": "3c13260c4a154fd89eabb5ede4d287ce",
         "denomination": "united",
@@ -47523,9 +47540,9 @@
         "type": "way",
         "_id_closest": 121051208,
         "_type_closest": "way",
-        "_lat_closest": 43.2928068,
+        "_lat_closest": 43.2928324,
         "_lon_closest": -79.8703819,
-        "_distance_meters": 27.0,
+        "_distance_meters": 26.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
       }
@@ -67778,33 +67795,6 @@
         "_distance_meters": 67.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.865295,
-          43.2906
-        ]
-      },
-      "properties": {
-        "amenity": "place_of_worship",
-        "building": "yes",
-        "denomination": "roman_catholic",
-        "name": "Holy Sepulchre Chape",
-        "religion": "christian",
-        "wikidata": "Q131193548",
-        "id": 832039684,
-        "type": "way",
-        "_id_closest": 121051208,
-        "_type_closest": "way",
-        "_lat_closest": 43.2928068,
-        "_lon_closest": -79.8703819,
-        "_distance_meters": 479.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
       }
     },
     {
