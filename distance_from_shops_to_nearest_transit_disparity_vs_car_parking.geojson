@@ -3183,6 +3183,7 @@
         "brand": "BMO",
         "brand:wikidata": "Q806693",
         "brand:wikipedia": "en:Bank of Montreal",
+        "check_date": "2026-06-15",
         "name": "BMO",
         "official_name": "Bank of Montreal",
         "wheelchair": "limited",
@@ -5157,6 +5158,7 @@
       },
       "properties": {
         "amenity": "pub",
+        "check_date": "2026-06-15",
         "name": "Joe Dogs",
         "wheelchair": "limited",
         "id": 1617384828,
@@ -5227,6 +5229,7 @@
         "brand": "TD Canada Trust",
         "brand:wikidata": "Q1080670",
         "brand:wikipedia": "en:TD Canada Trust",
+        "check_date": "2026-06-15",
         "name": "TD Canada Trust",
         "wheelchair": "yes",
         "id": 1617384871,
@@ -46922,6 +46925,121 @@
         "_difference_distance_disparity": -68.0,
         "_under_one_minute": 0,
         "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.816955,
+          43.349164
+        ]
+      },
+      "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "2238",
+        "addr:postcode": "L7P 1B5",
+        "addr:province": "ON",
+        "addr:street": "Mountainside Drive",
+        "amenity": "atm",
+        "brand": "Bitcoin Well",
+        "cash_in": "yes",
+        "cash_out": "no",
+        "check_date": "2026-06-12",
+        "contact:email": "hello@bitcoinwell.com",
+        "contact:linkedin": "https://www.linkedin.com/company/bitcoinwell",
+        "contact:twitter": "https://x.com/BitcoinWell",
+        "contact:youtube": "https://www.youtube.com/@bitcoinwell",
+        "currency:CAD": "yes",
+        "currency:XBT": "yes",
+        "fee": "yes",
+        "indoor": "yes",
+        "name": "For Your Convenience - Bitcoin Well ATM",
+        "operator": "Bitcoin Well Inc.",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "yes",
+        "phone": "+1-888-711-3866",
+        "ref": "ON0069",
+        "website": "https://bitcoinwell.com",
+        "id": 13931780090,
+        "type": "node",
+        "_id_closest": 11929658264,
+        "_type_closest": "node",
+        "_lat_closest": 43.3512769,
+        "_lon_closest": -79.8225181,
+        "_distance_meters": 507.0,
+        "_distance_meters_disparity": 153.0,
+        "_difference_distance_disparity": -354.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.801215,
+          43.32827
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "check_date": "2026-06-15",
+        "name": "Culaccino",
+        "website": "https://www.culaccino.ca/",
+        "id": 13944154088,
+        "type": "node",
+        "_id_closest": 13731225668,
+        "_type_closest": "node",
+        "_lat_closest": 43.3276508,
+        "_lon_closest": -79.8008655,
+        "_distance_meters": 74.0,
+        "_distance_meters_disparity": 32.0,
+        "_difference_distance_disparity": -42.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.784937,
+          43.367045
+        ]
+      },
+      "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "990",
+        "addr:postcode": "L7L 5P5",
+        "addr:province": "ON",
+        "addr:street": "Fraser Drive",
+        "category": "Hot tub store",
+        "contact:facebook": "https://www.facebook.com/arctic.spas.burlington/",
+        "contact:instagram": "https://www.instagram.com/arcticspasburlington/",
+        "name": "Arctic Spas Burlington",
+        "opening_hours": "Mon-Thu, Sat 10am-5pm; Fri 10am-9pm; Sun 11am-4pm",
+        "phone": "+1-905-592-0282",
+        "shop": "supermarket",
+        "website": "https://www.arctichottubs.ca/",
+        "id": 13944503095,
+        "type": "node",
+        "_id_closest": 12695156057,
+        "_type_closest": "node",
+        "_lat_closest": 43.3640772,
+        "_lon_closest": -79.785104,
+        "_distance_meters": 330.0,
+        "_distance_meters_disparity": 143.0,
+        "_difference_distance_disparity": -187.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
       }
     },
     {
