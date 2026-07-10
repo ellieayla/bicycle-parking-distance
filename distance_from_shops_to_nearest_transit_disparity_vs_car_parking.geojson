@@ -1972,8 +1972,8 @@
         "_lat_closest": 43.3097093,
         "_lon_closest": -79.8486505,
         "_distance_meters": 72.0,
-        "_distance_meters_disparity": 18.0,
-        "_difference_distance_disparity": -54.0,
+        "_distance_meters_disparity": 8.0,
+        "_difference_distance_disparity": -64.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
       }
@@ -70467,6 +70467,7 @@
         "brand:wikipedia": "en:Wendy's",
         "building": "retail",
         "cuisine": "burger",
+        "drive_through": "yes",
         "name": "Wendy's",
         "takeaway": "yes",
         "id": 367535262,

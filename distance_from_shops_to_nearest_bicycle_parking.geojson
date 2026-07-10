@@ -65487,6 +65487,7 @@
         "brand:wikipedia": "en:Wendy's",
         "building": "retail",
         "cuisine": "burger",
+        "drive_through": "yes",
         "name": "Wendy's",
         "takeaway": "yes",
         "id": 367535262,
