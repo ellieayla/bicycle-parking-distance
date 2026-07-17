@@ -1548,6 +1548,7 @@
         "fuel:diesel": "yes",
         "name": "Esso",
         "website": "https://www.esso.ca/en-ca/find-station/esso-burlington-on-esso-200303936",
+        "wheelchair": "limited",
         "id": 319438298,
         "type": "node",
         "_id_closest": 201515467,
@@ -6002,6 +6003,7 @@
         "amenity": "car_wash",
         "check_date": "2025-05-18",
         "name": "Coin-Op Car Wash",
+        "wheelchair": "yes",
         "id": 1668169929,
         "type": "node",
         "_id_closest": 201515467,
@@ -15634,6 +15636,7 @@
         "brand:wikipedia": "en:Dollarama",
         "name": "Dollarama",
         "shop": "variety_store",
+        "wheelchair": "limited",
         "id": 3635879592,
         "type": "node",
         "_id_closest": 151459187,
@@ -16128,6 +16131,7 @@
       "properties": {
         "amenity": "fast_food",
         "name": "Zesty Pita & Burgers",
+        "wheelchair": "limited",
         "id": 3760804714,
         "type": "node",
         "_id_closest": 257018420,
@@ -42632,6 +42636,7 @@
         "brand:wikidata": "Q3033947",
         "name": "Dollarama",
         "shop": "variety_store",
+        "wheelchair": "yes",
         "id": 13032582987,
         "type": "node",
         "_id_closest": 257018422,
@@ -43760,6 +43765,32 @@
         "_lat_closest": 43.370687,
         "_lon_closest": -79.7767186,
         "_distance_meters": 118.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.815246,
+          43.411589
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_repair_station",
+        "colour": "blue",
+        "covered": "no",
+        "indoor": "no",
+        "operator": "City of Burlington",
+        "id": 14011524973,
+        "type": "node",
+        "_id_closest": 1290576158,
+        "_type_closest": "way",
+        "_lat_closest": 43.4117368,
+        "_lon_closest": -79.8142237,
+        "_distance_meters": 84.0,
         "_under_one_minute": 0,
         "_under_two_minute": 1
       }
@@ -45779,6 +45810,7 @@
         "phone": "+1-905-637-3825",
         "school:language": "english",
         "website": "https://nel.hdsb.ca/",
+        "wheelchair": "yes",
         "wikidata": "Q14875335",
         "wikipedia": "en:Nelson High School (Ontario)",
         "id": 26405149,
@@ -54292,6 +54324,7 @@
         "building": "retail",
         "building:levels": "1",
         "cuisine": "coffee_shop",
+        "drive_through": "yes",
         "name": "Tim Hortons",
         "takeaway": "yes",
         "id": 159267582,
