@@ -2627,8 +2627,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.880792,
-          43.41838
+          -79.880631,
+          43.418324
         ]
       },
       "properties": {
@@ -2640,7 +2640,7 @@
         "_type_closest": "node",
         "_lat_closest": 43.4007505,
         "_lon_closest": -79.827794,
-        "_distance_meters": 4709.0,
+        "_distance_meters": 4694.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -43805,6 +43805,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.881588,
+          43.418386
+        ]
+      },
+      "properties": {
+        "leisure": "picnic_table",
+        "id": 14057489712,
+        "type": "node",
+        "_id_closest": 12160004597,
+        "_type_closest": "node",
+        "_lat_closest": 43.4007505,
+        "_lon_closest": -79.827794,
+        "_distance_meters": 4767.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.881024,
+          43.418563
+        ]
+      },
+      "properties": {
+        "leisure": "picnic_table",
+        "id": 14057489839,
+        "type": "node",
+        "_id_closest": 12160004597,
+        "_type_closest": "node",
+        "_lat_closest": 43.4007505,
+        "_lon_closest": -79.827794,
+        "_distance_meters": 4734.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.898529,
+          43.427738
+        ]
+      },
+      "properties": {
+        "board_type": "welcome_sign",
+        "information": "board",
+        "name": "Historic Lowville",
+        "tourism": "information",
+        "id": 14057506047,
+        "type": "node",
+        "_id_closest": 12160004597,
+        "_type_closest": "node",
+        "_lat_closest": 43.4007505,
+        "_lon_closest": -79.827794,
+        "_distance_meters": 6454.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.79352,
           43.348346
         ]
@@ -65754,6 +65823,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.92559,
+          43.447488
+        ]
+      },
+      "properties": {
+        "brand": "On the Run",
+        "brand:wikidata": "Q16931259",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "On the Run",
+        "shop": "convenience",
+        "id": 379059362,
+        "type": "way",
+        "_id_closest": 12160004597,
+        "_type_closest": "node",
+        "_lat_closest": 43.4007505,
+        "_lon_closest": -79.827794,
+        "_distance_meters": 9454.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.839257,
           43.429029
         ]
@@ -71515,28 +71611,6 @@
         "_distance_meters": 113.0,
         "_under_one_minute": 0,
         "_under_two_minute": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.76005,
-          43.404974
-        ]
-      },
-      "properties": {
-        "leisure": "park",
-        "id": 1511167863,
-        "type": "way",
-        "_id_closest": 13456722926,
-        "_type_closest": "node",
-        "_lat_closest": 43.3863733,
-        "_lon_closest": -79.7756008,
-        "_distance_meters": 2420.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
       }
     }
   ]

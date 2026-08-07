@@ -2821,8 +2821,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.880792,
-          43.41838
+          -79.880631,
+          43.418324
         ]
       },
       "properties": {
@@ -2834,9 +2834,9 @@
         "_type_closest": "node",
         "_lat_closest": 43.4052256,
         "_lon_closest": -79.821215,
-        "_distance_meters": 5030.0,
-        "_distance_meters_disparity": 50.0,
-        "_difference_distance_disparity": -4980.0,
+        "_distance_meters": 5016.0,
+        "_distance_meters_disparity": 59.0,
+        "_difference_distance_disparity": -4957.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -3707,11 +3707,11 @@
         "type": "node",
         "_id_closest": 13731291617,
         "_type_closest": "node",
-        "_lat_closest": 43.307132,
-        "_lon_closest": -79.8529969,
-        "_distance_meters": 84.0,
+        "_lat_closest": 43.3071489,
+        "_lon_closest": -79.8530264,
+        "_distance_meters": 81.0,
         "_distance_meters_disparity": 46.0,
-        "_difference_distance_disparity": -38.0,
+        "_difference_distance_disparity": -35.0,
         "_under_one_minute": 0,
         "_under_two_minute": 1
       }
@@ -47121,6 +47121,81 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.881588,
+          43.418386
+        ]
+      },
+      "properties": {
+        "leisure": "picnic_table",
+        "id": 14057489712,
+        "type": "node",
+        "_id_closest": 1677403721,
+        "_type_closest": "node",
+        "_lat_closest": 43.4052256,
+        "_lon_closest": -79.821215,
+        "_distance_meters": 5092.0,
+        "_distance_meters_disparity": 35.0,
+        "_difference_distance_disparity": -5057.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.881024,
+          43.418563
+        ]
+      },
+      "properties": {
+        "leisure": "picnic_table",
+        "id": 14057489839,
+        "type": "node",
+        "_id_closest": 1677403721,
+        "_type_closest": "node",
+        "_lat_closest": 43.4052256,
+        "_lon_closest": -79.821215,
+        "_distance_meters": 5054.0,
+        "_distance_meters_disparity": 53.0,
+        "_difference_distance_disparity": -5001.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.898529,
+          43.427738
+        ]
+      },
+      "properties": {
+        "board_type": "welcome_sign",
+        "information": "board",
+        "name": "Historic Lowville",
+        "tourism": "information",
+        "id": 14057506047,
+        "type": "node",
+        "_id_closest": 1677403721,
+        "_type_closest": "node",
+        "_lat_closest": 43.4052256,
+        "_lon_closest": -79.821215,
+        "_distance_meters": 6728.0,
+        "_distance_meters_disparity": 576.0,
+        "_difference_distance_disparity": -6152.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.79352,
           43.348346
         ]
@@ -49679,13 +49754,13 @@
         "source": "Yahoo",
         "id": 34343303,
         "type": "way",
-        "_id_closest": 13731291603,
+        "_id_closest": 14050010549,
         "_type_closest": "node",
-        "_lat_closest": 43.3169098,
-        "_lon_closest": -79.8558816,
-        "_distance_meters": 2647.0,
+        "_lat_closest": 43.327111,
+        "_lon_closest": -79.8811707,
+        "_distance_meters": 507.0,
         "_distance_meters_disparity": 1565.0,
-        "_difference_distance_disparity": -1082.0,
+        "_difference_distance_disparity": 1058.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -61570,13 +61645,13 @@
         "social_facility:for": "senior",
         "id": 182951362,
         "type": "way",
-        "_id_closest": 3901844310,
+        "_id_closest": 14050010553,
         "_type_closest": "node",
-        "_lat_closest": 43.312879,
-        "_lon_closest": -79.8566881,
-        "_distance_meters": 875.0,
+        "_lat_closest": 43.313254,
+        "_lon_closest": -79.8617771,
+        "_distance_meters": 536.0,
         "_distance_meters_disparity": 48.0,
-        "_difference_distance_disparity": -827.0,
+        "_difference_distance_disparity": -488.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -69053,13 +69128,13 @@
         "sport": "baseball",
         "id": 297226470,
         "type": "way",
-        "_id_closest": 13731291603,
+        "_id_closest": 14050010551,
         "_type_closest": "node",
-        "_lat_closest": 43.3169098,
-        "_lon_closest": -79.8558816,
-        "_distance_meters": 1274.0,
+        "_lat_closest": 43.3174417,
+        "_lon_closest": -79.8689646,
+        "_distance_meters": 215.0,
         "_distance_meters_disparity": 115.0,
-        "_difference_distance_disparity": -1159.0,
+        "_difference_distance_disparity": -100.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -70747,6 +70822,35 @@
         "_distance_meters": 4001.0,
         "_distance_meters_disparity": 1782.0,
         "_difference_distance_disparity": -2219.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92559,
+          43.447488
+        ]
+      },
+      "properties": {
+        "brand": "On the Run",
+        "brand:wikidata": "Q16931259",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "On the Run",
+        "shop": "convenience",
+        "id": 379059362,
+        "type": "way",
+        "_id_closest": 1677403721,
+        "_type_closest": "node",
+        "_lat_closest": 43.4052256,
+        "_lon_closest": -79.821215,
+        "_distance_meters": 9650.0,
+        "_distance_meters_disparity": 1087.0,
+        "_difference_distance_disparity": -8563.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -73010,13 +73114,13 @@
         "operator:type": "private",
         "id": 706091239,
         "type": "way",
-        "_id_closest": 13731291603,
+        "_id_closest": 14050010551,
         "_type_closest": "node",
-        "_lat_closest": 43.3169098,
-        "_lon_closest": -79.8558816,
-        "_distance_meters": 1222.0,
+        "_lat_closest": 43.3174417,
+        "_lon_closest": -79.8689646,
+        "_distance_meters": 171.0,
         "_distance_meters_disparity": 23.0,
-        "_difference_distance_disparity": -1199.0,
+        "_difference_distance_disparity": -148.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -74631,13 +74735,13 @@
         "website": "https://laureatecollege.ca",
         "id": 1166019524,
         "type": "way",
-        "_id_closest": 13731291603,
+        "_id_closest": 14050010524,
         "_type_closest": "node",
-        "_lat_closest": 43.3169098,
-        "_lon_closest": -79.8558816,
-        "_distance_meters": 2954.0,
+        "_lat_closest": 43.3291481,
+        "_lon_closest": -79.884187,
+        "_distance_meters": 1050.0,
         "_distance_meters_disparity": 1772.0,
-        "_difference_distance_disparity": -1182.0,
+        "_difference_distance_disparity": 722.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -76993,30 +77097,6 @@
         "_difference_distance_disparity": -36.0,
         "_under_one_minute": 0,
         "_under_two_minute": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.76005,
-          43.404974
-        ]
-      },
-      "properties": {
-        "leisure": "park",
-        "id": 1511167863,
-        "type": "way",
-        "_id_closest": 13731278092,
-        "_type_closest": "node",
-        "_lat_closest": 43.39157,
-        "_lon_closest": -79.7529103,
-        "_distance_meters": 1598.0,
-        "_distance_meters_disparity": 597.0,
-        "_difference_distance_disparity": -1001.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
       }
     }
   ]
