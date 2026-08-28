@@ -23404,6 +23404,7 @@
         ]
       },
       "properties": {
+        "access": "yes",
         "leisure": "playground",
         "id": 5923213466,
         "type": "node",
@@ -47190,6 +47191,30 @@
         "_difference_distance_disparity": -6152.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.806929,
+          43.37905
+        ]
+      },
+      "properties": {
+        "amenity": "compressed_air",
+        "id": 14113699314,
+        "type": "node",
+        "_id_closest": 11929658784,
+        "_type_closest": "node",
+        "_lat_closest": 43.3785964,
+        "_lon_closest": -79.8069152,
+        "_distance_meters": 50.0,
+        "_distance_meters_disparity": 26.0,
+        "_difference_distance_disparity": -24.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {

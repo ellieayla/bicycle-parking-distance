@@ -21764,6 +21764,7 @@
         ]
       },
       "properties": {
+        "access": "yes",
         "leisure": "playground",
         "id": 5923213466,
         "type": "node",
@@ -43868,6 +43869,28 @@
         "_distance_meters": 576.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.806929,
+          43.37905
+        ]
+      },
+      "properties": {
+        "amenity": "compressed_air",
+        "id": 14113699314,
+        "type": "node",
+        "_id_closest": 455437196,
+        "_type_closest": "way",
+        "_lat_closest": 43.3792168,
+        "_lon_closest": -79.8071482,
+        "_distance_meters": 26.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
       }
     },
     {
