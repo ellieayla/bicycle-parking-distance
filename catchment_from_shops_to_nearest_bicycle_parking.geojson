@@ -51735,6 +51735,7 @@
       "properties": {
         "amenity": "shower",
         "fee": "no",
+        "hot_water": "no",
         "indoor": "no",
         "unisex": "yes",
         "wheelchair": "yes",
@@ -51827,6 +51828,7 @@
         "amenity": "drinking_water",
         "bottle": "yes",
         "covered": "yes",
+        "fountain": "bubbler",
         "id": 12915598629,
         "type": "node",
         "_id_closest": 12915598620,
@@ -53862,6 +53864,140 @@
         "_lon_closest": -79.8073711,
         "_distance_meters": 62.0,
         "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.813539,
+            43.411991
+          ],
+          [
+            -79.81412,
+            43.411488
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "3247",
+        "addr:postcode": "L7M0V7",
+        "addr:street": "Appleby Line",
+        "amenity": "prep_school",
+        "check_date": "2026-08-30",
+        "education": "prep_school",
+        "email": "infoburlington@zebrarobotics.com",
+        "internet_access": "wlan",
+        "name": "Zebra Robotics Burlington",
+        "phone": "+1-647-673-9583",
+        "website": "http://ZebraRobotics.com/burlington",
+        "id": 14136019701,
+        "type": "node",
+        "_id_closest": 13659104754,
+        "_type_closest": "node",
+        "_lat_closest": 43.4114885,
+        "_lon_closest": -79.8141195,
+        "_distance_meters": 73.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.799928,
+            43.30813
+          ],
+          [
+            -79.800141,
+            43.308581
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "id": 14137852150,
+        "type": "node",
+        "_id_closest": 12915598620,
+        "_type_closest": "node",
+        "_lat_closest": 43.3085808,
+        "_lon_closest": -79.8001407,
+        "_distance_meters": 53.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.799123,
+            43.303328
+          ],
+          [
+            -79.800141,
+            43.308581
+          ]
+        ]
+      },
+      "properties": {
+        "covered": "no",
+        "leisure": "picnic_table",
+        "id": 14137856217,
+        "type": "node",
+        "_id_closest": 12915598620,
+        "_type_closest": "node",
+        "_lat_closest": 43.3085808,
+        "_lon_closest": -79.8001407,
+        "_distance_meters": 590.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.819317,
+            43.330881
+          ],
+          [
+            -79.818039,
+            43.331153
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "Unit C4",
+        "addr:postcode": "L7S 1Y3",
+        "addr:street": "Fairview Street",
+        "amenity": "restaurant",
+        "cuisine": "mediterranean",
+        "name": "Shawarma Alzaeem",
+        "opening_hours": "Mo-Su 11:00-22:45",
+        "outdoor_seating": "no",
+        "phone": "+1-905-226-4403",
+        "self_service": "no",
+        "website": "https://www.alzaeem.ca",
+        "id": 14140995701,
+        "type": "node",
+        "_id_closest": 13449256051,
+        "_type_closest": "node",
+        "_lat_closest": 43.331153,
+        "_lon_closest": -79.8180394,
+        "_distance_meters": 108.0,
+        "_under_one_minute": 0,
         "_under_two_minute": 1
       }
     },

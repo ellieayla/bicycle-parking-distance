@@ -42159,6 +42159,7 @@
       "properties": {
         "amenity": "shower",
         "fee": "no",
+        "hot_water": "no",
         "indoor": "no",
         "unisex": "yes",
         "wheelchair": "yes",
@@ -42233,6 +42234,7 @@
         "amenity": "drinking_water",
         "bottle": "yes",
         "covered": "yes",
+        "fountain": "bubbler",
         "id": 12915598629,
         "type": "node",
         "_id_closest": 154079078,
@@ -43889,6 +43891,116 @@
         "_lat_closest": 43.3792168,
         "_lon_closest": -79.8071482,
         "_distance_meters": 26.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.813539,
+          43.411991
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "3247",
+        "addr:postcode": "L7M0V7",
+        "addr:street": "Appleby Line",
+        "amenity": "prep_school",
+        "check_date": "2026-08-30",
+        "education": "prep_school",
+        "email": "infoburlington@zebrarobotics.com",
+        "internet_access": "wlan",
+        "name": "Zebra Robotics Burlington",
+        "phone": "+1-647-673-9583",
+        "website": "http://ZebraRobotics.com/burlington",
+        "id": 14136019701,
+        "type": "node",
+        "_id_closest": 1290576157,
+        "_type_closest": "way",
+        "_lat_closest": 43.4120669,
+        "_lon_closest": -79.8138283,
+        "_distance_meters": 25.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.799928,
+          43.30813
+        ]
+      },
+      "properties": {
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "id": 14137852150,
+        "type": "node",
+        "_id_closest": 154079081,
+        "_type_closest": "way",
+        "_lat_closest": 43.307556,
+        "_lon_closest": -79.7999097,
+        "_distance_meters": 64.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.799123,
+          43.303328
+        ]
+      },
+      "properties": {
+        "covered": "no",
+        "leisure": "picnic_table",
+        "id": 14137856217,
+        "type": "node",
+        "_id_closest": 160010695,
+        "_type_closest": "way",
+        "_lat_closest": 43.3034024,
+        "_lon_closest": -79.7989535,
+        "_distance_meters": 16.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.819317,
+          43.330881
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "Unit C4",
+        "addr:postcode": "L7S 1Y3",
+        "addr:street": "Fairview Street",
+        "amenity": "restaurant",
+        "cuisine": "mediterranean",
+        "name": "Shawarma Alzaeem",
+        "opening_hours": "Mo-Su 11:00-22:45",
+        "outdoor_seating": "no",
+        "phone": "+1-905-226-4403",
+        "self_service": "no",
+        "website": "https://www.alzaeem.ca",
+        "id": 14140995701,
+        "type": "node",
+        "_id_closest": 295559090,
+        "_type_closest": "way",
+        "_lat_closest": 43.3312643,
+        "_lon_closest": -79.819242,
+        "_distance_meters": 43.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
       }
