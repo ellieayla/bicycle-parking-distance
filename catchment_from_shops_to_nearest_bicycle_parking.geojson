@@ -6439,7 +6439,6 @@
         "addr:city": "Burlington",
         "addr:housenumber": "2041",
         "addr:postcode": "L7R 1E9",
-        "addr:province": "On",
         "addr:street": "Pine Street",
         "amenity": "restaurant",
         "check_date": "2025-12-08",
@@ -6479,7 +6478,6 @@
         "addr:city": "Burlington",
         "addr:housenumber": "413",
         "addr:postcode": "L7R 2L8",
-        "addr:province": "On",
         "addr:street": "Elizabeth Street",
         "brand": "LCBO",
         "brand:wikidata": "Q845263",
@@ -6497,43 +6495,6 @@
         "_lat_closest": 43.3256061,
         "_lon_closest": -79.7956062,
         "_distance_meters": 41.0,
-        "_under_one_minute": 1,
-        "_under_two_minute": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.798315,
-            43.326217
-          ],
-          [
-            -79.798579,
-            43.326097
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Burlington",
-        "addr:housenumber": "421;425",
-        "addr:postcode": "L7R 2G3",
-        "addr:street": "Brant Street",
-        "name": "cariage gate homes 22 storey building",
-        "opening_hours": "Tu-We 11:30-21:00, Th 11:30-22:00, Fr-Sa 11:30-23:00, Su 11:30-21:00; Mo-We 10:00-18:00, Th-Fr 10:00-19:00, Sa 10:00-17:30, Su 13:00-17:00",
-        "phone": "+1-905-634-7421;+1-905-637-3203",
-        "shop": "music;clothes",
-        "website": "http://cellisosteria.com/;https://www.looneytunesmusic.ca/",
-        "wheelchair": "no",
-        "id": 1632110862,
-        "type": "node",
-        "_id_closest": 10998405117,
-        "_type_closest": "node",
-        "_lat_closest": 43.3260967,
-        "_lon_closest": -79.798579,
-        "_distance_meters": 25.0,
         "_under_one_minute": 1,
         "_under_two_minute": 1
       }
@@ -8421,7 +8382,6 @@
         "addr:city": "Burlington",
         "addr:housenumber": "414",
         "addr:postcode": "L7R 4G2",
-        "addr:province": "On",
         "addr:street": "Pearl Street",
         "name": "Specs on Pearl",
         "phone": "+1-905-637-7777",
@@ -41484,10 +41444,8 @@
       },
       "properties": {
         "addr:city": "Burlington",
-        "addr:country": "CA",
         "addr:housenumber": "431",
         "addr:postcode": "L7R 2N2",
-        "addr:province": "BC",
         "addr:street": "Pearl Street",
         "check_date": "2024-07-29",
         "name": "P & Gifts",
@@ -50882,7 +50840,6 @@
         "addr:city": "Burlington",
         "addr:housenumber": "389",
         "addr:postcode": "L7R 2K3",
-        "addr:province": "On",
         "addr:street": "John Street",
         "amenity": "ice_cream",
         "diet:gluten_free": "yes",
@@ -53998,6 +53955,93 @@
         "_lon_closest": -79.8180394,
         "_distance_meters": 108.0,
         "_under_one_minute": 0,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.801838,
+            43.301526
+          ],
+          [
+            -79.800141,
+            43.308581
+          ]
+        ]
+      },
+      "properties": {
+        "covered": "no",
+        "leisure": "picnic_table",
+        "id": 14150093136,
+        "type": "node",
+        "_id_closest": 12915598620,
+        "_type_closest": "node",
+        "_lat_closest": 43.3085808,
+        "_lon_closest": -79.8001407,
+        "_distance_meters": 796.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.793695,
+            43.346973
+          ],
+          [
+            -79.79409,
+            43.347088
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "name": "Flo Charging Station",
+        "opening_hours": "24/7",
+        "id": 14161697701,
+        "type": "node",
+        "_id_closest": 11615021109,
+        "_type_closest": "node",
+        "_lat_closest": 43.3470884,
+        "_lon_closest": -79.7940899,
+        "_distance_meters": 34.0,
+        "_under_one_minute": 1,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.799836,
+            43.308852
+          ],
+          [
+            -79.800141,
+            43.308581
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "drinking_water",
+        "id": 14170445632,
+        "type": "node",
+        "_id_closest": 12915598620,
+        "_type_closest": "node",
+        "_lat_closest": 43.3085808,
+        "_lon_closest": -79.8001407,
+        "_distance_meters": 39.0,
+        "_under_one_minute": 1,
         "_under_two_minute": 1
       }
     },
@@ -73996,8 +74040,17 @@
         ]
       },
       "properties": {
+        "access": "yes",
+        "addr:city": "Burlington",
+        "addr:housenumber": "3035",
+        "addr:postcode": "L7M 0M3",
+        "addr:province": "Ontario",
+        "addr:street": "Tim Dobbie Drive",
         "barrier": "fence",
         "leisure": "dog_park",
+        "name": "Norton Leash Free Dog Park",
+        "operator": "City of Burlington",
+        "operator:type": "public",
         "id": 249488281,
         "type": "way",
         "_id_closest": 9724852290,
@@ -88236,6 +88289,43 @@
         "_distance_meters": 113.0,
         "_under_one_minute": 0,
         "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.799527,
+            43.401712
+          ],
+          [
+            -79.795676,
+            43.396323
+          ]
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "addr:city": "Burlington",
+        "addr:housenumber": "2270",
+        "addr:postcode": "L7L6N1",
+        "addr:province": "Ontario",
+        "addr:street": "Pathfinder Drive",
+        "leisure": "dog_park",
+        "name": "Pathfinder Park",
+        "operator": "City of Burlington",
+        "operator:type": "government",
+        "id": 1555177622,
+        "type": "way",
+        "_id_closest": 10995582056,
+        "_type_closest": "node",
+        "_lat_closest": 43.3963233,
+        "_lon_closest": -79.7956763,
+        "_distance_meters": 675.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
       }
     }
   ]
