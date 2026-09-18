@@ -3328,6 +3328,7 @@
       },
       "properties": {
         "FIXME": "inexact location",
+        "access": "yes",
         "leisure": "playground",
         "id": 621421222,
         "type": "node",
@@ -47378,6 +47379,144 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.835852,
+          43.31891
+        ]
+      },
+      "properties": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "kids_area": "no",
+        "name": "Oakville Hakka House",
+        "outdoor_seating": "no",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:qr_code": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "id": 14181382184,
+        "type": "node",
+        "_id_closest": 11432529619,
+        "_type_closest": "node",
+        "_lat_closest": 43.3188007,
+        "_lon_closest": -79.8369023,
+        "_distance_meters": 86.0,
+        "_distance_meters_disparity": 43.0,
+        "_difference_distance_disparity": -43.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.800782,
+          43.313924
+        ]
+      },
+      "properties": {
+        "covered": "no",
+        "leisure": "picnic_table",
+        "id": 14183388637,
+        "type": "node",
+        "_id_closest": 10085980984,
+        "_type_closest": "node",
+        "_lat_closest": 43.3154855,
+        "_lon_closest": -79.801118,
+        "_distance_meters": 176.0,
+        "_distance_meters_disparity": 98.0,
+        "_difference_distance_disparity": -78.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.813897,
+          43.410242
+        ]
+      },
+      "properties": {
+        "addr:street": "Thomas Alton Boulevard",
+        "amenity": "pharmacy",
+        "name": "Pharmasave Thomas Alton",
+        "id": 14184083001,
+        "type": "node",
+        "_id_closest": 1540300373,
+        "_type_closest": "node",
+        "_lat_closest": 43.4070857,
+        "_lon_closest": -79.8099874,
+        "_distance_meters": 472.0,
+        "_distance_meters_disparity": 81.0,
+        "_difference_distance_disparity": -391.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.813897,
+          43.410242
+        ]
+      },
+      "properties": {
+        "addr:street": "Thomas Alton Boulevard",
+        "amenity": "pharmacy",
+        "name": "Pharmasave Thomas Alton",
+        "opening_hours": "Mo-Tu 09:00-19:00; We-Fr 09:00-18:00; Sa 09:00-15:00",
+        "website": "https://pharmasave.com/burlington-alton/",
+        "id": 14184084401,
+        "type": "node",
+        "_id_closest": 1540300373,
+        "_type_closest": "node",
+        "_lat_closest": 43.4070857,
+        "_lon_closest": -79.8099874,
+        "_distance_meters": 472.0,
+        "_distance_meters_disparity": 81.0,
+        "_difference_distance_disparity": -391.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.801124,
+          43.299491
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "id": 14185305908,
+        "type": "node",
+        "_id_closest": 10085980984,
+        "_type_closest": "node",
+        "_lat_closest": 43.3154855,
+        "_lon_closest": -79.801118,
+        "_distance_meters": 1779.0,
+        "_distance_meters_disparity": 37.0,
+        "_difference_distance_disparity": -1742.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.79352,
           43.348346
         ]
@@ -64727,6 +64866,7 @@
       "properties": {
         "golf": "green",
         "leisure": "pitch",
+        "ref": "13",
         "sport": "golf",
         "id": 247864939,
         "type": "way",
@@ -64753,6 +64893,7 @@
       "properties": {
         "golf": "green",
         "leisure": "pitch",
+        "ref": "14",
         "sport": "golf",
         "id": 247864944,
         "type": "way",
@@ -64780,6 +64921,7 @@
         "golf": "green",
         "landuse": "grass",
         "leisure": "pitch",
+        "ref": "15",
         "sport": "golf",
         "id": 247864951,
         "type": "way",
