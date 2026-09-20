@@ -102,7 +102,7 @@ jobs:
         RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         GH_TOKEN: ${{ github.token }}
       run: |
-        gh issue list --label scrape-failure --json number --jq ".[].number" | xargs -n1 gh issue close --comment "Recovered in $RUN_URL on $NOW"
+        gh issue list --repo "$GITHUB_REPOSITORY" --label scrape-failure --json number --jq ".[].number" | xargs -n1 gh issue close --repo "$GITHUB_REPOSITORY" --comment "Recovered in $RUN_URL on $NOW"
   issue:
     needs: [scheduled]
     runs-on: ubuntu-latest
