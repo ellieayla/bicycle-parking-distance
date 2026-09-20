@@ -87,6 +87,22 @@ jobs:
         commit_user_email: actions@github.com # defaults to "actions@github.com"
         commit_author: GitHub Actions <actions@github.com> # defaults to author of the commit that triggered the run
 
+  closeissue:
+    needs: scheduled
+    runs-on: ubuntu-latest
+    if: success()
+    permissions:
+      issues: write
+
+    steps:
+    - name: Get current date in NOW env variable
+      run: echo "NOW=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+    - name: close old issues
+      env:
+        RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        GH_TOKEN: ${{ github.token }}
+      run: |
+        gh issue list --label scrape-failure wontfix --json number --jq ".[].number" | xargs -n1 gh issue close --comment "Recovered in $RUN_URL on $NOW"
   issue:
     needs: [scheduled]
     runs-on: ubuntu-latest
@@ -104,4 +120,4 @@ jobs:
         RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         GH_TOKEN: ${{ github.token }}
       run: |
-        gh issue create --title "Failed job $NOW" --repo "$GITHUB_REPOSITORY" --assignee "$GITHUB_REPOSITORY_OWNER" --body "$RUN_URL"
+        gh issue create --label scrape-failure --title "Failed job $NOW" --repo "$GITHUB_REPOSITORY" --assignee "$GITHUB_REPOSITORY_OWNER" --body "$RUN_URL"
