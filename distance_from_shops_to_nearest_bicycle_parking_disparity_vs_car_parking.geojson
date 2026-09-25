@@ -9717,31 +9717,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.817223,
-          43.338835
-        ]
-      },
-      "properties": {
-        "name": "Posh Contessa",
-        "shop": "beauty",
-        "id": 2168903428,
-        "type": "node",
-        "_id_closest": 11730967293,
-        "_type_closest": "node",
-        "_lat_closest": 43.3387929,
-        "_lon_closest": -79.8185096,
-        "_distance_meters": 104.0,
-        "_distance_meters_disparity": 38.0,
-        "_difference_distance_disparity": -66.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.81767,
           43.339381
         ]
@@ -9763,37 +9738,6 @@
         "_distance_meters": 94.0,
         "_distance_meters_disparity": 34.0,
         "_difference_distance_disparity": -60.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.817376,
-          43.338839
-        ]
-      },
-      "properties": {
-        "addr:city": "Burlington",
-        "addr:housenumber": "2011",
-        "addr:street": "Plains Road East",
-        "amenity": "restaurant",
-        "cuisine": "vietnamese",
-        "name": "Pho 26",
-        "opening_hours": "Mo-Su 11:00-21:30",
-        "website": "https://pho-26.com/",
-        "id": 2168903430,
-        "type": "node",
-        "_id_closest": 11730967293,
-        "_type_closest": "node",
-        "_lat_closest": 43.3387929,
-        "_lon_closest": -79.8185096,
-        "_distance_meters": 92.0,
-        "_distance_meters_disparity": 36.0,
-        "_difference_distance_disparity": -56.0,
         "_under_one_minute": 0,
         "_under_two_minute": 1
       }
@@ -35521,34 +35465,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.817868,
-          43.336811
-        ]
-      },
-      "properties": {
-        "addr:city": "Burlington",
-        "addr:housenumber": "1400",
-        "addr:street": "Plains Road East",
-        "amenity": "restaurant",
-        "name": "Afghan Kebab Cuisine",
-        "id": 7061714261,
-        "type": "node",
-        "_id_closest": 11730967294,
-        "_type_closest": "node",
-        "_lat_closest": 43.3385625,
-        "_lon_closest": -79.818518,
-        "_distance_meters": 202.0,
-        "_distance_meters_disparity": 29.0,
-        "_difference_distance_disparity": -173.0,
-        "_under_one_minute": 0,
-        "_under_two_minute": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.817783,
           43.336687
         ]
@@ -47508,6 +47424,34 @@
         "_distance_meters": 1014.0,
         "_distance_meters_disparity": 37.0,
         "_difference_distance_disparity": -977.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.817956,
+          43.336829
+        ]
+      },
+      "properties": {
+        "addr:street": "Plains Road East",
+        "amenity": "restaurant",
+        "check_date": "2026-09-24",
+        "cuisine": "chinese",
+        "name": "Alei Kitchen",
+        "id": 14212972201,
+        "type": "node",
+        "_id_closest": 11730967294,
+        "_type_closest": "node",
+        "_lat_closest": 43.3385625,
+        "_lon_closest": -79.818518,
+        "_distance_meters": 198.0,
+        "_distance_meters_disparity": 35.0,
+        "_difference_distance_disparity": -163.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
