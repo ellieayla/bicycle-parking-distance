@@ -54188,6 +54188,163 @@
         "type": "LineString",
         "coordinates": [
           [
+            -79.797025,
+            43.369924
+          ],
+          [
+            -79.799153,
+            43.367724
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "3474",
+        "addr:postcode": "L7M 1A8",
+        "addr:province": "Ontario",
+        "addr:street": "Mainway",
+        "amenity": "recycling",
+        "contact:instagram": "https://www.instagram.com/solrecycling/",
+        "name": "Sol Recycling",
+        "opening_hours": "Mo-Fr 06:00-21:00",
+        "phone": "+1-888-765-3001",
+        "recycling_type": "centre",
+        "website": "https://solrecycling.com/",
+        "id": 14257344680,
+        "type": "node",
+        "_id_closest": 11548082138,
+        "_type_closest": "node",
+        "_lat_closest": 43.3677241,
+        "_lon_closest": -79.7991525,
+        "_distance_meters": 299.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.755683,
+            43.382906
+          ],
+          [
+            -79.756117,
+            43.378715
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "id": 14261974918,
+        "type": "node",
+        "_id_closest": 11216194559,
+        "_type_closest": "node",
+        "_lat_closest": 43.3787152,
+        "_lon_closest": -79.7561166,
+        "_distance_meters": 467.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.755065,
+            43.382656
+          ],
+          [
+            -79.756117,
+            43.378715
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "id": 14261974952,
+        "type": "node",
+        "_id_closest": 11216194559,
+        "_type_closest": "node",
+        "_lat_closest": 43.3787152,
+        "_lon_closest": -79.7561166,
+        "_distance_meters": 446.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.751936,
+            43.386624
+          ],
+          [
+            -79.756117,
+            43.378715
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "id": 14261974953,
+        "type": "node",
+        "_id_closest": 11216194559,
+        "_type_closest": "node",
+        "_lat_closest": 43.3787152,
+        "_lon_closest": -79.7561166,
+        "_distance_meters": 942.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.751262,
+            43.386377
+          ],
+          [
+            -79.756117,
+            43.378715
+          ]
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "no",
+        "id": 14261974955,
+        "type": "node",
+        "_id_closest": 11216194559,
+        "_type_closest": "node",
+        "_lat_closest": 43.3787152,
+        "_lon_closest": -79.7561166,
+        "_distance_meters": 938.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -79.79352,
             43.348346
           ],
@@ -65102,8 +65259,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -79.755177,
-            43.381485
+            -79.75515,
+            43.381468
           ],
           [
             -79.756117,
@@ -65116,13 +65273,14 @@
         "name": "Sherwood Forest Park Field",
         "source": "User:Kevo",
         "sport": "soccer",
+        "surface": "grass",
         "id": 149826227,
         "type": "way",
         "_id_closest": 11216194559,
         "_type_closest": "node",
         "_lat_closest": 43.3787152,
         "_lon_closest": -79.7561166,
-        "_distance_meters": 317.0,
+        "_distance_meters": 316.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -65143,6 +65301,7 @@
         ]
       },
       "properties": {
+        "access": "yes",
         "leisure": "pitch",
         "lit": "yes",
         "name": "Sherwood Forest Park Field E",
@@ -65166,8 +65325,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -79.755887,
-            43.383405
+            -79.755893,
+            43.383395
           ],
           [
             -79.756117,
@@ -65176,7 +65335,7 @@
         ]
       },
       "properties": {
-        "fixme": "sport=rugby is ambiguous, see http://wiki.osm.org/wiki/Tag:sport%3Drugby for more details",
+        "access": "yes",
         "leisure": "pitch",
         "sport": "rugby_union",
         "surface": "grass",
@@ -65186,7 +65345,7 @@
         "_type_closest": "node",
         "_lat_closest": 43.3787152,
         "_lon_closest": -79.7561166,
-        "_distance_meters": 522.0,
+        "_distance_meters": 521.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -65866,6 +66025,7 @@
       },
       "properties": {
         "leisure": "playground",
+        "surface": "fine_gravel",
         "id": 151455932,
         "type": "way",
         "_id_closest": 11216194559,
@@ -65894,6 +66054,7 @@
       },
       "properties": {
         "leisure": "playground",
+        "surface": "fine_gravel",
         "id": 151455933,
         "type": "way",
         "_id_closest": 11216194559,
@@ -65922,6 +66083,7 @@
       },
       "properties": {
         "leisure": "playground",
+        "surface": "fine_gravel",
         "id": 151455975,
         "type": "way",
         "_id_closest": 11216194559,
@@ -80269,8 +80431,10 @@
         ]
       },
       "properties": {
+        "access": "yes",
         "leisure": "pitch",
         "sport": "soccer",
+        "surface": "grass",
         "id": 340469672,
         "type": "way",
         "_id_closest": 11216194559,
@@ -80346,8 +80510,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -79.756943,
-            43.382007
+            -79.756907,
+            43.382032
           ],
           [
             -79.756117,
@@ -80356,6 +80520,7 @@
         ]
       },
       "properties": {
+        "access": "yes",
         "leisure": "pitch",
         "lit": "yes",
         "sport": "soccer",
@@ -80366,7 +80531,7 @@
         "_type_closest": "node",
         "_lat_closest": 43.3787152,
         "_lon_closest": -79.7561166,
-        "_distance_meters": 372.0,
+        "_distance_meters": 374.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
@@ -88464,6 +88629,286 @@
         "_lat_closest": 43.3963233,
         "_lon_closest": -79.7956763,
         "_distance_meters": 675.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.755698,
+            43.382965
+          ],
+          [
+            -79.756117,
+            43.378715
+          ]
+        ]
+      },
+      "properties": {
+        "leisure": "bleachers",
+        "id": 1566307900,
+        "type": "way",
+        "_id_closest": 11216194559,
+        "_type_closest": "node",
+        "_lat_closest": 43.3787152,
+        "_lon_closest": -79.7561166,
+        "_distance_meters": 474.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.755657,
+            43.383001
+          ],
+          [
+            -79.756117,
+            43.378715
+          ]
+        ]
+      },
+      "properties": {
+        "leisure": "bleachers",
+        "id": 1566307901,
+        "type": "way",
+        "_id_closest": 11216194559,
+        "_type_closest": "node",
+        "_lat_closest": 43.3787152,
+        "_lon_closest": -79.7561166,
+        "_distance_meters": 478.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.755609,
+            43.383038
+          ],
+          [
+            -79.756117,
+            43.378715
+          ]
+        ]
+      },
+      "properties": {
+        "leisure": "bleachers",
+        "id": 1566307902,
+        "type": "way",
+        "_id_closest": 11216194559,
+        "_type_closest": "node",
+        "_lat_closest": 43.3787152,
+        "_lon_closest": -79.7561166,
+        "_distance_meters": 482.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.755265,
+            43.383953
+          ],
+          [
+            -79.756117,
+            43.378715
+          ]
+        ]
+      },
+      "properties": {
+        "leisure": "pitch",
+        "id": 1566307903,
+        "type": "way",
+        "_id_closest": 11216194559,
+        "_type_closest": "node",
+        "_lat_closest": 43.3787152,
+        "_lon_closest": -79.7561166,
+        "_distance_meters": 586.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.755455,
+            43.38173
+          ],
+          [
+            -79.756117,
+            43.378715
+          ]
+        ]
+      },
+      "properties": {
+        "leisure": "bleachers",
+        "id": 1566307904,
+        "type": "way",
+        "_id_closest": 11216194559,
+        "_type_closest": "node",
+        "_lat_closest": 43.3787152,
+        "_lon_closest": -79.7561166,
+        "_distance_meters": 339.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.755528,
+            43.381652
+          ],
+          [
+            -79.756117,
+            43.378715
+          ]
+        ]
+      },
+      "properties": {
+        "leisure": "bleachers",
+        "id": 1566307905,
+        "type": "way",
+        "_id_closest": 11216194559,
+        "_type_closest": "node",
+        "_lat_closest": 43.3787152,
+        "_lon_closest": -79.7561166,
+        "_distance_meters": 330.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.755588,
+            43.381585
+          ],
+          [
+            -79.756117,
+            43.378715
+          ]
+        ]
+      },
+      "properties": {
+        "leisure": "bleachers",
+        "id": 1566307906,
+        "type": "way",
+        "_id_closest": 11216194559,
+        "_type_closest": "node",
+        "_lat_closest": 43.3787152,
+        "_lon_closest": -79.7561166,
+        "_distance_meters": 322.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.754779,
+            43.38129
+          ],
+          [
+            -79.756117,
+            43.378715
+          ]
+        ]
+      },
+      "properties": {
+        "leisure": "bleachers",
+        "id": 1566307907,
+        "type": "way",
+        "_id_closest": 11216194559,
+        "_type_closest": "node",
+        "_lat_closest": 43.3787152,
+        "_lon_closest": -79.7561166,
+        "_distance_meters": 306.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.756656,
+            43.382296
+          ],
+          [
+            -79.756117,
+            43.378715
+          ]
+        ]
+      },
+      "properties": {
+        "leisure": "bleachers",
+        "id": 1566309607,
+        "type": "way",
+        "_id_closest": 11216194559,
+        "_type_closest": "node",
+        "_lat_closest": 43.3787152,
+        "_lon_closest": -79.7561166,
+        "_distance_meters": 401.0,
+        "_under_one_minute": 0,
+        "_under_two_minute": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.7561,
+            43.380237
+          ],
+          [
+            -79.756117,
+            43.378715
+          ]
+        ]
+      },
+      "properties": {
+        "leisure": "bleachers",
+        "id": 1566309608,
+        "type": "way",
+        "_id_closest": 11216194559,
+        "_type_closest": "node",
+        "_lat_closest": 43.3787152,
+        "_lon_closest": -79.7561166,
+        "_distance_meters": 169.0,
         "_under_one_minute": 0,
         "_under_two_minute": 0
       }
